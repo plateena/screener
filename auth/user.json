@@ -1,0 +1,210 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.1233870911.1700553622",
+      "domain": ".isaham.my",
+      "path": "/",
+      "expires": 1735113629.69013,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1700553621873.1176044176",
+      "domain": ".isaham.my",
+      "path": "/",
+      "expires": 1708329629,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sb",
+      "value": "l2NcZV3Wbfu_uv3hllvlGSXt",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1735113626.422353,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wd",
+      "value": "600x679",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1701158424,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datr",
+      "value": "mGNcZVg4o5ZCxvH72TtTZOPc",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1735113626.422253,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c_user",
+      "value": "100000127726689",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1732089626.422383,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "xs",
+      "value": "17%3A_dDbDodhwe6FYQ%3A2%3A1700553624%3A-1%3A3442",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1732089626.42242,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fr",
+      "value": "0wvxZKG7xTS74znMR.AWU2Qi6QL4pNqmCnNcknFu1A_mE.BlXGOY.cW.AAA.0.0.BlXGOY.AWX4K4HftY4",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1708329626.422443,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fbm_1633541996905384",
+      "value": "base_domain=.www.isaham.my",
+      "domain": ".www.isaham.my",
+      "path": "/",
+      "expires": 1732176027,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fbsr_1633541996905384",
+      "value": "n5HOtpxlTLDDLBNoRQysyPx4-HOSxED1Eo9jEAEIHjU.eyJ1c2VyX2lkIjoiNTMyODg0MTcwNzEzMDAzNCIsImNvZGUiOiJBUUFDTTZHaW5oZVg5a2dLRFoxR0lHejBpX0pMZzFnN2prdTVDOXhTOVVxWE1TNng3QXJmbEpiVmJPRnp6YnFXa3VaUVhFeURvYjRlcW04RGdMaDVNUTdMOVQ3ZmxTT1NnZXhZa3hfMTQ3NjFWc1RyTkVVN04xZmtFZDRfODlmVmRfdnVkOXRVOVd4cTEzU3lILUpVci1RckpkenluaTRSMFJxRGpQMlU0bXQyTkRJUFhFV0lDbWs0NHdqNGVmcm5pRVZYbHUzTDdsakRsX1dveHhjVm9OVG54dFNDY19lcWg5Qllha2FtNVpMWDdlbkJDUkFjUTFPMXF6aFdEdnZJUFU5ZklrN1RkYjN1QnFKMzR5VmJUUXdOaHZRMzBUcDNHUDFrOGxKX2lRWEhjQm1SdS1CZFFuVHd4cllhS0szV0Qwd3ZlVmUwZWFpNzZYOTBEVGg3OXVpNm1KNnBZT2pmU3dYREJJWjYzMXExT1EiLCJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImlzc3VlZF9hdCI6MTcwMDU1MzYyN30",
+      "domain": ".www.isaham.my",
+      "path": "/",
+      "expires": 1700560800,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "username",
+      "value": "\"!qcxWYnVztscA8uc0o8ZyfA==?gAWVIQAAAAAAAACMCHVzZXJuYW1llIwQNTMyODg0MTcwNzEzMDAzNJSGlC4=\"",
+      "domain": "www.isaham.my",
+      "path": "/",
+      "expires": 1701504028.72634,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "fb_name",
+      "value": "\"!LOAQe/rBWgNQqrsA60n/eQ==?gAWVIQAAAAAAAACMB2ZiX25hbWWUjBFaYWludW5kaW4gTWF0IE5vcpSGlC4=\"",
+      "domain": "www.isaham.my",
+      "path": "/",
+      "expires": 1701504028.726398,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tg_name",
+      "value": "\"!oD9wzq7Xz22xZ7fDDSeZVA==?gAWVEAAAAAAAAACMB3RnX25hbWWUjACUhpQu\"",
+      "domain": "www.isaham.my",
+      "path": "/",
+      "expires": 1701504028.726416,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "login",
+      "value": "\"!TRp63jVWmZuCXxECpDeBvQ==?gAWVFgAAAAAAAACMBWxvZ2lulIwIZmFjZWJvb2uUhpQu\"",
+      "domain": "www.isaham.my",
+      "path": "/",
+      "expires": 1701504028.726448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "date",
+      "value": "\"!3f0t9Etn9sVX4k332IktVg==?gAWVIAAAAAAAAACMBGRhdGWUjBMxMS8yMS8yMDIzIDE2OjAwOjI4lIaULg==\"",
+      "domain": "www.isaham.my",
+      "path": "/",
+      "expires": 1701504028.726477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "iuid",
+      "value": "\"!Zrtev5Wrcw0RUCT7Lw/gZg==?gAWVFgAAAAAAAACMBGl1aWSUjAkxMDA4NjM0MDeUhpQu\"",
+      "domain": "www.isaham.my",
+      "path": "/",
+      "expires": 1701504028.726492,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_DW13Z5Q5XD",
+      "value": "GS1.1.1700553621.1.1.1700553629.0.0.0",
+      "domain": ".isaham.my",
+      "path": "/",
+      "expires": 1735113629.689412,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.isaham.my",
+      "localStorage": [
+        {
+          "name": "fblst_1633541996905384",
+          "value": "EAAXNsqJzg6gBOxkp3On5UHwPr26cpY1dZCevVxWX9qGS6QtZA9arT97pWfSJdngH6i95CtQaqJkShlE8jHQAjDXD3swMRtVetCVAKSDSmONj1Q9Qsg6W3mdENoA0ZATaBZCgntG6JfyXoEpXe9nEm4Fod5eAhDAsMpdcvXroSh82P6yFrNifr9cguQhW7s4af2sZD"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1700553621869"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.facebook.com",
+      "localStorage": [
+        {
+          "name": "signal_flush_timestamp",
+          "value": "1700553624671"
+        },
+        {
+          "name": "Session",
+          "value": "e9dkdk:1700553662700"
+        },
+        {
+          "name": "hb_timestamp",
+          "value": "1700553624600"
+        }
+      ]
+    }
+  ]
+}
