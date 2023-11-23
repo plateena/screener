@@ -36,21 +36,23 @@ export const updateStockListings = async () => {
                 const code = row.querySelector('td:nth-child(2)').innerText;
                 const shariah = !!row.querySelector('td:first-child span');
 
-                return { name, code, shariah };
-            });
+                return {
+                    [name]: { code, shariah }
+                }
         });
+    });
 
-        // Write data to a JSON file
-        await fs.writeFile('data/companies.json', JSON.stringify(data, null, 4), 'utf-8');
-        console.log('JSON data written to file successfully.');
-    } catch (error) {
-        console.error('Error during scraping:', error.message);
-    } finally {
-        // Close the browser in case of success or failure
-        if (browser) {
-            await browser.close();
-        }
+    // Write data to a JSON file
+    await fs.writeFile('data/companies.json', JSON.stringify(data, null, 4), 'utf-8');
+    console.log('JSON data written to file successfully.');
+} catch (error) {
+    console.error('Error during scraping:', error.message);
+} finally {
+    // Close the browser in case of success or failure
+    if (browser) {
+        await browser.close();
     }
+}
 };
 
 export default updateStockListings

@@ -1,5327 +1,6392 @@
 [
     {
-        "name": "AAX",
-        "code": "5238",
-        "shariah": true
+        "AAX": {
+            "code": "5238",
+            "shariah": true
+        }
     },
     {
-        "name": "SCGM",
-        "code": "7247",
-        "shariah": true
+        "SCGM": {
+            "code": "7247",
+            "shariah": true
+        }
     },
     {
-        "name": "CARLSBG",
-        "code": "2836",
-        "shariah": false
+        "CARLSBG": {
+            "code": "2836",
+            "shariah": false
+        }
     },
     {
-        "name": "EPICON",
-        "code": "4847",
-        "shariah": true
+        "EPICON": {
+            "code": "4847",
+            "shariah": true
+        }
     },
     {
-        "name": "HEIM",
-        "code": "3255",
-        "shariah": false
+        "HEIM": {
+            "code": "3255",
+            "shariah": false
+        }
     },
     {
-        "name": "NESTLE",
-        "code": "4707",
-        "shariah": true
+        "NESTLE": {
+            "code": "4707",
+            "shariah": true
+        }
     },
     {
-        "name": "EATECH",
-        "code": "5259",
-        "shariah": true
+        "EATECH": {
+            "code": "5259",
+            "shariah": true
+        }
     },
     {
-        "name": "UCHITEC",
-        "code": "7100",
-        "shariah": true
+        "UCHITEC": {
+            "code": "7100",
+            "shariah": true
+        }
     },
     {
-        "name": "TIMECOM",
-        "code": "5031",
-        "shariah": true
+        "TIMECOM": {
+            "code": "5031",
+            "shariah": true
+        }
     },
     {
-        "name": "M&G",
-        "code": "5078",
-        "shariah": true
+        "M&G": {
+            "code": "5078",
+            "shariah": true
+        }
     },
     {
-        "name": "SKHAWK",
-        "code": "03049",
-        "shariah": true
+        "SKHAWK": {
+            "code": "03049",
+            "shariah": true
+        }
     },
     {
-        "name": "POLYDM",
-        "code": "03031",
-        "shariah": true
+        "POLYDM": {
+            "code": "03031",
+            "shariah": true
+        }
     },
     {
-        "name": "BAT",
-        "code": "4162",
-        "shariah": false
+        "BAT": {
+            "code": "4162",
+            "shariah": false
+        }
     },
     {
-        "name": "TOMYPAK",
-        "code": "7285",
-        "shariah": false
+        "TOMYPAK": {
+            "code": "7285",
+            "shariah": false
+        }
     },
     {
-        "name": "RPLANET",
-        "code": "03036",
-        "shariah": false
+        "RPLANET": {
+            "code": "03036",
+            "shariah": false
+        }
     },
     {
-        "name": "BAUTO",
-        "code": "5248",
-        "shariah": true
+        "BAUTO": {
+            "code": "5248",
+            "shariah": true
+        }
     },
     {
-        "name": "SEM",
-        "code": "5250",
-        "shariah": false
+        "SEM": {
+            "code": "5250",
+            "shariah": false
+        }
     },
     {
-        "name": "AHEALTH",
-        "code": "7090",
-        "shariah": true
+        "AHEALTH": {
+            "code": "7090",
+            "shariah": true
+        }
     },
     {
-        "name": "CRG",
-        "code": "03016",
-        "shariah": true
+        "CRG": {
+            "code": "03016",
+            "shariah": true
+        }
     },
     {
-        "name": "ENEST",
-        "code": "03025",
-        "shariah": true
+        "ENEST": {
+            "code": "03025",
+            "shariah": true
+        }
     },
     {
-        "name": "IDBTECH",
-        "code": "03030",
-        "shariah": false
+        "IDBTECH": {
+            "code": "03030",
+            "shariah": false
+        }
     },
     {
-        "name": "ICON",
-        "code": "5255",
-        "shariah": true
+        "ICON": {
+            "code": "5255",
+            "shariah": true
+        }
     },
     {
-        "name": "SLIC",
-        "code": "03008",
-        "shariah": true
+        "SLIC": {
+            "code": "03008",
+            "shariah": true
+        }
     },
     {
-        "name": "OMESTI",
-        "code": "9008",
-        "shariah": true
+        "OMESTI": {
+            "code": "9008",
+            "shariah": true
+        }
     },
     {
-        "name": "MHCARE",
-        "code": "03005",
-        "shariah": true
+        "MHCARE": {
+            "code": "03005",
+            "shariah": true
+        }
     },
     {
-        "name": "SAPRES",
-        "code": "4596",
-        "shariah": true
+        "SAPRES": {
+            "code": "4596",
+            "shariah": true
+        }
     },
     {
-        "name": "AXIATA",
-        "code": "6888",
-        "shariah": true
+        "AXIATA": {
+            "code": "6888",
+            "shariah": true
+        }
     },
     {
-        "name": "COMCORP",
-        "code": "7195",
-        "shariah": true
+        "COMCORP": {
+            "code": "7195",
+            "shariah": true
+        }
     },
     {
-        "name": "MMIS",
-        "code": "03027",
-        "shariah": true
+        "MMIS": {
+            "code": "03027",
+            "shariah": true
+        }
     },
     {
-        "name": "TOPVISN",
-        "code": "03013",
-        "shariah": true
+        "TOPVISN": {
+            "code": "03013",
+            "shariah": true
+        }
     },
     {
-        "name": "AMWAY",
-        "code": "6351",
-        "shariah": true
+        "AMWAY": {
+            "code": "6351",
+            "shariah": true
+        }
     },
     {
-        "name": "HIBISCS",
-        "code": "5199",
-        "shariah": true
+        "HIBISCS": {
+            "code": "5199",
+            "shariah": true
+        }
     },
     {
-        "name": "INFOM",
-        "code": "0265",
-        "shariah": true
+        "INFOM": {
+            "code": "0265",
+            "shariah": true
+        }
     },
     {
-        "name": "LSH",
-        "code": "03047",
-        "shariah": true
+        "LSH": {
+            "code": "03047",
+            "shariah": true
+        }
     },
     {
-        "name": "WELLCAL",
-        "code": "7231",
-        "shariah": true
+        "WELLCAL": {
+            "code": "7231",
+            "shariah": true
+        }
     },
     {
-        "name": "SEERS",
-        "code": "03009",
-        "shariah": true
+        "SEERS": {
+            "code": "03009",
+            "shariah": true
+        }
     },
     {
-        "name": "MRDIY",
-        "code": "5296",
-        "shariah": true
+        "MRDIY": {
+            "code": "5296",
+            "shariah": true
+        }
     },
     {
-        "name": "BURSA",
-        "code": "1818",
-        "shariah": true
+        "BURSA": {
+            "code": "1818",
+            "shariah": true
+        }
     },
     {
-        "name": "GASMSIA",
-        "code": "5209",
-        "shariah": true
+        "GASMSIA": {
+            "code": "5209",
+            "shariah": true
+        }
     },
     {
-        "name": "1TECH",
-        "code": "03041",
-        "shariah": false
+        "1TECH": {
+            "code": "03041",
+            "shariah": false
+        }
     },
     {
-        "name": "HUPSENG",
-        "code": "5024",
-        "shariah": true
+        "HUPSENG": {
+            "code": "5024",
+            "shariah": true
+        }
     },
     {
-        "name": "JISHAN",
-        "code": "03040",
-        "shariah": true
+        "JISHAN": {
+            "code": "03040",
+            "shariah": true
+        }
     },
     {
-        "name": "KGB",
-        "code": "0151",
-        "shariah": true
+        "KGB": {
+            "code": "0151",
+            "shariah": true
+        }
     },
     {
-        "name": "SCICOM",
-        "code": "0099",
-        "shariah": false
+        "SCICOM": {
+            "code": "0099",
+            "shariah": false
+        }
     },
     {
-        "name": "AURORA",
-        "code": "03037",
-        "shariah": true
+        "AURORA": {
+            "code": "03037",
+            "shariah": true
+        }
     },
     {
-        "name": "INFOTEC",
-        "code": "0253",
-        "shariah": false
+        "INFOTEC": {
+            "code": "0253",
+            "shariah": false
+        }
     },
     {
-        "name": "NPS",
-        "code": "03006",
-        "shariah": true
+        "NPS": {
+            "code": "03006",
+            "shariah": true
+        }
     },
     {
-        "name": "ELSOFT",
-        "code": "0090",
-        "shariah": true
+        "ELSOFT": {
+            "code": "0090",
+            "shariah": true
+        }
     },
     {
-        "name": "FOCUSP",
-        "code": "0157",
-        "shariah": true
+        "FOCUSP": {
+            "code": "0157",
+            "shariah": true
+        }
     },
     {
-        "name": "HUMEIND",
-        "code": "5000",
-        "shariah": false
+        "HUMEIND": {
+            "code": "5000",
+            "shariah": false
+        }
     },
     {
-        "name": "MBL",
-        "code": "5152",
-        "shariah": true
+        "MBL": {
+            "code": "5152",
+            "shariah": true
+        }
     },
     {
-        "name": "WPRTS",
-        "code": "5246",
-        "shariah": true
+        "WPRTS": {
+            "code": "5246",
+            "shariah": true
+        }
     },
     {
-        "name": "OPTIMAX",
-        "code": "0222",
-        "shariah": true
+        "OPTIMAX": {
+            "code": "0222",
+            "shariah": true
+        }
     },
     {
-        "name": "DYNAFNT",
-        "code": "03046",
-        "shariah": false
+        "DYNAFNT": {
+            "code": "03046",
+            "shariah": false
+        }
     },
     {
-        "name": "KOTRA",
-        "code": "0002",
-        "shariah": true
+        "KOTRA": {
+            "code": "0002",
+            "shariah": true
+        }
     },
     {
-        "name": "ECA",
-        "code": "0267",
-        "shariah": true
+        "ECA": {
+            "code": "0267",
+            "shariah": true
+        }
     },
     {
-        "name": "TEOSENG",
-        "code": "7252",
-        "shariah": false
+        "TEOSENG": {
+            "code": "7252",
+            "shariah": false
+        }
     },
     {
-        "name": "SUNMOW",
-        "code": "03050",
-        "shariah": true
+        "SUNMOW": {
+            "code": "03050",
+            "shariah": true
+        }
     },
     {
-        "name": "UTDPLT",
-        "code": "2089",
-        "shariah": true
+        "UTDPLT": {
+            "code": "2089",
+            "shariah": true
+        }
     },
     {
-        "name": "SDS",
-        "code": "0212",
-        "shariah": true
+        "SDS": {
+            "code": "0212",
+            "shariah": true
+        }
     },
     {
-        "name": "TPC",
-        "code": "7176",
-        "shariah": true
+        "TPC": {
+            "code": "7176",
+            "shariah": true
+        }
     },
     {
-        "name": "CIHLDG",
-        "code": "2828",
-        "shariah": true
+        "CIHLDG": {
+            "code": "2828",
+            "shariah": true
+        }
     },
     {
-        "name": "SJC",
-        "code": "9431",
-        "shariah": true
+        "SJC": {
+            "code": "9431",
+            "shariah": true
+        }
     },
     {
-        "name": "REXIT",
-        "code": "0106",
-        "shariah": false
+        "REXIT": {
+            "code": "0106",
+            "shariah": false
+        }
     },
     {
-        "name": "DSONIC",
-        "code": "5216",
-        "shariah": true
+        "DSONIC": {
+            "code": "5216",
+            "shariah": true
+        }
     },
     {
-        "name": "ICTZONE",
-        "code": "03038",
-        "shariah": true
+        "ICTZONE": {
+            "code": "03038",
+            "shariah": true
+        }
     },
     {
-        "name": "ASTRA",
-        "code": "03032",
-        "shariah": false
+        "ASTRA": {
+            "code": "03032",
+            "shariah": false
+        }
     },
     {
-        "name": "VLB",
-        "code": "0273",
-        "shariah": true
+        "VLB": {
+            "code": "0273",
+            "shariah": true
+        }
     },
     {
-        "name": "PADINI",
-        "code": "7052",
-        "shariah": true
+        "PADINI": {
+            "code": "7052",
+            "shariah": true
+        }
     },
     {
-        "name": "DCHCARE",
-        "code": "0283",
-        "shariah": false
+        "DCHCARE": {
+            "code": "0283",
+            "shariah": false
+        }
     },
     {
-        "name": "GREATEC",
-        "code": "0208",
-        "shariah": true
+        "GREATEC": {
+            "code": "0208",
+            "shariah": true
+        }
     },
     {
-        "name": "BABA",
-        "code": "03012",
-        "shariah": true
+        "BABA": {
+            "code": "03012",
+            "shariah": true
+        }
     },
     {
-        "name": "PTRB",
-        "code": "0260",
-        "shariah": true
+        "PTRB": {
+            "code": "0260",
+            "shariah": true
+        }
     },
     {
-        "name": "COASTAL",
-        "code": "5071",
-        "shariah": false
+        "COASTAL": {
+            "code": "5071",
+            "shariah": false
+        }
     },
     {
-        "name": "TAKAFUL",
-        "code": "6139",
-        "shariah": true
+        "TAKAFUL": {
+            "code": "6139",
+            "shariah": true
+        }
     },
     {
-        "name": "SFPTECH",
-        "code": "0251",
-        "shariah": true
+        "SFPTECH": {
+            "code": "0251",
+            "shariah": true
+        }
     },
     {
-        "name": "HARBOUR",
-        "code": "2062",
-        "shariah": true
+        "HARBOUR": {
+            "code": "2062",
+            "shariah": true
+        }
     },
     {
-        "name": "SNS",
-        "code": "0259",
-        "shariah": true
+        "SNS": {
+            "code": "0259",
+            "shariah": true
+        }
     },
     {
-        "name": "REDTONE",
-        "code": "0032",
-        "shariah": true
+        "REDTONE": {
+            "code": "0032",
+            "shariah": true
+        }
     },
     {
-        "name": "CETECH",
-        "code": "03024",
-        "shariah": true
+        "CETECH": {
+            "code": "03024",
+            "shariah": true
+        }
     },
     {
-        "name": "TECGUAN",
-        "code": "7439",
-        "shariah": true
+        "TECGUAN": {
+            "code": "7439",
+            "shariah": true
+        }
     },
     {
-        "name": "MAXIS",
-        "code": "6012",
-        "shariah": true
+        "MAXIS": {
+            "code": "6012",
+            "shariah": true
+        }
     },
     {
-        "name": "SUPREME",
-        "code": "03018",
-        "shariah": true
+        "SUPREME": {
+            "code": "03018",
+            "shariah": true
+        }
     },
     {
-        "name": "SPTOTO",
-        "code": "1562",
-        "shariah": false
+        "SPTOTO": {
+            "code": "1562",
+            "shariah": false
+        }
     },
     {
-        "name": "FBBHD",
-        "code": "03026",
-        "shariah": true
+        "FBBHD": {
+            "code": "03026",
+            "shariah": true
+        }
     },
     {
-        "name": "ALCOM",
-        "code": "2674",
-        "shariah": false
+        "ALCOM": {
+            "code": "2674",
+            "shariah": false
+        }
     },
     {
-        "name": "L&PBHD",
-        "code": "0268",
-        "shariah": true
+        "L&PBHD": {
+            "code": "0268",
+            "shariah": true
+        }
     },
     {
-        "name": "MYEG",
-        "code": "0138",
-        "shariah": true
+        "MYEG": {
+            "code": "0138",
+            "shariah": true
+        }
     },
     {
-        "name": "ADB",
-        "code": "0276",
-        "shariah": false
+        "ADB": {
+            "code": "0276",
+            "shariah": false
+        }
     },
     {
-        "name": "FRONTKN",
-        "code": "0128",
-        "shariah": true
+        "FRONTKN": {
+            "code": "0128",
+            "shariah": true
+        }
     },
     {
-        "name": "MFGROUP",
-        "code": "03015",
-        "shariah": true
+        "MFGROUP": {
+            "code": "03015",
+            "shariah": true
+        }
     },
     {
-        "name": "CCK",
-        "code": "7035",
-        "shariah": true
+        "CCK": {
+            "code": "7035",
+            "shariah": true
+        }
     },
     {
-        "name": "PECCA",
-        "code": "5271",
-        "shariah": true
+        "PECCA": {
+            "code": "5271",
+            "shariah": true
+        }
     },
     {
-        "name": "TM",
-        "code": "4863",
-        "shariah": true
+        "TM": {
+            "code": "4863",
+            "shariah": true
+        }
     },
     {
-        "name": "SUNCON",
-        "code": "5263",
-        "shariah": true
+        "SUNCON": {
+            "code": "5263",
+            "shariah": true
+        }
     },
     {
-        "name": "FPI",
-        "code": "9172",
-        "shariah": true
+        "FPI": {
+            "code": "9172",
+            "shariah": true
+        }
     },
     {
-        "name": "ITMAX",
-        "code": "5309",
-        "shariah": true
+        "ITMAX": {
+            "code": "5309",
+            "shariah": true
+        }
     },
     {
-        "name": "PMETAL",
-        "code": "8869",
-        "shariah": true
+        "PMETAL": {
+            "code": "8869",
+            "shariah": true
+        }
     },
     {
-        "name": "SYNERGY",
-        "code": "0279",
-        "shariah": true
+        "SYNERGY": {
+            "code": "0279",
+            "shariah": true
+        }
     },
     {
-        "name": "GREENYB",
-        "code": "0136",
-        "shariah": true
+        "GREENYB": {
+            "code": "0136",
+            "shariah": true
+        }
     },
     {
-        "name": "RCECAP",
-        "code": "9296",
-        "shariah": true
+        "RCECAP": {
+            "code": "9296",
+            "shariah": true
+        }
     },
     {
-        "name": "CAB",
-        "code": "7174",
-        "shariah": true
+        "CAB": {
+            "code": "7174",
+            "shariah": true
+        }
     },
     {
-        "name": "KMLOONG",
-        "code": "5027",
-        "shariah": true
+        "KMLOONG": {
+            "code": "5027",
+            "shariah": true
+        }
     },
     {
-        "name": "LEESK",
-        "code": "8079",
-        "shariah": true
+        "LEESK": {
+            "code": "8079",
+            "shariah": true
+        }
     },
     {
-        "name": "GENETEC",
-        "code": "0104",
-        "shariah": true
+        "GENETEC": {
+            "code": "0104",
+            "shariah": true
+        }
     },
     {
-        "name": "PRKCORP",
-        "code": "8346",
-        "shariah": true
+        "PRKCORP": {
+            "code": "8346",
+            "shariah": true
+        }
     },
     {
-        "name": "GAMUDA",
-        "code": "5398",
-        "shariah": true
+        "GAMUDA": {
+            "code": "5398",
+            "shariah": true
+        }
     },
     {
-        "name": "UTAMA",
-        "code": "03043",
-        "shariah": true
+        "UTAMA": {
+            "code": "03043",
+            "shariah": true
+        }
     },
     {
-        "name": "DXN",
-        "code": "5318",
-        "shariah": true
+        "DXN": {
+            "code": "5318",
+            "shariah": true
+        }
     },
     {
-        "name": "TAS",
-        "code": "5149",
-        "shariah": false
+        "TAS": {
+            "code": "5149",
+            "shariah": false
+        }
     },
     {
-        "name": "SSB8",
-        "code": "0045",
-        "shariah": true
+        "SSB8": {
+            "code": "0045",
+            "shariah": true
+        }
     },
     {
-        "name": "NATGATE",
-        "code": "0270",
-        "shariah": true
+        "NATGATE": {
+            "code": "0270",
+            "shariah": true
+        }
     },
     {
-        "name": "ECM",
-        "code": "2143",
-        "shariah": false
+        "ECM": {
+            "code": "2143",
+            "shariah": false
+        }
     },
     {
-        "name": "UMC",
-        "code": "0256",
-        "shariah": true
+        "UMC": {
+            "code": "0256",
+            "shariah": true
+        }
     },
     {
-        "name": "MPSOL",
-        "code": "03019",
-        "shariah": true
+        "MPSOL": {
+            "code": "03019",
+            "shariah": true
+        }
     },
     {
-        "name": "RGB",
-        "code": "0037",
-        "shariah": false
+        "RGB": {
+            "code": "0037",
+            "shariah": false
+        }
     },
     {
-        "name": "VITROX",
-        "code": "0097",
-        "shariah": true
+        "VITROX": {
+            "code": "0097",
+            "shariah": true
+        }
     },
     {
-        "name": "HARISON",
-        "code": "5008",
-        "shariah": false
+        "HARISON": {
+            "code": "5008",
+            "shariah": false
+        }
     },
     {
-        "name": "F&N",
-        "code": "3689",
-        "shariah": true
+        "F&N": {
+            "code": "3689",
+            "shariah": true
+        }
     },
     {
-        "name": "MASTER",
-        "code": "7029",
-        "shariah": true
+        "MASTER": {
+            "code": "7029",
+            "shariah": true
+        }
     },
     {
-        "name": "BJFOOD",
-        "code": "5196",
-        "shariah": true
+        "BJFOOD": {
+            "code": "5196",
+            "shariah": true
+        }
     },
     {
-        "name": "PETDAG",
-        "code": "5681",
-        "shariah": true
+        "PETDAG": {
+            "code": "5681",
+            "shariah": true
+        }
     },
     {
-        "name": "AGMO",
-        "code": "0258",
-        "shariah": true
+        "AGMO": {
+            "code": "0258",
+            "shariah": true
+        }
     },
     {
-        "name": "AJIYA",
-        "code": "7609",
-        "shariah": true
+        "AJIYA": {
+            "code": "7609",
+            "shariah": true
+        }
     },
     {
-        "name": "KAB",
-        "code": "0193",
-        "shariah": true
+        "KAB": {
+            "code": "0193",
+            "shariah": true
+        }
     },
     {
-        "name": "GPHAROS",
-        "code": "5649",
-        "shariah": true
+        "GPHAROS": {
+            "code": "5649",
+            "shariah": true
+        }
     },
     {
-        "name": "YTLPOWR",
-        "code": "6742",
-        "shariah": false
+        "YTLPOWR": {
+            "code": "6742",
+            "shariah": false
+        }
     },
     {
-        "name": "SEG",
-        "code": "9792",
-        "shariah": true
+        "SEG": {
+            "code": "9792",
+            "shariah": true
+        }
     },
     {
-        "name": "CLOUDPT",
-        "code": "0277",
-        "shariah": true
+        "CLOUDPT": {
+            "code": "0277",
+            "shariah": true
+        }
     },
     {
-        "name": "INNO",
-        "code": "6262",
-        "shariah": true
+        "INNO": {
+            "code": "6262",
+            "shariah": true
+        }
     },
     {
-        "name": "BVLH",
-        "code": "03042",
-        "shariah": true
+        "BVLH": {
+            "code": "03042",
+            "shariah": true
+        }
     },
     {
-        "name": "PWROOT",
-        "code": "7237",
-        "shariah": true
+        "PWROOT": {
+            "code": "7237",
+            "shariah": true
+        }
     },
     {
-        "name": "LPI",
-        "code": "8621",
-        "shariah": false
+        "LPI": {
+            "code": "8621",
+            "shariah": false
+        }
     },
     {
-        "name": "RTSTECH",
-        "code": "03039",
-        "shariah": true
+        "RTSTECH": {
+            "code": "03039",
+            "shariah": true
+        }
     },
     {
-        "name": "EFRAME",
-        "code": "0227",
-        "shariah": true
+        "EFRAME": {
+            "code": "0227",
+            "shariah": true
+        }
     },
     {
-        "name": "SKYWLD",
-        "code": "5315",
-        "shariah": true
+        "SKYWLD": {
+            "code": "5315",
+            "shariah": true
+        }
     },
     {
-        "name": "LAGENDA",
-        "code": "7179",
-        "shariah": true
+        "LAGENDA": {
+            "code": "7179",
+            "shariah": true
+        }
     },
     {
-        "name": "SKPRES",
-        "code": "7155",
-        "shariah": true
+        "SKPRES": {
+            "code": "7155",
+            "shariah": true
+        }
     },
     {
-        "name": "YINSON",
-        "code": "7293",
-        "shariah": false
+        "YINSON": {
+            "code": "7293",
+            "shariah": false
+        }
     },
     {
-        "name": "SYGROUP",
-        "code": "5173",
-        "shariah": true
+        "SYGROUP": {
+            "code": "5173",
+            "shariah": true
+        }
     },
     {
-        "name": "ANCOMNY",
-        "code": "4758",
-        "shariah": true
+        "ANCOMNY": {
+            "code": "4758",
+            "shariah": true
+        }
     },
     {
-        "name": "OPENSYS",
-        "code": "0040",
-        "shariah": false
+        "OPENSYS": {
+            "code": "0040",
+            "shariah": false
+        }
     },
     {
-        "name": "CTOS",
-        "code": "5301",
-        "shariah": true
+        "CTOS": {
+            "code": "5301",
+            "shariah": true
+        }
     },
     {
-        "name": "SGBHD",
-        "code": "03033",
-        "shariah": true
+        "SGBHD": {
+            "code": "03033",
+            "shariah": true
+        }
     },
     {
-        "name": "MTAG",
-        "code": "0213",
-        "shariah": true
+        "MTAG": {
+            "code": "0213",
+            "shariah": true
+        }
     },
     {
-        "name": "IGBREIT",
-        "code": "5227",
-        "shariah": false
+        "IGBREIT": {
+            "code": "5227",
+            "shariah": false
+        }
     },
     {
-        "name": "APOLLO",
-        "code": "6432",
-        "shariah": true
+        "APOLLO": {
+            "code": "6432",
+            "shariah": true
+        }
     },
     {
-        "name": "AMEDIA",
-        "code": "0159",
-        "shariah": false
+        "AMEDIA": {
+            "code": "0159",
+            "shariah": false
+        }
     },
     {
-        "name": "RANHILL",
-        "code": "5272",
-        "shariah": true
+        "RANHILL": {
+            "code": "5272",
+            "shariah": true
+        }
     },
     {
-        "name": "MNHLDG",
-        "code": "0245",
-        "shariah": true
+        "MNHLDG": {
+            "code": "0245",
+            "shariah": true
+        }
     },
     {
-        "name": "GFM",
-        "code": "0039",
-        "shariah": true
+        "GFM": {
+            "code": "0039",
+            "shariah": true
+        }
     },
     {
-        "name": "VSTECS",
-        "code": "5162",
-        "shariah": true
+        "VSTECS": {
+            "code": "5162",
+            "shariah": true
+        }
     },
     {
-        "name": "UMW",
-        "code": "4588",
-        "shariah": true
+        "UMW": {
+            "code": "4588",
+            "shariah": true
+        }
     },
     {
-        "name": "MSC",
-        "code": "5916",
-        "shariah": false
+        "MSC": {
+            "code": "5916",
+            "shariah": false
+        }
     },
     {
-        "name": "ATECH",
-        "code": "5302",
-        "shariah": true
+        "ATECH": {
+            "code": "5302",
+            "shariah": true
+        }
     },
     {
-        "name": "ALLIANZ",
-        "code": "1163",
-        "shariah": false
+        "ALLIANZ": {
+            "code": "1163",
+            "shariah": false
+        }
     },
     {
-        "name": "HEXTAR",
-        "code": "5151",
-        "shariah": true
+        "HEXTAR": {
+            "code": "5151",
+            "shariah": true
+        }
     },
     {
-        "name": "LGMS",
-        "code": "0249",
-        "shariah": true
+        "LGMS": {
+            "code": "0249",
+            "shariah": true
+        }
     },
     {
-        "name": "CNERGEN",
-        "code": "0246",
-        "shariah": true
+        "CNERGEN": {
+            "code": "0246",
+            "shariah": true
+        }
     },
     {
-        "name": "HLIND",
-        "code": "3301",
-        "shariah": true
+        "HLIND": {
+            "code": "3301",
+            "shariah": true
+        }
     },
     {
-        "name": "SEB",
-        "code": "5163",
-        "shariah": true
+        "SEB": {
+            "code": "5163",
+            "shariah": true
+        }
     },
     {
-        "name": "PENTA",
-        "code": "7160",
-        "shariah": true
+        "PENTA": {
+            "code": "7160",
+            "shariah": true
+        }
     },
     {
-        "name": "PETGAS",
-        "code": "6033",
-        "shariah": true
+        "PETGAS": {
+            "code": "6033",
+            "shariah": true
+        }
     },
     {
-        "name": "KEINHIN",
-        "code": "7199",
-        "shariah": true
+        "KEINHIN": {
+            "code": "7199",
+            "shariah": true
+        }
     },
     {
-        "name": "LIIHEN",
-        "code": "7089",
-        "shariah": true
+        "LIIHEN": {
+            "code": "7089",
+            "shariah": true
+        }
     },
     {
-        "name": "SENFONG",
-        "code": "5308",
-        "shariah": true
+        "SENFONG": {
+            "code": "5308",
+            "shariah": true
+        }
     },
     {
-        "name": "UWC",
-        "code": "5292",
-        "shariah": true
+        "UWC": {
+            "code": "5292",
+            "shariah": true
+        }
     },
     {
-        "name": "PANTECH",
-        "code": "5125",
-        "shariah": true
+        "PANTECH": {
+            "code": "5125",
+            "shariah": true
+        }
     },
     {
-        "name": "MCEHLDG",
-        "code": "7004",
-        "shariah": true
+        "MCEHLDG": {
+            "code": "7004",
+            "shariah": true
+        }
     },
     {
-        "name": "HHRG",
-        "code": "0175",
-        "shariah": true
+        "HHRG": {
+            "code": "0175",
+            "shariah": true
+        }
     },
     {
-        "name": "SCIENTX",
-        "code": "4731",
-        "shariah": true
+        "SCIENTX": {
+            "code": "4731",
+            "shariah": true
+        }
     },
     {
-        "name": "QL",
-        "code": "7084",
-        "shariah": true
+        "QL": {
+            "code": "7084",
+            "shariah": true
+        }
     },
     {
-        "name": "PIE",
-        "code": "7095",
-        "shariah": true
+        "PIE": {
+            "code": "7095",
+            "shariah": true
+        }
     },
     {
-        "name": "BONIA",
-        "code": "9288",
-        "shariah": true
+        "BONIA": {
+            "code": "9288",
+            "shariah": true
+        }
     },
     {
-        "name": "KPPROP",
-        "code": "7077",
-        "shariah": true
+        "KPPROP": {
+            "code": "7077",
+            "shariah": true
+        }
     },
     {
-        "name": "SKBSHUT",
-        "code": "7115",
-        "shariah": true
+        "SKBSHUT": {
+            "code": "7115",
+            "shariah": true
+        }
     },
     {
-        "name": "HEXIND",
-        "code": "0161",
-        "shariah": true
+        "HEXIND": {
+            "code": "0161",
+            "shariah": true
+        }
     },
     {
-        "name": "CEB",
-        "code": "5311",
-        "shariah": false
+        "CEB": {
+            "code": "5311",
+            "shariah": false
+        }
     },
     {
-        "name": "CCIB",
-        "code": "03053",
-        "shariah": true
+        "CCIB": {
+            "code": "03053",
+            "shariah": true
+        }
     },
     {
-        "name": "MAGNI",
-        "code": "7087",
-        "shariah": true
+        "MAGNI": {
+            "code": "7087",
+            "shariah": true
+        }
     },
     {
-        "name": "PBBANK",
-        "code": "1295",
-        "shariah": false
+        "PBBANK": {
+            "code": "1295",
+            "shariah": false
+        }
     },
     {
-        "name": "CENGILD",
-        "code": "0243",
-        "shariah": true
+        "CENGILD": {
+            "code": "0243",
+            "shariah": true
+        }
     },
     {
-        "name": "BETA",
-        "code": "0263",
-        "shariah": true
+        "BETA": {
+            "code": "0263",
+            "shariah": true
+        }
     },
     {
-        "name": "DKSH",
-        "code": "5908",
-        "shariah": true
+        "DKSH": {
+            "code": "5908",
+            "shariah": true
+        }
     },
     {
-        "name": "AMEREIT",
-        "code": "5307",
-        "shariah": true
+        "AMEREIT": {
+            "code": "5307",
+            "shariah": true
+        }
     },
     {
-        "name": "TOMEI",
-        "code": "7230",
-        "shariah": true
+        "TOMEI": {
+            "code": "7230",
+            "shariah": true
+        }
     },
     {
-        "name": "SUNVIEW",
-        "code": "0262",
-        "shariah": true
+        "SUNVIEW": {
+            "code": "0262",
+            "shariah": true
+        }
     },
     {
-        "name": "QES",
-        "code": "0196",
-        "shariah": true
+        "QES": {
+            "code": "0196",
+            "shariah": true
+        }
     },
     {
-        "name": "TASCO",
-        "code": "5140",
-        "shariah": true
+        "TASCO": {
+            "code": "5140",
+            "shariah": true
+        }
     },
     {
-        "name": "MFCB",
-        "code": "3069",
-        "shariah": true
+        "MFCB": {
+            "code": "3069",
+            "shariah": true
+        }
     },
     {
-        "name": "MBMR",
-        "code": "5983",
-        "shariah": true
+        "MBMR": {
+            "code": "5983",
+            "shariah": true
+        }
     },
     {
-        "name": "ARMADA",
-        "code": "5210",
-        "shariah": false
+        "ARMADA": {
+            "code": "5210",
+            "shariah": false
+        }
     },
     {
-        "name": "CARIMIN",
-        "code": "5257",
-        "shariah": true
+        "CARIMIN": {
+            "code": "5257",
+            "shariah": true
+        }
     },
     {
-        "name": "BPPLAS",
-        "code": "5100",
-        "shariah": true
+        "BPPLAS": {
+            "code": "5100",
+            "shariah": true
+        }
     },
     {
-        "name": "KYM",
-        "code": "8362",
-        "shariah": true
+        "KYM": {
+            "code": "8362",
+            "shariah": true
+        }
     },
     {
-        "name": "LHI",
-        "code": "6633",
-        "shariah": false
+        "LHI": {
+            "code": "6633",
+            "shariah": false
+        }
     },
     {
-        "name": "KITACON",
-        "code": "5310",
-        "shariah": true
+        "KITACON": {
+            "code": "5310",
+            "shariah": true
+        }
     },
     {
-        "name": "PELIKAN",
-        "code": "5231",
-        "shariah": true
+        "PELIKAN": {
+            "code": "5231",
+            "shariah": true
+        }
     },
     {
-        "name": "MATRIX",
-        "code": "5236",
-        "shariah": true
+        "MATRIX": {
+            "code": "5236",
+            "shariah": true
+        }
     },
     {
-        "name": "YOCB",
-        "code": "5159",
-        "shariah": true
+        "YOCB": {
+            "code": "5159",
+            "shariah": true
+        }
     },
     {
-        "name": "AME",
-        "code": "5293",
-        "shariah": true
+        "AME": {
+            "code": "5293",
+            "shariah": true
+        }
     },
     {
-        "name": "INARI",
-        "code": "0166",
-        "shariah": true
+        "INARI": {
+            "code": "0166",
+            "shariah": true
+        }
     },
     {
-        "name": "BERTAM",
-        "code": "9814",
-        "shariah": true
+        "BERTAM": {
+            "code": "9814",
+            "shariah": true
+        }
     },
     {
-        "name": "PMCORP",
-        "code": "4081",
-        "shariah": false
+        "PMCORP": {
+            "code": "4081",
+            "shariah": false
+        }
     },
     {
-        "name": "KTC",
-        "code": "0180",
-        "shariah": true
+        "KTC": {
+            "code": "0180",
+            "shariah": true
+        }
     },
     {
-        "name": "ULICORP",
-        "code": "7133",
-        "shariah": true
+        "ULICORP": {
+            "code": "7133",
+            "shariah": true
+        }
     },
     {
-        "name": "MESB",
-        "code": "7234",
-        "shariah": false
+        "MESB": {
+            "code": "7234",
+            "shariah": false
+        }
     },
     {
-        "name": "DELEUM",
-        "code": "5132",
-        "shariah": true
+        "DELEUM": {
+            "code": "5132",
+            "shariah": true
+        }
     },
     {
-        "name": "PA",
-        "code": "7225",
-        "shariah": true
+        "PA": {
+            "code": "7225",
+            "shariah": true
+        }
     },
     {
-        "name": "TAANN",
-        "code": "5012",
-        "shariah": true
+        "TAANN": {
+            "code": "5012",
+            "shariah": true
+        }
     },
     {
-        "name": "FCW",
-        "code": "2755",
-        "shariah": false
+        "FCW": {
+            "code": "2755",
+            "shariah": false
+        }
     },
     {
-        "name": "JTIASA",
-        "code": "4383",
-        "shariah": true
+        "JTIASA": {
+            "code": "4383",
+            "shariah": true
+        }
     },
     {
-        "name": "PANAMY",
-        "code": "3719",
-        "shariah": false
+        "PANAMY": {
+            "code": "3719",
+            "shariah": false
+        }
     },
     {
-        "name": "PENERGY",
-        "code": "5133",
-        "shariah": true
+        "PENERGY": {
+            "code": "5133",
+            "shariah": true
+        }
     },
     {
-        "name": "OPPSTAR",
-        "code": "0275",
-        "shariah": false
+        "OPPSTAR": {
+            "code": "0275",
+            "shariah": false
+        }
     },
     {
-        "name": "KLCI1XI",
-        "code": "0835EA",
-        "shariah": false
+        "KLCI1XI": {
+            "code": "0835EA",
+            "shariah": false
+        }
     },
     {
-        "name": "KERJAYA",
-        "code": "7161",
-        "shariah": true
+        "KERJAYA": {
+            "code": "7161",
+            "shariah": true
+        }
     },
     {
-        "name": "PWRWELL",
-        "code": "0217",
-        "shariah": true
+        "PWRWELL": {
+            "code": "0217",
+            "shariah": true
+        }
     },
     {
-        "name": "FSBM",
-        "code": "9377",
-        "shariah": true
+        "FSBM": {
+            "code": "9377",
+            "shariah": true
+        }
     },
     {
-        "name": "SLVEST",
-        "code": "0215",
-        "shariah": true
+        "SLVEST": {
+            "code": "0215",
+            "shariah": true
+        }
     },
     {
-        "name": "PANDA",
-        "code": "0290",
-        "shariah": false
+        "PANDA": {
+            "code": "0290",
+            "shariah": false
+        }
     },
     {
-        "name": "CORAZA",
-        "code": "0240",
-        "shariah": true
+        "CORAZA": {
+            "code": "0240",
+            "shariah": true
+        }
     },
     {
-        "name": "HLBANK",
-        "code": "5819",
-        "shariah": false
+        "HLBANK": {
+            "code": "5819",
+            "shariah": false
+        }
     },
     {
-        "name": "GTRONIC",
-        "code": "7022",
-        "shariah": true
+        "GTRONIC": {
+            "code": "7022",
+            "shariah": true
+        }
     },
     {
-        "name": "OIB",
-        "code": "5827",
-        "shariah": true
+        "OIB": {
+            "code": "5827",
+            "shariah": true
+        }
     },
     {
-        "name": "HAPSENG",
-        "code": "3034",
-        "shariah": false
+        "HAPSENG": {
+            "code": "3034",
+            "shariah": false
+        }
     },
     {
-        "name": "WEGMANS",
-        "code": "0197",
-        "shariah": true
+        "WEGMANS": {
+            "code": "0197",
+            "shariah": true
+        }
     },
     {
-        "name": "PPHB",
-        "code": "8273",
-        "shariah": true
+        "PPHB": {
+            "code": "8273",
+            "shariah": true
+        }
     },
     {
-        "name": "MESTRON",
-        "code": "0207",
-        "shariah": true
+        "MESTRON": {
+            "code": "0207",
+            "shariah": true
+        }
     },
     {
-        "name": "MICROLN",
-        "code": "0126",
-        "shariah": true
+        "MICROLN": {
+            "code": "0126",
+            "shariah": true
+        }
     },
     {
-        "name": "JAYCORP",
-        "code": "7152",
-        "shariah": true
+        "JAYCORP": {
+            "code": "7152",
+            "shariah": true
+        }
     },
     {
-        "name": "SAM",
-        "code": "9822",
-        "shariah": true
+        "SAM": {
+            "code": "9822",
+            "shariah": true
+        }
     },
     {
-        "name": "HLFG",
-        "code": "1082",
-        "shariah": false
+        "HLFG": {
+            "code": "1082",
+            "shariah": false
+        }
     },
     {
-        "name": "HEKTAR",
-        "code": "5121",
-        "shariah": false
+        "HEKTAR": {
+            "code": "5121",
+            "shariah": false
+        }
     },
     {
-        "name": "POHKONG",
-        "code": "5080",
-        "shariah": true
+        "POHKONG": {
+            "code": "5080",
+            "shariah": true
+        }
     },
     {
-        "name": "ESCERAM",
-        "code": "0100",
-        "shariah": true
+        "ESCERAM": {
+            "code": "0100",
+            "shariah": true
+        }
     },
     {
-        "name": "MOBILIA",
-        "code": "0229",
-        "shariah": true
+        "MOBILIA": {
+            "code": "0229",
+            "shariah": true
+        }
     },
     {
-        "name": "RHBBANK",
-        "code": "1066",
-        "shariah": false
+        "RHBBANK": {
+            "code": "1066",
+            "shariah": false
+        }
     },
     {
-        "name": "EDEN",
-        "code": "7471",
-        "shariah": true
+        "EDEN": {
+            "code": "7471",
+            "shariah": true
+        }
     },
     {
-        "name": "TTVHB",
-        "code": "0272",
-        "shariah": true
+        "TTVHB": {
+            "code": "0272",
+            "shariah": true
+        }
     },
     {
-        "name": "DANCO",
-        "code": "5276",
-        "shariah": true
+        "DANCO": {
+            "code": "5276",
+            "shariah": true
+        }
     },
     {
-        "name": "TGUAN",
-        "code": "7034",
-        "shariah": true
+        "TGUAN": {
+            "code": "7034",
+            "shariah": true
+        }
     },
     {
-        "name": "OSKVI",
-        "code": "0053",
-        "shariah": false
+        "OSKVI": {
+            "code": "0053",
+            "shariah": false
+        }
     },
     {
-        "name": "CAMRES",
-        "code": "7128",
-        "shariah": true
+        "CAMRES": {
+            "code": "7128",
+            "shariah": true
+        }
     },
     {
-        "name": "HANDAL",
-        "code": "7253",
-        "shariah": true
+        "HANDAL": {
+            "code": "7253",
+            "shariah": true
+        }
     },
     {
-        "name": "YTL",
-        "code": "4677",
-        "shariah": false
+        "YTL": {
+            "code": "4677",
+            "shariah": false
+        }
     },
     {
-        "name": "MAYBANK",
-        "code": "1155",
-        "shariah": false
+        "MAYBANK": {
+            "code": "1155",
+            "shariah": false
+        }
     },
     {
-        "name": "OFI",
-        "code": "7107",
-        "shariah": true
+        "OFI": {
+            "code": "7107",
+            "shariah": true
+        }
     },
     {
-        "name": "TGL",
-        "code": "9369",
-        "shariah": false
+        "TGL": {
+            "code": "9369",
+            "shariah": false
+        }
     },
     {
-        "name": "FIAMMA",
-        "code": "6939",
-        "shariah": true
+        "FIAMMA": {
+            "code": "6939",
+            "shariah": true
+        }
     },
     {
-        "name": "FIHB",
-        "code": "8605",
-        "shariah": true
+        "FIHB": {
+            "code": "8605",
+            "shariah": true
+        }
     },
     {
-        "name": "MUIPROP",
-        "code": "3913",
-        "shariah": true
+        "MUIPROP": {
+            "code": "3913",
+            "shariah": true
+        }
     },
     {
-        "name": "YXPM",
-        "code": "0250",
-        "shariah": true
+        "YXPM": {
+            "code": "0250",
+            "shariah": true
+        }
     },
     {
-        "name": "ALSREIT",
-        "code": "5269",
-        "shariah": true
+        "ALSREIT": {
+            "code": "5269",
+            "shariah": true
+        }
     },
     {
-        "name": "FGV",
-        "code": "5222",
-        "shariah": true
+        "FGV": {
+            "code": "5222",
+            "shariah": true
+        }
     },
     {
-        "name": "BMGREEN",
-        "code": "0168",
-        "shariah": true
+        "BMGREEN": {
+            "code": "0168",
+            "shariah": true
+        }
     },
     {
-        "name": "FM",
-        "code": "7210",
-        "shariah": true
+        "FM": {
+            "code": "7210",
+            "shariah": true
+        }
     },
     {
-        "name": "YENHER",
-        "code": "5300",
-        "shariah": false
+        "YENHER": {
+            "code": "5300",
+            "shariah": false
+        }
     },
     {
-        "name": "KPJ",
-        "code": "5878",
-        "shariah": true
+        "KPJ": {
+            "code": "5878",
+            "shariah": true
+        }
     },
     {
-        "name": "SAMAIDEN",
-        "code": "0223",
-        "shariah": true
+        "SAMAIDEN": {
+            "code": "0223",
+            "shariah": true
+        }
     },
     {
-        "name": "PTRANS",
-        "code": "0186",
-        "shariah": true
+        "PTRANS": {
+            "code": "0186",
+            "shariah": true
+        }
     },
     {
-        "name": "IOICORP",
-        "code": "1961",
-        "shariah": true
+        "IOICORP": {
+            "code": "1961",
+            "shariah": true
+        }
     },
     {
-        "name": "MARCO",
-        "code": "3514",
-        "shariah": false
+        "MARCO": {
+            "code": "3514",
+            "shariah": false
+        }
     },
     {
-        "name": "VIS",
-        "code": "0120",
-        "shariah": false
+        "VIS": {
+            "code": "0120",
+            "shariah": false
+        }
     },
     {
-        "name": "PRG",
-        "code": "7168",
-        "shariah": true
+        "PRG": {
+            "code": "7168",
+            "shariah": true
+        }
     },
     {
-        "name": "IBRACO",
-        "code": "5084",
-        "shariah": true
+        "IBRACO": {
+            "code": "5084",
+            "shariah": true
+        }
     },
     {
-        "name": "KIPREIT",
-        "code": "5280",
-        "shariah": false
+        "KIPREIT": {
+            "code": "5280",
+            "shariah": false
+        }
     },
     {
-        "name": "CHINHIN",
-        "code": "5273",
-        "shariah": true
+        "CHINHIN": {
+            "code": "5273",
+            "shariah": true
+        }
     },
     {
-        "name": "T7GLOBAL",
-        "code": "7228",
-        "shariah": true
+        "T7GLOBAL": {
+            "code": "7228",
+            "shariah": true
+        }
     },
     {
-        "name": "BTECH",
-        "code": "0011",
-        "shariah": true
+        "BTECH": {
+            "code": "0011",
+            "shariah": true
+        }
     },
     {
-        "name": "SCIPACK",
-        "code": "8125",
-        "shariah": true
+        "SCIPACK": {
+            "code": "8125",
+            "shariah": true
+        }
     },
     {
-        "name": "UNIMECH",
-        "code": "7091",
-        "shariah": true
+        "UNIMECH": {
+            "code": "7091",
+            "shariah": true
+        }
     },
     {
-        "name": "AMBANK",
-        "code": "1015",
-        "shariah": false
+        "AMBANK": {
+            "code": "1015",
+            "shariah": false
+        }
     },
     {
-        "name": "RGTECH",
-        "code": "0202",
-        "shariah": true
+        "RGTECH": {
+            "code": "0202",
+            "shariah": true
+        }
     },
     {
-        "name": "OVH",
-        "code": "0220",
-        "shariah": true
+        "OVH": {
+            "code": "0220",
+            "shariah": true
+        }
     },
     {
-        "name": "PEKAT",
-        "code": "0233",
-        "shariah": true
+        "PEKAT": {
+            "code": "0233",
+            "shariah": true
+        }
     },
     {
-        "name": "ECOMATE",
-        "code": "0239",
-        "shariah": true
+        "ECOMATE": {
+            "code": "0239",
+            "shariah": true
+        }
     },
     {
-        "name": "HOMERIZ",
-        "code": "5160",
-        "shariah": true
+        "HOMERIZ": {
+            "code": "5160",
+            "shariah": true
+        }
     },
     {
-        "name": "CIMB",
-        "code": "1023",
-        "shariah": false
+        "CIMB": {
+            "code": "1023",
+            "shariah": false
+        }
     },
     {
-        "name": "ABMB",
-        "code": "2488",
-        "shariah": false
+        "ABMB": {
+            "code": "2488",
+            "shariah": false
+        }
     },
     {
-        "name": "DPHARMA",
-        "code": "7148",
-        "shariah": true
+        "DPHARMA": {
+            "code": "7148",
+            "shariah": true
+        }
     },
     {
-        "name": "SENHENG",
-        "code": "5305",
-        "shariah": true
+        "SENHENG": {
+            "code": "5305",
+            "shariah": true
+        }
     },
     {
-        "name": "PAVREIT",
-        "code": "5212",
-        "shariah": false
+        "PAVREIT": {
+            "code": "5212",
+            "shariah": false
+        }
     },
     {
-        "name": "DIALOG",
-        "code": "7277",
-        "shariah": true
+        "DIALOG": {
+            "code": "7277",
+            "shariah": true
+        }
     },
     {
-        "name": "YSPSAH",
-        "code": "7178",
-        "shariah": true
+        "YSPSAH": {
+            "code": "7178",
+            "shariah": true
+        }
     },
     {
-        "name": "TEXCYCL",
-        "code": "0089",
-        "shariah": true
+        "TEXCYCL": {
+            "code": "0089",
+            "shariah": true
+        }
     },
     {
-        "name": "AIMFLEX",
-        "code": "0209",
-        "shariah": true
+        "AIMFLEX": {
+            "code": "0209",
+            "shariah": true
+        }
     },
     {
-        "name": "SNOWFIT",
-        "code": "03054",
-        "shariah": true
+        "SNOWFIT": {
+            "code": "03054",
+            "shariah": true
+        }
     },
     {
-        "name": "DAYANG",
-        "code": "5141",
-        "shariah": true
+        "DAYANG": {
+            "code": "5141",
+            "shariah": true
+        }
     },
     {
-        "name": "LBS",
-        "code": "5789",
-        "shariah": true
+        "LBS": {
+            "code": "5789",
+            "shariah": true
+        }
     },
     {
-        "name": "ASTRO",
-        "code": "6399",
-        "shariah": false
+        "ASTRO": {
+            "code": "6399",
+            "shariah": false
+        }
     },
     {
-        "name": "PCHEM",
-        "code": "5183",
-        "shariah": true
+        "PCHEM": {
+            "code": "5183",
+            "shariah": true
+        }
     },
     {
-        "name": "KSL",
-        "code": "5038",
-        "shariah": true
+        "KSL": {
+            "code": "5038",
+            "shariah": true
+        }
     },
     {
-        "name": "INNATURE",
-        "code": "5295",
-        "shariah": true
+        "INNATURE": {
+            "code": "5295",
+            "shariah": true
+        }
     },
     {
-        "name": "PETRONM",
-        "code": "3042",
-        "shariah": true
+        "PETRONM": {
+            "code": "3042",
+            "shariah": true
+        }
     },
     {
-        "name": "INTA",
-        "code": "0192",
-        "shariah": true
+        "INTA": {
+            "code": "0192",
+            "shariah": true
+        }
     },
     {
-        "name": "SIME",
-        "code": "4197",
-        "shariah": true
+        "SIME": {
+            "code": "4197",
+            "shariah": true
+        }
     },
     {
-        "name": "APPASIA",
-        "code": "0119",
-        "shariah": true
+        "APPASIA": {
+            "code": "0119",
+            "shariah": true
+        }
     },
     {
-        "name": "IRIS",
-        "code": "0010",
-        "shariah": true
+        "IRIS": {
+            "code": "0010",
+            "shariah": true
+        }
     },
     {
-        "name": "MNRB",
-        "code": "6459",
-        "shariah": false
+        "MNRB": {
+            "code": "6459",
+            "shariah": false
+        }
     },
     {
-        "name": "VS",
-        "code": "6963",
-        "shariah": true
+        "VS": {
+            "code": "6963",
+            "shariah": true
+        }
     },
     {
-        "name": "HCK",
-        "code": "7105",
-        "shariah": true
+        "HCK": {
+            "code": "7105",
+            "shariah": true
+        }
     },
     {
-        "name": "SWIFT",
-        "code": "5303",
-        "shariah": true
+        "SWIFT": {
+            "code": "5303",
+            "shariah": true
+        }
     },
     {
-        "name": "RAMSSOL",
-        "code": "0236",
-        "shariah": true
+        "RAMSSOL": {
+            "code": "0236",
+            "shariah": true
+        }
     },
     {
-        "name": "KSENG",
-        "code": "3476",
-        "shariah": false
+        "KSENG": {
+            "code": "3476",
+            "shariah": false
+        }
     },
     {
-        "name": "SPRITZER",
-        "code": "7103",
-        "shariah": true
+        "SPRITZER": {
+            "code": "7103",
+            "shariah": true
+        }
     },
     {
-        "name": "NOVA",
-        "code": "0201",
-        "shariah": true
+        "NOVA": {
+            "code": "0201",
+            "shariah": true
+        }
     },
     {
-        "name": "FIBON",
-        "code": "0149",
-        "shariah": false
+        "FIBON": {
+            "code": "0149",
+            "shariah": false
+        }
     },
     {
-        "name": "JCBNEXT",
-        "code": "0058",
-        "shariah": false
+        "JCBNEXT": {
+            "code": "0058",
+            "shariah": false
+        }
     },
     {
-        "name": "JFTECH",
-        "code": "0146",
-        "shariah": true
+        "JFTECH": {
+            "code": "0146",
+            "shariah": true
+        }
     },
     {
-        "name": "FAREAST",
-        "code": "5029",
-        "shariah": true
+        "FAREAST": {
+            "code": "5029",
+            "shariah": true
+        }
     },
     {
-        "name": "SIMEPLT",
-        "code": "5285",
-        "shariah": true
+        "SIMEPLT": {
+            "code": "5285",
+            "shariah": true
+        }
     },
     {
-        "name": "ABLEGLOB",
-        "code": "7167",
-        "shariah": true
+        "ABLEGLOB": {
+            "code": "7167",
+            "shariah": true
+        }
     },
     {
-        "name": "ARANK",
-        "code": "7214",
-        "shariah": true
+        "ARANK": {
+            "code": "7214",
+            "shariah": true
+        }
     },
     {
-        "name": "EDELTEQ",
-        "code": "0278",
-        "shariah": true
+        "EDELTEQ": {
+            "code": "0278",
+            "shariah": true
+        }
     },
     {
-        "name": "OSK",
-        "code": "5053",
-        "shariah": false
+        "OSK": {
+            "code": "5053",
+            "shariah": false
+        }
     },
     {
-        "name": "CMSB",
-        "code": "2852",
-        "shariah": true
+        "CMSB": {
+            "code": "2852",
+            "shariah": true
+        }
     },
     {
-        "name": "HAILY",
-        "code": "0237",
-        "shariah": true
+        "HAILY": {
+            "code": "0237",
+            "shariah": true
+        }
     },
     {
-        "name": "THPLANT",
-        "code": "5112",
-        "shariah": true
+        "THPLANT": {
+            "code": "5112",
+            "shariah": true
+        }
     },
     {
-        "name": "AEONCR",
-        "code": "5139",
-        "shariah": false
+        "AEONCR": {
+            "code": "5139",
+            "shariah": false
+        }
     },
     {
-        "name": "CHGP",
-        "code": "7187",
-        "shariah": true
+        "CHGP": {
+            "code": "7187",
+            "shariah": true
+        }
     },
     {
-        "name": "WCEHB",
-        "code": "3565",
-        "shariah": false
+        "WCEHB": {
+            "code": "3565",
+            "shariah": false
+        }
     },
     {
-        "name": "TALIWRK",
-        "code": "8524",
-        "shariah": true
+        "TALIWRK": {
+            "code": "8524",
+            "shariah": true
+        }
     },
     {
-        "name": "IHH",
-        "code": "5225",
-        "shariah": true
+        "IHH": {
+            "code": "5225",
+            "shariah": true
+        }
     },
     {
-        "name": "EG",
-        "code": "8907",
-        "shariah": true
+        "EG": {
+            "code": "8907",
+            "shariah": true
+        }
     },
     {
-        "name": "LBALUM",
-        "code": "9326",
-        "shariah": true
+        "LBALUM": {
+            "code": "9326",
+            "shariah": true
+        }
     },
     {
-        "name": "DSS",
-        "code": "0269",
-        "shariah": true
+        "DSS": {
+            "code": "0269",
+            "shariah": true
+        }
     },
     {
-        "name": "LTKM",
-        "code": "7085",
-        "shariah": true
+        "LTKM": {
+            "code": "7085",
+            "shariah": true
+        }
     },
     {
-        "name": "PGB",
-        "code": "0091",
-        "shariah": true
+        "PGB": {
+            "code": "0091",
+            "shariah": true
+        }
     },
     {
-        "name": "SAPIND",
-        "code": "7811",
-        "shariah": true
+        "SAPIND": {
+            "code": "7811",
+            "shariah": true
+        }
     },
     {
-        "name": "3A",
-        "code": "0012",
-        "shariah": true
+        "3A": {
+            "code": "0012",
+            "shariah": true
+        }
     },
     {
-        "name": "SCOMNET",
-        "code": "0001",
-        "shariah": true
+        "SCOMNET": {
+            "code": "0001",
+            "shariah": true
+        }
     },
     {
-        "name": "PPJACK",
-        "code": "0242",
-        "shariah": false
+        "PPJACK": {
+            "code": "0242",
+            "shariah": false
+        }
     },
     {
-        "name": "ELKDESA",
-        "code": "5228",
-        "shariah": false
+        "ELKDESA": {
+            "code": "5228",
+            "shariah": false
+        }
     },
     {
-        "name": "AJI",
-        "code": "2658",
-        "shariah": true
+        "AJI": {
+            "code": "2658",
+            "shariah": true
+        }
     },
     {
-        "name": "CEKD",
-        "code": "0238",
-        "shariah": true
+        "CEKD": {
+            "code": "0238",
+            "shariah": true
+        }
     },
     {
-        "name": "MAXIM",
-        "code": "4022",
-        "shariah": true
+        "MAXIM": {
+            "code": "4022",
+            "shariah": true
+        }
     },
     {
-        "name": "NHFATT",
-        "code": "7060",
-        "shariah": true
+        "NHFATT": {
+            "code": "7060",
+            "shariah": true
+        }
     },
     {
-        "name": "UZMA",
-        "code": "7250",
-        "shariah": true
+        "UZMA": {
+            "code": "7250",
+            "shariah": true
+        }
     },
     {
-        "name": "TANCO",
-        "code": "2429",
-        "shariah": true
+        "TANCO": {
+            "code": "2429",
+            "shariah": true
+        }
     },
     {
-        "name": "RHONEMA",
-        "code": "5278",
-        "shariah": false
+        "RHONEMA": {
+            "code": "5278",
+            "shariah": false
+        }
     },
     {
-        "name": "MGB",
-        "code": "7595",
-        "shariah": true
+        "MGB": {
+            "code": "7595",
+            "shariah": true
+        }
     },
     {
-        "name": "KKB",
-        "code": "9466",
-        "shariah": true
+        "KKB": {
+            "code": "9466",
+            "shariah": true
+        }
     },
     {
-        "name": "MINOX",
-        "code": "0288",
-        "shariah": true
+        "MINOX": {
+            "code": "0288",
+            "shariah": true
+        }
     },
     {
-        "name": "KAWAN",
-        "code": "7216",
-        "shariah": true
+        "KAWAN": {
+            "code": "7216",
+            "shariah": true
+        }
     },
     {
-        "name": "HSSEB",
-        "code": "0185",
-        "shariah": true
+        "HSSEB": {
+            "code": "0185",
+            "shariah": true
+        }
     },
     {
-        "name": "AYER",
-        "code": "2305",
-        "shariah": true
+        "AYER": {
+            "code": "2305",
+            "shariah": true
+        }
     },
     {
-        "name": "GOLDETF",
-        "code": "0828EA",
-        "shariah": true
+        "GOLDETF": {
+            "code": "0828EA",
+            "shariah": true
+        }
     },
     {
-        "name": "KUB",
-        "code": "6874",
-        "shariah": true
+        "KUB": {
+            "code": "6874",
+            "shariah": true
+        }
     },
     {
-        "name": "POHUAT",
-        "code": "7088",
-        "shariah": true
+        "POHUAT": {
+            "code": "7088",
+            "shariah": true
+        }
     },
     {
-        "name": "BIMB",
-        "code": "5258",
-        "shariah": true
+        "BIMB": {
+            "code": "5258",
+            "shariah": true
+        }
     },
     {
-        "name": "SWKPLNT",
-        "code": "5135",
-        "shariah": true
+        "SWKPLNT": {
+            "code": "5135",
+            "shariah": true
+        }
     },
     {
-        "name": "CDB",
-        "code": "6947",
-        "shariah": true
+        "CDB": {
+            "code": "6947",
+            "shariah": true
+        }
     },
     {
-        "name": "HIL",
-        "code": "8443",
-        "shariah": true
+        "HIL": {
+            "code": "8443",
+            "shariah": true
+        }
     },
     {
-        "name": "PRIVA",
-        "code": "0123",
-        "shariah": true
+        "PRIVA": {
+            "code": "0123",
+            "shariah": true
+        }
     },
     {
-        "name": "PRLEXUS",
-        "code": "8966",
-        "shariah": true
+        "PRLEXUS": {
+            "code": "8966",
+            "shariah": true
+        }
     },
     {
-        "name": "PGF",
-        "code": "8117",
-        "shariah": true
+        "PGF": {
+            "code": "8117",
+            "shariah": true
+        }
     },
     {
-        "name": "DLADY",
-        "code": "3026",
-        "shariah": true
+        "DLADY": {
+            "code": "3026",
+            "shariah": true
+        }
     },
     {
-        "name": "NCT",
-        "code": "0056",
-        "shariah": true
+        "NCT": {
+            "code": "0056",
+            "shariah": true
+        }
     },
     {
-        "name": "EFORCE",
-        "code": "0065",
-        "shariah": true
+        "EFORCE": {
+            "code": "0065",
+            "shariah": true
+        }
     },
     {
-        "name": "ANALABS",
-        "code": "7083",
-        "shariah": false
+        "ANALABS": {
+            "code": "7083",
+            "shariah": false
+        }
     },
     {
-        "name": "SASBADI",
-        "code": "5252",
-        "shariah": true
+        "SASBADI": {
+            "code": "5252",
+            "shariah": true
+        }
     },
     {
-        "name": "EDARAN",
-        "code": "5036",
-        "shariah": true
+        "EDARAN": {
+            "code": "5036",
+            "shariah": true
+        }
     },
     {
-        "name": "SOP",
-        "code": "5126",
-        "shariah": true
+        "SOP": {
+            "code": "5126",
+            "shariah": true
+        }
     },
     {
-        "name": "AIRPORT",
-        "code": "5014",
-        "shariah": false
+        "AIRPORT": {
+            "code": "5014",
+            "shariah": false
+        }
     },
     {
-        "name": "PPB",
-        "code": "4065",
-        "shariah": true
+        "PPB": {
+            "code": "4065",
+            "shariah": true
+        }
     },
     {
-        "name": "MELATI",
-        "code": "5129",
-        "shariah": true
+        "MELATI": {
+            "code": "5129",
+            "shariah": true
+        }
     },
     {
-        "name": "FAVCO",
-        "code": "7229",
-        "shariah": true
+        "FAVCO": {
+            "code": "7229",
+            "shariah": true
+        }
     },
     {
-        "name": "PERDANA",
-        "code": "7108",
-        "shariah": true
+        "PERDANA": {
+            "code": "7108",
+            "shariah": true
+        }
     },
     {
-        "name": "BIG",
-        "code": "7005",
-        "shariah": true
+        "BIG": {
+            "code": "7005",
+            "shariah": true
+        }
     },
     {
-        "name": "FFB",
-        "code": "5306",
-        "shariah": true
+        "FFB": {
+            "code": "5306",
+            "shariah": true
+        }
     },
     {
-        "name": "IDEAL",
-        "code": "9687",
-        "shariah": true
+        "IDEAL": {
+            "code": "9687",
+            "shariah": true
+        }
     },
     {
-        "name": "SAMCHEM",
-        "code": "5147",
-        "shariah": false
+        "SAMCHEM": {
+            "code": "5147",
+            "shariah": false
+        }
     },
     {
-        "name": "XOXTECH",
-        "code": "0017",
-        "shariah": true
+        "XOXTECH": {
+            "code": "0017",
+            "shariah": true
+        }
     },
     {
-        "name": "FPGROUP",
-        "code": "5277",
-        "shariah": true
+        "FPGROUP": {
+            "code": "5277",
+            "shariah": true
+        }
     },
     {
-        "name": "N2N",
-        "code": "0108",
-        "shariah": true
+        "N2N": {
+            "code": "0108",
+            "shariah": true
+        }
     },
     {
-        "name": "TECHBND",
-        "code": "5289",
-        "shariah": true
+        "TECHBND": {
+            "code": "5289",
+            "shariah": true
+        }
     },
     {
-        "name": "INGENIEU",
-        "code": "5178",
-        "shariah": true
+        "INGENIEU": {
+            "code": "5178",
+            "shariah": true
+        }
     },
     {
-        "name": "SIGN",
-        "code": "7246",
-        "shariah": true
+        "SIGN": {
+            "code": "7246",
+            "shariah": true
+        }
     },
     {
-        "name": "SCGBHD",
-        "code": "0225",
-        "shariah": true
+        "SCGBHD": {
+            "code": "0225",
+            "shariah": true
+        }
     },
     {
-        "name": "ATRIUM",
-        "code": "5130",
-        "shariah": false
+        "ATRIUM": {
+            "code": "5130",
+            "shariah": false
+        }
     },
     {
-        "name": "MEDIA",
-        "code": "4502",
-        "shariah": false
+        "MEDIA": {
+            "code": "4502",
+            "shariah": false
+        }
     },
     {
-        "name": "IOIPG",
-        "code": "5249",
-        "shariah": false
+        "IOIPG": {
+            "code": "5249",
+            "shariah": false
+        }
     },
     {
-        "name": "IQGROUP",
-        "code": "5107",
-        "shariah": true
+        "IQGROUP": {
+            "code": "5107",
+            "shariah": true
+        }
     },
     {
-        "name": "BIPORT",
-        "code": "5032",
-        "shariah": true
+        "BIPORT": {
+            "code": "5032",
+            "shariah": true
+        }
     },
     {
-        "name": "RL",
-        "code": "0219",
-        "shariah": true
+        "RL": {
+            "code": "0219",
+            "shariah": true
+        }
     },
     {
-        "name": "SEDANIA",
-        "code": "0178",
-        "shariah": true
+        "SEDANIA": {
+            "code": "0178",
+            "shariah": true
+        }
     },
     {
-        "name": "CHINTEK",
-        "code": "1929",
-        "shariah": false
+        "CHINTEK": {
+            "code": "1929",
+            "shariah": false
+        }
     },
     {
-        "name": "SUNREIT",
-        "code": "5176",
-        "shariah": false
+        "SUNREIT": {
+            "code": "5176",
+            "shariah": false
+        }
     },
     {
-        "name": "SUNWAY",
-        "code": "5211",
-        "shariah": true
+        "SUNWAY": {
+            "code": "5211",
+            "shariah": true
+        }
     },
     {
-        "name": "THETA",
-        "code": "9075",
-        "shariah": true
+        "THETA": {
+            "code": "9075",
+            "shariah": true
+        }
     },
     {
-        "name": "BKAWAN",
-        "code": "1899",
-        "shariah": true
+        "BKAWAN": {
+            "code": "1899",
+            "shariah": true
+        }
     },
     {
-        "name": "KPS",
-        "code": "5843",
-        "shariah": true
+        "KPS": {
+            "code": "5843",
+            "shariah": true
+        }
     },
     {
-        "name": "AXREIT",
-        "code": "5106",
-        "shariah": true
+        "AXREIT": {
+            "code": "5106",
+            "shariah": true
+        }
     },
     {
-        "name": "MSTGOLF",
-        "code": "5316",
-        "shariah": true
+        "MSTGOLF": {
+            "code": "5316",
+            "shariah": true
+        }
     },
     {
-        "name": "HHHCORP",
-        "code": "0160",
-        "shariah": true
+        "HHHCORP": {
+            "code": "0160",
+            "shariah": true
+        }
     },
     {
-        "name": "AYS",
-        "code": "5021",
-        "shariah": true
+        "AYS": {
+            "code": "5021",
+            "shariah": true
+        }
     },
     {
-        "name": "SHL",
-        "code": "6017",
-        "shariah": true
+        "SHL": {
+            "code": "6017",
+            "shariah": true
+        }
     },
     {
-        "name": "LAYHONG",
-        "code": "9385",
-        "shariah": true
+        "LAYHONG": {
+            "code": "9385",
+            "shariah": true
+        }
     },
     {
-        "name": "EPMB",
-        "code": "7773",
-        "shariah": true
+        "EPMB": {
+            "code": "7773",
+            "shariah": true
+        }
     },
     {
-        "name": "DUFU",
-        "code": "7233",
-        "shariah": true
+        "DUFU": {
+            "code": "7233",
+            "shariah": true
+        }
     },
     {
-        "name": "KRETAM",
-        "code": "1996",
-        "shariah": true
+        "KRETAM": {
+            "code": "1996",
+            "shariah": true
+        }
     },
     {
-        "name": "WILLOW",
-        "code": "0008",
-        "shariah": false
+        "WILLOW": {
+            "code": "0008",
+            "shariah": false
+        }
     },
     {
-        "name": "CENSOF",
-        "code": "5195",
-        "shariah": true
+        "CENSOF": {
+            "code": "5195",
+            "shariah": true
+        }
     },
     {
-        "name": "UNIQUE",
-        "code": "0257",
-        "shariah": true
+        "UNIQUE": {
+            "code": "0257",
+            "shariah": true
+        }
     },
     {
-        "name": "GCB",
-        "code": "5102",
-        "shariah": true
+        "GCB": {
+            "code": "5102",
+            "shariah": true
+        }
     },
     {
-        "name": "HPPHB",
-        "code": "0228",
-        "shariah": true
+        "HPPHB": {
+            "code": "0228",
+            "shariah": true
+        }
     },
     {
-        "name": "IGBB",
-        "code": "5606",
-        "shariah": false
+        "IGBB": {
+            "code": "5606",
+            "shariah": false
+        }
     },
     {
-        "name": "SLP",
-        "code": "7248",
-        "shariah": true
+        "SLP": {
+            "code": "7248",
+            "shariah": true
+        }
     },
     {
-        "name": "KLK",
-        "code": "2445",
-        "shariah": true
+        "KLK": {
+            "code": "2445",
+            "shariah": true
+        }
     },
     {
-        "name": "PARAMON",
-        "code": "1724",
-        "shariah": true
+        "PARAMON": {
+            "code": "1724",
+            "shariah": true
+        }
     },
     {
-        "name": "UOAREIT",
-        "code": "5110",
-        "shariah": false
+        "UOAREIT": {
+            "code": "5110",
+            "shariah": false
+        }
     },
     {
-        "name": "AEON",
-        "code": "6599",
-        "shariah": true
+        "AEON": {
+            "code": "6599",
+            "shariah": true
+        }
     },
     {
-        "name": "DAY3",
-        "code": "0281",
-        "shariah": true
+        "DAY3": {
+            "code": "0281",
+            "shariah": true
+        }
     },
     {
-        "name": "MFLOUR",
-        "code": "3662",
-        "shariah": true
+        "MFLOUR": {
+            "code": "3662",
+            "shariah": true
+        }
     },
     {
-        "name": "EUPE",
-        "code": "6815",
-        "shariah": true
+        "EUPE": {
+            "code": "6815",
+            "shariah": true
+        }
     },
     {
-        "name": "MI",
-        "code": "5286",
-        "shariah": true
+        "MI": {
+            "code": "5286",
+            "shariah": true
+        }
     },
     {
-        "name": "PANSAR",
-        "code": "8419",
-        "shariah": true
+        "PANSAR": {
+            "code": "8419",
+            "shariah": true
+        }
     },
     {
-        "name": "KFIMA",
-        "code": "6491",
-        "shariah": true
+        "KFIMA": {
+            "code": "6491",
+            "shariah": true
+        }
     },
     {
-        "name": "LYSAGHT",
-        "code": "9199",
-        "shariah": false
+        "LYSAGHT": {
+            "code": "9199",
+            "shariah": false
+        }
     },
     {
-        "name": "GHLSYS",
-        "code": "0021",
-        "shariah": true
+        "GHLSYS": {
+            "code": "0021",
+            "shariah": true
+        }
     },
     {
-        "name": "TAMBUN",
-        "code": "5191",
-        "shariah": true
+        "TAMBUN": {
+            "code": "5191",
+            "shariah": true
+        }
     },
     {
-        "name": "TSH",
-        "code": "9059",
-        "shariah": true
+        "TSH": {
+            "code": "9059",
+            "shariah": true
+        }
     },
     {
-        "name": "ATLAN",
-        "code": "7048",
-        "shariah": false
+        "ATLAN": {
+            "code": "7048",
+            "shariah": false
+        }
     },
     {
-        "name": "COSMOS",
-        "code": "0261",
-        "shariah": true
+        "COSMOS": {
+            "code": "0261",
+            "shariah": true
+        }
     },
     {
-        "name": "TIMWELL",
-        "code": "7854",
-        "shariah": true
+        "TIMWELL": {
+            "code": "7854",
+            "shariah": true
+        }
     },
     {
-        "name": "CHINWEL",
-        "code": "5007",
-        "shariah": true
+        "CHINWEL": {
+            "code": "5007",
+            "shariah": true
+        }
     },
     {
-        "name": "TMCLIFE",
-        "code": "0101",
-        "shariah": true
+        "TMCLIFE": {
+            "code": "0101",
+            "shariah": true
+        }
     },
     {
-        "name": "HIGHTEC",
-        "code": "7033",
-        "shariah": true
+        "HIGHTEC": {
+            "code": "7033",
+            "shariah": true
+        }
     },
     {
-        "name": "OCK",
-        "code": "0172",
-        "shariah": true
+        "OCK": {
+            "code": "0172",
+            "shariah": true
+        }
     },
     {
-        "name": "MAHSING",
-        "code": "8583",
-        "shariah": true
+        "MAHSING": {
+            "code": "8583",
+            "shariah": true
+        }
     },
     {
-        "name": "MAYBULK",
-        "code": "5077",
-        "shariah": false
+        "MAYBULK": {
+            "code": "5077",
+            "shariah": false
+        }
     },
     {
-        "name": "ASTINO",
-        "code": "7162",
-        "shariah": true
+        "ASTINO": {
+            "code": "7162",
+            "shariah": true
+        }
     },
     {
-        "name": "AMTEL",
-        "code": "7031",
-        "shariah": true
+        "AMTEL": {
+            "code": "7031",
+            "shariah": true
+        }
     },
     {
-        "name": "MISC",
-        "code": "3816",
-        "shariah": true
+        "MISC": {
+            "code": "3816",
+            "shariah": true
+        }
     },
     {
-        "name": "PWF",
-        "code": "7134",
-        "shariah": true
+        "PWF": {
+            "code": "7134",
+            "shariah": true
+        }
     },
     {
-        "name": "MUH",
-        "code": "9539",
-        "shariah": true
+        "MUH": {
+            "code": "9539",
+            "shariah": true
+        }
     },
     {
-        "name": "MAGNUM",
-        "code": "3859",
-        "shariah": false
+        "MAGNUM": {
+            "code": "3859",
+            "shariah": false
+        }
     },
     {
-        "name": "APB",
-        "code": "5568",
-        "shariah": true
+        "APB": {
+            "code": "5568",
+            "shariah": true
+        }
     },
     {
-        "name": "TENAGA",
-        "code": "5347",
-        "shariah": true
+        "TENAGA": {
+            "code": "5347",
+            "shariah": true
+        }
     },
     {
-        "name": "PJBUMI",
-        "code": "7163",
-        "shariah": true
+        "PJBUMI": {
+            "code": "7163",
+            "shariah": true
+        }
     },
     {
-        "name": "ALAQAR",
-        "code": "5116",
-        "shariah": true
+        "ALAQAR": {
+            "code": "5116",
+            "shariah": true
+        }
     },
     {
-        "name": "SURIA",
-        "code": "6521",
-        "shariah": true
+        "SURIA": {
+            "code": "6521",
+            "shariah": true
+        }
     },
     {
-        "name": "OWG",
-        "code": "5260",
-        "shariah": true
+        "OWG": {
+            "code": "5260",
+            "shariah": true
+        }
     },
     {
-        "name": "CGB",
-        "code": "8052",
-        "shariah": true
+        "CGB": {
+            "code": "8052",
+            "shariah": true
+        }
     },
     {
-        "name": "ASIAFLE",
-        "code": "7129",
-        "shariah": true
+        "ASIAFLE": {
+            "code": "7129",
+            "shariah": true
+        }
     },
     {
-        "name": "INSAS",
-        "code": "3379",
-        "shariah": false
+        "INSAS": {
+            "code": "3379",
+            "shariah": false
+        }
     },
     {
-        "name": "ILB",
-        "code": "5614",
-        "shariah": false
+        "ILB": {
+            "code": "5614",
+            "shariah": false
+        }
     },
     {
-        "name": "YTLREIT",
-        "code": "5109",
-        "shariah": false
+        "YTLREIT": {
+            "code": "5109",
+            "shariah": false
+        }
     },
     {
-        "name": "E&O",
-        "code": "3417",
-        "shariah": true
+        "E&O": {
+            "code": "3417",
+            "shariah": true
+        }
     },
     {
-        "name": "CHINAETF-MYR",
-        "code": "0829EA",
-        "shariah": false
+        "CHINAETF-MYR": {
+            "code": "0829EA",
+            "shariah": false
+        }
     },
     {
-        "name": "UNISEM",
-        "code": "5005",
-        "shariah": true
+        "UNISEM": {
+            "code": "5005",
+            "shariah": true
+        }
     },
     {
-        "name": "SUCCESS",
-        "code": "7207",
-        "shariah": true
+        "SUCCESS": {
+            "code": "7207",
+            "shariah": true
+        }
     },
     {
-        "name": "HLCAP",
-        "code": "5274",
-        "shariah": false
+        "HLCAP": {
+            "code": "5274",
+            "shariah": false
+        }
     },
     {
-        "name": "MHC",
-        "code": "5026",
-        "shariah": true
+        "MHC": {
+            "code": "5026",
+            "shariah": true
+        }
     },
     {
-        "name": "KOBAY",
-        "code": "6971",
-        "shariah": true
+        "KOBAY": {
+            "code": "6971",
+            "shariah": true
+        }
     },
     {
-        "name": "EITA",
-        "code": "5208",
-        "shariah": true
+        "EITA": {
+            "code": "5208",
+            "shariah": true
+        }
     },
     {
-        "name": "TRC",
-        "code": "5054",
-        "shariah": true
+        "TRC": {
+            "code": "5054",
+            "shariah": true
+        }
     },
     {
-        "name": "AVALAND",
-        "code": "5182",
-        "shariah": true
+        "AVALAND": {
+            "code": "5182",
+            "shariah": true
+        }
     },
     {
-        "name": "CWG",
-        "code": "9423",
-        "shariah": true
+        "CWG": {
+            "code": "9423",
+            "shariah": true
+        }
     },
     {
-        "name": "LUXCHEM",
-        "code": "5143",
-        "shariah": true
+        "LUXCHEM": {
+            "code": "5143",
+            "shariah": true
+        }
     },
     {
-        "name": "KRONO",
-        "code": "0176",
-        "shariah": true
+        "KRONO": {
+            "code": "0176",
+            "shariah": true
+        }
     },
     {
-        "name": "BCB",
-        "code": "6602",
-        "shariah": true
+        "BCB": {
+            "code": "6602",
+            "shariah": true
+        }
     },
     {
-        "name": "UCREST",
-        "code": "0005",
-        "shariah": false
+        "UCREST": {
+            "code": "0005",
+            "shariah": false
+        }
     },
     {
-        "name": "OPCOM",
-        "code": "0035",
-        "shariah": true
+        "OPCOM": {
+            "code": "0035",
+            "shariah": true
+        }
     },
     {
-        "name": "GENP",
-        "code": "2291",
-        "shariah": true
+        "GENP": {
+            "code": "2291",
+            "shariah": true
+        }
     },
     {
-        "name": "HSPLANT",
-        "code": "5138",
-        "shariah": true
+        "HSPLANT": {
+            "code": "5138",
+            "shariah": true
+        }
     },
     {
-        "name": "ARBB",
-        "code": "7181",
-        "shariah": true
+        "ARBB": {
+            "code": "7181",
+            "shariah": true
+        }
     },
     {
-        "name": "TELADAN",
-        "code": "0230",
-        "shariah": true
+        "TELADAN": {
+            "code": "0230",
+            "shariah": true
+        }
     },
     {
-        "name": "FIMACOR",
-        "code": "3107",
-        "shariah": true
+        "FIMACOR": {
+            "code": "3107",
+            "shariah": true
+        }
     },
     {
-        "name": "HPMT",
-        "code": "5291",
-        "shariah": true
+        "HPMT": {
+            "code": "5291",
+            "shariah": true
+        }
     },
     {
-        "name": "NGGB",
-        "code": "7241",
-        "shariah": true
+        "NGGB": {
+            "code": "7241",
+            "shariah": true
+        }
     },
     {
-        "name": "AFFIN",
-        "code": "5185",
-        "shariah": false
+        "AFFIN": {
+            "code": "5185",
+            "shariah": false
+        }
     },
     {
-        "name": "SMILE",
-        "code": "03023",
-        "shariah": true
+        "SMILE": {
+            "code": "03023",
+            "shariah": true
+        }
     },
     {
-        "name": "MENANG",
-        "code": "1694",
-        "shariah": true
+        "MENANG": {
+            "code": "1694",
+            "shariah": true
+        }
     },
     {
-        "name": "DPIH",
-        "code": "0205",
-        "shariah": false
+        "DPIH": {
+            "code": "0205",
+            "shariah": false
+        }
     },
     {
-        "name": "MAG",
-        "code": "0095",
-        "shariah": true
+        "MAG": {
+            "code": "0095",
+            "shariah": true
+        }
     },
     {
-        "name": "OCNCASH",
-        "code": "0049",
-        "shariah": true
+        "OCNCASH": {
+            "code": "0049",
+            "shariah": true
+        }
     },
     {
-        "name": "UOADEV",
-        "code": "5200",
-        "shariah": true
+        "UOADEV": {
+            "code": "5200",
+            "shariah": true
+        }
     },
     {
-        "name": "KENANGA",
-        "code": "6483",
-        "shariah": false
+        "KENANGA": {
+            "code": "6483",
+            "shariah": false
+        }
     },
     {
-        "name": "UPA",
-        "code": "7757",
-        "shariah": true
+        "UPA": {
+            "code": "7757",
+            "shariah": true
+        }
     },
     {
-        "name": "VOLCANO",
-        "code": "0232",
-        "shariah": true
+        "VOLCANO": {
+            "code": "0232",
+            "shariah": true
+        }
     },
     {
-        "name": "ORIENT",
-        "code": "4006",
-        "shariah": false
+        "ORIENT": {
+            "code": "4006",
+            "shariah": false
+        }
     },
     {
-        "name": "TRIMODE",
-        "code": "0199",
-        "shariah": true
+        "TRIMODE": {
+            "code": "0199",
+            "shariah": true
+        }
     },
     {
-        "name": "MSNIAGA",
-        "code": "5011",
-        "shariah": true
+        "MSNIAGA": {
+            "code": "5011",
+            "shariah": true
+        }
     },
     {
-        "name": "EMICO",
-        "code": "9091",
-        "shariah": true
+        "EMICO": {
+            "code": "9091",
+            "shariah": true
+        }
     },
     {
-        "name": "METROD",
-        "code": "6149",
-        "shariah": false
+        "METROD": {
+            "code": "6149",
+            "shariah": false
+        }
     },
     {
-        "name": "FLBHD",
-        "code": "5197",
-        "shariah": true
+        "FLBHD": {
+            "code": "5197",
+            "shariah": true
+        }
     },
     {
-        "name": "MBSB",
-        "code": "1171",
-        "shariah": true
+        "MBSB": {
+            "code": "1171",
+            "shariah": true
+        }
     },
     {
-        "name": "MCEMENT",
-        "code": "3794",
-        "shariah": true
+        "MCEMENT": {
+            "code": "3794",
+            "shariah": true
+        }
     },
     {
-        "name": "BRIGHT",
-        "code": "9938",
-        "shariah": false
+        "BRIGHT": {
+            "code": "9938",
+            "shariah": false
+        }
     },
     {
-        "name": "ZHULIAN",
-        "code": "5131",
-        "shariah": true
+        "ZHULIAN": {
+            "code": "5131",
+            "shariah": true
+        }
     },
     {
-        "name": "KPSCB",
-        "code": "9121",
-        "shariah": true
+        "KPSCB": {
+            "code": "9121",
+            "shariah": true
+        }
     },
     {
-        "name": "S&FCAP",
-        "code": "8745",
-        "shariah": true
+        "S&FCAP": {
+            "code": "8745",
+            "shariah": true
+        }
     },
     {
-        "name": "EVD",
-        "code": "0174",
-        "shariah": false
+        "EVD": {
+            "code": "0174",
+            "shariah": false
+        }
     },
     {
-        "name": "CSCENIC",
-        "code": "7202",
-        "shariah": true
+        "CSCENIC": {
+            "code": "7202",
+            "shariah": true
+        }
     },
     {
-        "name": "UMSNGB",
-        "code": "7227",
-        "shariah": true
+        "UMSNGB": {
+            "code": "7227",
+            "shariah": true
+        }
     },
     {
-        "name": "GESHEN",
-        "code": "7197",
-        "shariah": false
+        "GESHEN": {
+            "code": "7197",
+            "shariah": false
+        }
     },
     {
-        "name": "WELLS",
-        "code": "0271",
-        "shariah": true
+        "WELLS": {
+            "code": "0271",
+            "shariah": true
+        }
     },
     {
-        "name": "DKLS",
-        "code": "7528",
-        "shariah": true
+        "DKLS": {
+            "code": "7528",
+            "shariah": true
+        }
     },
     {
-        "name": "PLABS",
-        "code": "0171",
-        "shariah": false
+        "PLABS": {
+            "code": "0171",
+            "shariah": false
+        }
     },
     {
-        "name": "ECOWLD",
-        "code": "8206",
-        "shariah": true
+        "ECOWLD": {
+            "code": "8206",
+            "shariah": true
+        }
     },
     {
-        "name": "SENTRAL",
-        "code": "5123",
-        "shariah": false
+        "SENTRAL": {
+            "code": "5123",
+            "shariah": false
+        }
     },
     {
-        "name": "PLENITU",
-        "code": "5075",
-        "shariah": true
+        "PLENITU": {
+            "code": "5075",
+            "shariah": true
+        }
     },
     {
-        "name": "XL",
-        "code": "7121",
-        "shariah": true
+        "XL": {
+            "code": "7121",
+            "shariah": true
+        }
     },
     {
-        "name": "HUBLINE",
-        "code": "7013",
-        "shariah": true
+        "HUBLINE": {
+            "code": "7013",
+            "shariah": true
+        }
     },
     {
-        "name": "ASIABRN",
-        "code": "7722",
-        "shariah": true
+        "ASIABRN": {
+            "code": "7722",
+            "shariah": true
+        }
     },
     {
-        "name": "PLYTEC",
-        "code": "0289",
-        "shariah": false
+        "PLYTEC": {
+            "code": "0289",
+            "shariah": false
+        }
     },
     {
-        "name": "MANULFE",
-        "code": "1058",
-        "shariah": false
+        "MANULFE": {
+            "code": "1058",
+            "shariah": false
+        }
     },
     {
-        "name": "BJLAND",
-        "code": "4219",
-        "shariah": false
+        "BJLAND": {
+            "code": "4219",
+            "shariah": false
+        }
     },
     {
-        "name": "BESHOM",
-        "code": "7668",
-        "shariah": false
+        "BESHOM": {
+            "code": "7668",
+            "shariah": false
+        }
     },
     {
-        "name": "JHM",
-        "code": "0127",
-        "shariah": true
+        "JHM": {
+            "code": "0127",
+            "shariah": true
+        }
     },
     {
-        "name": "D&O",
-        "code": "7204",
-        "shariah": true
+        "D&O": {
+            "code": "7204",
+            "shariah": true
+        }
     },
     {
-        "name": "ROHAS",
-        "code": "9741",
-        "shariah": true
+        "ROHAS": {
+            "code": "9741",
+            "shariah": true
+        }
     },
     {
-        "name": "MBRIGHT",
-        "code": "2097",
-        "shariah": true
+        "MBRIGHT": {
+            "code": "2097",
+            "shariah": true
+        }
     },
     {
-        "name": "GLOTEC",
-        "code": "5220",
-        "shariah": true
+        "GLOTEC": {
+            "code": "5220",
+            "shariah": true
+        }
     },
     {
-        "name": "SOLID",
-        "code": "5242",
-        "shariah": true
+        "SOLID": {
+            "code": "5242",
+            "shariah": true
+        }
     },
     {
-        "name": "KARYON",
-        "code": "0054",
-        "shariah": true
+        "KARYON": {
+            "code": "0054",
+            "shariah": true
+        }
     },
     {
-        "name": "CJCEN",
-        "code": "7117",
-        "shariah": true
+        "CJCEN": {
+            "code": "7117",
+            "shariah": true
+        }
     },
     {
-        "name": "SAB",
-        "code": "5134",
-        "shariah": false
+        "SAB": {
+            "code": "5134",
+            "shariah": false
+        }
     },
     {
-        "name": "DOMINAN",
-        "code": "7169",
-        "shariah": true
+        "DOMINAN": {
+            "code": "7169",
+            "shariah": true
+        }
     },
     {
-        "name": "MKH",
-        "code": "6114",
-        "shariah": true
+        "MKH": {
+            "code": "6114",
+            "shariah": true
+        }
     },
     {
-        "name": "CABNET",
-        "code": "0191",
-        "shariah": true
+        "CABNET": {
+            "code": "0191",
+            "shariah": true
+        }
     },
     {
-        "name": "BPLANT",
-        "code": "5254",
-        "shariah": true
+        "BPLANT": {
+            "code": "5254",
+            "shariah": true
+        }
     },
     {
-        "name": "OKA",
-        "code": "7140",
-        "shariah": true
+        "OKA": {
+            "code": "7140",
+            "shariah": true
+        }
     },
     {
-        "name": "TONGHER",
-        "code": "5010",
-        "shariah": true
+        "TONGHER": {
+            "code": "5010",
+            "shariah": true
+        }
     },
     {
-        "name": "GDB",
-        "code": "0198",
-        "shariah": true
+        "GDB": {
+            "code": "0198",
+            "shariah": true
+        }
     },
     {
-        "name": "L&G",
-        "code": "3174",
-        "shariah": true
+        "L&G": {
+            "code": "3174",
+            "shariah": true
+        }
     },
     {
-        "name": "APM",
-        "code": "5015",
-        "shariah": true
+        "APM": {
+            "code": "5015",
+            "shariah": true
+        }
     },
     {
-        "name": "ACO",
-        "code": "0218",
-        "shariah": true
+        "ACO": {
+            "code": "0218",
+            "shariah": true
+        }
     },
     {
-        "name": "PMBTECH",
-        "code": "7172",
-        "shariah": true
+        "PMBTECH": {
+            "code": "7172",
+            "shariah": true
+        }
     },
     {
-        "name": "JKGLAND",
-        "code": "6769",
-        "shariah": true
+        "JKGLAND": {
+            "code": "6769",
+            "shariah": true
+        }
     },
     {
-        "name": "BINACOM",
-        "code": "0195",
-        "shariah": true
+        "BINACOM": {
+            "code": "0195",
+            "shariah": true
+        }
     },
     {
-        "name": "GBGAQRS",
-        "code": "5226",
-        "shariah": true
+        "GBGAQRS": {
+            "code": "5226",
+            "shariah": true
+        }
     },
     {
-        "name": "RKI",
-        "code": "7006",
-        "shariah": true
+        "RKI": {
+            "code": "7006",
+            "shariah": true
+        }
     },
     {
-        "name": "MITRA",
-        "code": "9571",
-        "shariah": true
+        "MITRA": {
+            "code": "9571",
+            "shariah": true
+        }
     },
     {
-        "name": "TNLOGIS",
-        "code": "8397",
-        "shariah": true
+        "TNLOGIS": {
+            "code": "8397",
+            "shariah": true
+        }
     },
     {
-        "name": "JAKS",
-        "code": "4723",
-        "shariah": true
+        "JAKS": {
+            "code": "4723",
+            "shariah": true
+        }
     },
     {
-        "name": "EMCC",
-        "code": "0286",
-        "shariah": false
+        "EMCC": {
+            "code": "0286",
+            "shariah": false
+        }
     },
     {
-        "name": "PRESTAR",
-        "code": "9873",
-        "shariah": true
+        "PRESTAR": {
+            "code": "9873",
+            "shariah": true
+        }
     },
     {
-        "name": "FACBIND",
-        "code": "2984",
-        "shariah": false
+        "FACBIND": {
+            "code": "2984",
+            "shariah": false
+        }
     },
     {
-        "name": "SUNZEN",
-        "code": "0148",
-        "shariah": false
+        "SUNZEN": {
+            "code": "0148",
+            "shariah": false
+        }
     },
     {
-        "name": "PBA",
-        "code": "5041",
-        "shariah": true
+        "PBA": {
+            "code": "5041",
+            "shariah": true
+        }
     },
     {
-        "name": "SHH",
-        "code": "7412",
-        "shariah": true
+        "SHH": {
+            "code": "7412",
+            "shariah": true
+        }
     },
     {
-        "name": "STRAITS",
-        "code": "0080",
-        "shariah": true
+        "STRAITS": {
+            "code": "0080",
+            "shariah": true
+        }
     },
     {
-        "name": "LOTUS",
-        "code": "8303",
-        "shariah": true
+        "LOTUS": {
+            "code": "8303",
+            "shariah": true
+        }
     },
     {
-        "name": "EDGENTA",
-        "code": "1368",
-        "shariah": true
+        "EDGENTA": {
+            "code": "1368",
+            "shariah": true
+        }
     },
     {
-        "name": "GMUTUAL",
-        "code": "9962",
-        "shariah": true
+        "GMUTUAL": {
+            "code": "9962",
+            "shariah": true
+        }
     },
     {
-        "name": "CYBERE",
-        "code": "5166",
-        "shariah": true
+        "CYBERE": {
+            "code": "5166",
+            "shariah": true
+        }
     },
     {
-        "name": "SCC",
-        "code": "0158",
-        "shariah": false
+        "SCC": {
+            "code": "0158",
+            "shariah": false
+        }
     },
     {
-        "name": "SIMEPROP",
-        "code": "5288",
-        "shariah": true
+        "SIMEPROP": {
+            "code": "5288",
+            "shariah": true
+        }
     },
     {
-        "name": "TURIYA",
-        "code": "4359",
-        "shariah": true
+        "TURIYA": {
+            "code": "4359",
+            "shariah": true
+        }
     },
     {
-        "name": "TUNEPRO",
-        "code": "5230",
-        "shariah": false
+        "TUNEPRO": {
+            "code": "5230",
+            "shariah": false
+        }
     },
     {
-        "name": "NSOP",
-        "code": "2038",
-        "shariah": true
+        "NSOP": {
+            "code": "2038",
+            "shariah": true
+        }
     },
     {
-        "name": "MAYU",
-        "code": "7099",
-        "shariah": true
+        "MAYU": {
+            "code": "7099",
+            "shariah": true
+        }
     },
     {
-        "name": "ECOFIRS",
-        "code": "3557",
-        "shariah": true
+        "ECOFIRS": {
+            "code": "3557",
+            "shariah": true
+        }
     },
     {
-        "name": "EURO",
-        "code": "7208",
-        "shariah": true
+        "EURO": {
+            "code": "7208",
+            "shariah": true
+        }
     },
     {
-        "name": "KUCHAI",
-        "code": "2186",
-        "shariah": false
+        "KUCHAI": {
+            "code": "2186",
+            "shariah": false
+        }
     },
     {
-        "name": "WASCO",
-        "code": "5142",
-        "shariah": true
+        "WASCO": {
+            "code": "5142",
+            "shariah": true
+        }
     },
     {
-        "name": "UMCCA",
-        "code": "2593",
-        "shariah": true
+        "UMCCA": {
+            "code": "2593",
+            "shariah": true
+        }
     },
     {
-        "name": "IGBCR",
-        "code": "5299",
-        "shariah": false
+        "IGBCR": {
+            "code": "5299",
+            "shariah": false
+        }
     },
     {
-        "name": "MYTECH",
-        "code": "7692",
-        "shariah": false
+        "MYTECH": {
+            "code": "7692",
+            "shariah": false
+        }
     },
     {
-        "name": "KLUANG",
-        "code": "2453",
-        "shariah": false
+        "KLUANG": {
+            "code": "2453",
+            "shariah": false
+        }
     },
     {
-        "name": "SEAL",
-        "code": "4286",
-        "shariah": false
+        "SEAL": {
+            "code": "4286",
+            "shariah": false
+        }
     },
     {
-        "name": "GUOCO",
-        "code": "1503",
-        "shariah": true
+        "GUOCO": {
+            "code": "1503",
+            "shariah": true
+        }
     },
     {
-        "name": "UNITRAD",
-        "code": "0247",
-        "shariah": false
+        "UNITRAD": {
+            "code": "0247",
+            "shariah": false
+        }
     },
     {
-        "name": "KGW",
-        "code": "0282",
-        "shariah": true
+        "KGW": {
+            "code": "0282",
+            "shariah": true
+        }
     },
     {
-        "name": "JAG",
-        "code": "0024",
-        "shariah": true
+        "JAG": {
+            "code": "0024",
+            "shariah": true
+        }
     },
     {
-        "name": "WANGZNG",
-        "code": "7203",
-        "shariah": true
+        "WANGZNG": {
+            "code": "7203",
+            "shariah": true
+        }
     },
     {
-        "name": "SUPERLN",
-        "code": "7235",
-        "shariah": true
+        "SUPERLN": {
+            "code": "7235",
+            "shariah": true
+        }
     },
     {
-        "name": "PARKWD",
-        "code": "2682",
-        "shariah": true
+        "PARKWD": {
+            "code": "2682",
+            "shariah": true
+        }
     },
     {
-        "name": "HEXTECH",
-        "code": "5136",
-        "shariah": true
+        "HEXTECH": {
+            "code": "5136",
+            "shariah": true
+        }
     },
     {
-        "name": "SBAGAN",
-        "code": "2569",
-        "shariah": false
+        "SBAGAN": {
+            "code": "2569",
+            "shariah": false
+        }
     },
     {
-        "name": "CEPAT",
-        "code": "8982",
-        "shariah": true
+        "CEPAT": {
+            "code": "8982",
+            "shariah": true
+        }
     },
     {
-        "name": "LEONFB",
-        "code": "5232",
-        "shariah": false
+        "LEONFB": {
+            "code": "5232",
+            "shariah": false
+        }
     },
     {
-        "name": "GLOMAC",
-        "code": "5020",
-        "shariah": true
+        "GLOMAC": {
+            "code": "5020",
+            "shariah": true
+        }
     },
     {
-        "name": "DPS",
-        "code": "7198",
-        "shariah": true
+        "DPS": {
+            "code": "7198",
+            "shariah": true
+        }
     },
     {
-        "name": "BLDPLNT",
-        "code": "5069",
-        "shariah": true
+        "BLDPLNT": {
+            "code": "5069",
+            "shariah": true
+        }
     },
     {
-        "name": "HIAPTEK",
-        "code": "5072",
-        "shariah": true
+        "HIAPTEK": {
+            "code": "5072",
+            "shariah": true
+        }
     },
     {
-        "name": "KHJB",
-        "code": "0210",
-        "shariah": true
+        "KHJB": {
+            "code": "0210",
+            "shariah": true
+        }
     },
     {
-        "name": "RENEUCO",
-        "code": "7130",
-        "shariah": true
+        "RENEUCO": {
+            "code": "7130",
+            "shariah": true
+        }
     },
     {
-        "name": "MERSEC",
-        "code": "0285",
-        "shariah": false
+        "MERSEC": {
+            "code": "0285",
+            "shariah": false
+        }
     },
     {
-        "name": "UMS",
-        "code": "7137",
-        "shariah": true
+        "UMS": {
+            "code": "7137",
+            "shariah": true
+        }
     },
     {
-        "name": "IBHD",
-        "code": "4251",
-        "shariah": true
+        "IBHD": {
+            "code": "4251",
+            "shariah": true
+        }
     },
     {
-        "name": "ALRICH",
-        "code": "0079",
-        "shariah": true
+        "ALRICH": {
+            "code": "0079",
+            "shariah": true
+        }
     },
     {
-        "name": "TEKSENG",
-        "code": "7200",
-        "shariah": true
+        "TEKSENG": {
+            "code": "7200",
+            "shariah": true
+        }
     },
     {
-        "name": "IJM",
-        "code": "3336",
-        "shariah": true
+        "IJM": {
+            "code": "3336",
+            "shariah": true
+        }
     },
     {
-        "name": "KAREX",
-        "code": "5247",
-        "shariah": true
+        "KAREX": {
+            "code": "5247",
+            "shariah": true
+        }
     },
     {
-        "name": "LFECORP",
-        "code": "7170",
-        "shariah": false
+        "LFECORP": {
+            "code": "7170",
+            "shariah": false
+        }
     },
     {
-        "name": "CLMT",
-        "code": "5180",
-        "shariah": false
+        "CLMT": {
+            "code": "5180",
+            "shariah": false
+        }
     },
     {
-        "name": "DSR",
-        "code": "03055",
-        "shariah": true
+        "DSR": {
+            "code": "03055",
+            "shariah": true
+        }
     },
     {
-        "name": "SHCHAN",
-        "code": "4316",
-        "shariah": true
+        "SHCHAN": {
+            "code": "4316",
+            "shariah": true
+        }
     },
     {
-        "name": "Y&G",
-        "code": "7003",
-        "shariah": true
+        "Y&G": {
+            "code": "7003",
+            "shariah": true
+        }
     },
     {
-        "name": "SDRED",
-        "code": "2224",
-        "shariah": true
+        "SDRED": {
+            "code": "2224",
+            "shariah": true
+        }
     },
     {
-        "name": "CRESNDO",
-        "code": "6718",
-        "shariah": true
+        "CRESNDO": {
+            "code": "6718",
+            "shariah": true
+        }
     },
     {
-        "name": "MIKROMB",
-        "code": "0112",
-        "shariah": true
+        "MIKROMB": {
+            "code": "0112",
+            "shariah": true
+        }
     },
     {
-        "name": "SPSETIA",
-        "code": "8664",
-        "shariah": true
+        "SPSETIA": {
+            "code": "8664",
+            "shariah": true
+        }
     },
     {
-        "name": "APEX",
-        "code": "5088",
-        "shariah": false
+        "APEX": {
+            "code": "5088",
+            "shariah": false
+        }
     },
     {
-        "name": "AMFIRST",
-        "code": "5120",
-        "shariah": false
+        "AMFIRST": {
+            "code": "5120",
+            "shariah": false
+        }
     },
     {
-        "name": "GENTING",
-        "code": "3182",
-        "shariah": false
+        "GENTING": {
+            "code": "3182",
+            "shariah": false
+        }
     },
     {
-        "name": "RVIEW",
-        "code": "2542",
-        "shariah": true
+        "RVIEW": {
+            "code": "2542",
+            "shariah": true
+        }
     },
     {
-        "name": "SMISCOR",
-        "code": "7132",
-        "shariah": true
+        "SMISCOR": {
+            "code": "7132",
+            "shariah": true
+        }
     },
     {
-        "name": "OCB",
-        "code": "5533",
-        "shariah": true
+        "OCB": {
+            "code": "5533",
+            "shariah": true
+        }
     },
     {
-        "name": "CSCSTEL",
-        "code": "5094",
-        "shariah": true
+        "CSCSTEL": {
+            "code": "5094",
+            "shariah": true
+        }
     },
     {
-        "name": "HEXZA",
-        "code": "3298",
-        "shariah": false
+        "HEXZA": {
+            "code": "3298",
+            "shariah": false
+        }
     },
     {
-        "name": "SSF",
-        "code": "0287",
-        "shariah": true
+        "SSF": {
+            "code": "0287",
+            "shariah": true
+        }
     },
     {
-        "name": "SANCY",
-        "code": "03057",
-        "shariah": true
+        "SANCY": {
+            "code": "03057",
+            "shariah": true
+        }
     },
     {
-        "name": "IMASPRO",
-        "code": "7222",
-        "shariah": true
+        "IMASPRO": {
+            "code": "7222",
+            "shariah": true
+        }
     },
     {
-        "name": "KHIND",
-        "code": "7062",
-        "shariah": true
+        "KHIND": {
+            "code": "7062",
+            "shariah": true
+        }
     },
     {
-        "name": "KEN",
-        "code": "7323",
-        "shariah": true
+        "KEN": {
+            "code": "7323",
+            "shariah": true
+        }
     },
     {
-        "name": "MALPAC",
-        "code": "4936",
-        "shariah": false
+        "MALPAC": {
+            "code": "4936",
+            "shariah": false
+        }
     },
     {
-        "name": "MINHO",
-        "code": "5576",
-        "shariah": true
+        "MINHO": {
+            "code": "5576",
+            "shariah": true
+        }
     },
     {
-        "name": "SUNSURIA",
-        "code": "3743",
-        "shariah": true
+        "SUNSURIA": {
+            "code": "3743",
+            "shariah": true
+        }
     },
     {
-        "name": "DRBHCOM",
-        "code": "1619",
-        "shariah": true
+        "DRBHCOM": {
+            "code": "1619",
+            "shariah": true
+        }
     },
     {
-        "name": "TOCEAN",
-        "code": "7218",
-        "shariah": true
+        "TOCEAN": {
+            "code": "7218",
+            "shariah": true
+        }
     },
     {
-        "name": "IFCAMSC",
-        "code": "0023",
-        "shariah": true
+        "IFCAMSC": {
+            "code": "0023",
+            "shariah": true
+        }
     },
     {
-        "name": "CVIEW",
-        "code": "5049",
-        "shariah": true
+        "CVIEW": {
+            "code": "5049",
+            "shariah": true
+        }
     },
     {
-        "name": "K1",
-        "code": "0111",
-        "shariah": true
+        "K1": {
+            "code": "0111",
+            "shariah": true
+        }
     },
     {
-        "name": "KLCC",
-        "code": "5235SS",
-        "shariah": true
+        "KLCC": {
+            "code": "5235SS",
+            "shariah": true
+        }
     },
     {
-        "name": "MPHBCAP",
-        "code": "5237",
-        "shariah": false
+        "MPHBCAP": {
+            "code": "5237",
+            "shariah": false
+        }
     },
     {
-        "name": "YLI",
-        "code": "7014",
-        "shariah": true
+        "YLI": {
+            "code": "7014",
+            "shariah": true
+        }
     },
     {
-        "name": "CANONE",
-        "code": "5105",
-        "shariah": false
+        "CANONE": {
+            "code": "5105",
+            "shariah": false
+        }
     },
     {
-        "name": "MATANG",
-        "code": "0189",
-        "shariah": false
+        "MATANG": {
+            "code": "0189",
+            "shariah": false
+        }
     },
     {
-        "name": "CEPCO",
-        "code": "8435",
-        "shariah": true
+        "CEPCO": {
+            "code": "8435",
+            "shariah": true
+        }
     },
     {
-        "name": "ACME",
-        "code": "7131",
-        "shariah": true
+        "ACME": {
+            "code": "7131",
+            "shariah": true
+        }
     },
     {
-        "name": "MRCB",
-        "code": "1651",
-        "shariah": true
+        "MRCB": {
+            "code": "1651",
+            "shariah": true
+        }
     },
     {
-        "name": "NAIM",
-        "code": "5073",
-        "shariah": true
+        "NAIM": {
+            "code": "5073",
+            "shariah": true
+        }
     },
     {
-        "name": "PCCS",
-        "code": "6068",
-        "shariah": true
+        "PCCS": {
+            "code": "6068",
+            "shariah": true
+        }
     },
     {
-        "name": "P&O",
-        "code": "6009",
-        "shariah": false
+        "P&O": {
+            "code": "6009",
+            "shariah": false
+        }
     },
     {
-        "name": "MPI",
-        "code": "3867",
-        "shariah": true
+        "MPI": {
+            "code": "3867",
+            "shariah": true
+        }
     },
     {
-        "name": "HUAYANG",
-        "code": "5062",
-        "shariah": true
+        "HUAYANG": {
+            "code": "5062",
+            "shariah": true
+        }
     },
     {
-        "name": "SPRING",
-        "code": "0216",
-        "shariah": true
+        "SPRING": {
+            "code": "0216",
+            "shariah": true
+        }
     },
     {
-        "name": "NOTION",
-        "code": "0083",
-        "shariah": true
+        "NOTION": {
+            "code": "0083",
+            "shariah": true
+        }
     },
     {
-        "name": "RAPID",
-        "code": "7765",
-        "shariah": false
+        "RAPID": {
+            "code": "7765",
+            "shariah": false
+        }
     },
     {
-        "name": "SEACERA",
-        "code": "7073",
-        "shariah": true
+        "SEACERA": {
+            "code": "7073",
+            "shariah": true
+        }
     },
     {
-        "name": "MKLAND",
-        "code": "8893",
-        "shariah": true
+        "MKLAND": {
+            "code": "8893",
+            "shariah": true
+        }
     },
     {
-        "name": "PAOS",
-        "code": "5022",
-        "shariah": true
+        "PAOS": {
+            "code": "5022",
+            "shariah": true
+        }
     },
     {
-        "name": "TASHIN",
-        "code": "0211",
-        "shariah": true
+        "TASHIN": {
+            "code": "0211",
+            "shariah": true
+        }
     },
     {
-        "name": "UEMS",
-        "code": "5148",
-        "shariah": true
+        "UEMS": {
+            "code": "5148",
+            "shariah": true
+        }
     },
     {
-        "name": "RESINTC",
-        "code": "7232",
-        "shariah": true
+        "RESINTC": {
+            "code": "7232",
+            "shariah": true
+        }
     },
     {
-        "name": "TSRCAP",
-        "code": "5042",
-        "shariah": true
+        "TSRCAP": {
+            "code": "5042",
+            "shariah": true
+        }
     },
     {
-        "name": "ARREIT",
-        "code": "5127",
-        "shariah": false
+        "ARREIT": {
+            "code": "5127",
+            "shariah": false
+        }
     },
     {
-        "name": "TAFI",
-        "code": "7211",
-        "shariah": true
+        "TAFI": {
+            "code": "7211",
+            "shariah": true
+        }
     },
     {
-        "name": "AWC",
-        "code": "7579",
-        "shariah": true
+        "AWC": {
+            "code": "7579",
+            "shariah": true
+        }
     },
     {
-        "name": "EDUSPEC",
-        "code": "0107",
-        "shariah": true
+        "EDUSPEC": {
+            "code": "0107",
+            "shariah": true
+        }
     },
     {
-        "name": "PTT",
-        "code": "7010",
-        "shariah": true
+        "PTT": {
+            "code": "7010",
+            "shariah": true
+        }
     },
     {
-        "name": "VELESTO",
-        "code": "5243",
-        "shariah": true
+        "VELESTO": {
+            "code": "5243",
+            "shariah": true
+        }
     },
     {
-        "name": "CATCHA",
-        "code": "0173",
-        "shariah": false
+        "CATCHA": {
+            "code": "0173",
+            "shariah": false
+        }
     },
     {
-        "name": "SMETRIC",
-        "code": "0203",
-        "shariah": true
+        "SMETRIC": {
+            "code": "0203",
+            "shariah": true
+        }
     },
     {
-        "name": "DUTALND",
-        "code": "3948",
-        "shariah": false
+        "DUTALND": {
+            "code": "3948",
+            "shariah": false
+        }
     },
     {
-        "name": "ASIAPAC",
-        "code": "4057",
-        "shariah": true
+        "ASIAPAC": {
+            "code": "4057",
+            "shariah": true
+        }
     },
     {
-        "name": "MASTEEL",
-        "code": "5098",
-        "shariah": true
+        "MASTEEL": {
+            "code": "5098",
+            "shariah": true
+        }
     },
     {
-        "name": "EFFICEN",
-        "code": "0064",
-        "shariah": true
+        "EFFICEN": {
+            "code": "0064",
+            "shariah": true
+        }
     },
     {
-        "name": "BDB",
-        "code": "6173",
-        "shariah": true
+        "BDB": {
+            "code": "6173",
+            "shariah": true
+        }
     },
     {
-        "name": "RADIUM",
-        "code": "5313",
-        "shariah": true
+        "RADIUM": {
+            "code": "5313",
+            "shariah": true
+        }
     },
     {
-        "name": "ABLEGRP",
-        "code": "7086",
-        "shariah": true
+        "ABLEGRP": {
+            "code": "7086",
+            "shariah": true
+        }
     },
     {
-        "name": "PEB",
-        "code": "5622",
-        "shariah": true
+        "PEB": {
+            "code": "5622",
+            "shariah": true
+        }
     },
     {
-        "name": "SYCAL",
-        "code": "9717",
-        "shariah": false
+        "SYCAL": {
+            "code": "9717",
+            "shariah": false
+        }
     },
     {
-        "name": "WCT",
-        "code": "9679",
-        "shariah": true
+        "WCT": {
+            "code": "9679",
+            "shariah": true
+        }
     },
     {
-        "name": "M&A",
-        "code": "7082",
-        "shariah": false
+        "M&A": {
+            "code": "7082",
+            "shariah": false
+        }
     },
     {
-        "name": "SERNKOU",
-        "code": "7180",
-        "shariah": true
+        "SERNKOU": {
+            "code": "7180",
+            "shariah": true
+        }
     },
     {
-        "name": "PGLOBE",
-        "code": "3611",
-        "shariah": true
+        "PGLOBE": {
+            "code": "3611",
+            "shariah": true
+        }
     },
     {
-        "name": "MBN",
-        "code": "0280",
-        "shariah": false
+        "MBN": {
+            "code": "0280",
+            "shariah": false
+        }
     },
     {
-        "name": "WMG",
-        "code": "6378",
-        "shariah": false
+        "WMG": {
+            "code": "6378",
+            "shariah": false
+        }
     },
     {
-        "name": "TOYOVEN",
-        "code": "7173",
-        "shariah": true
+        "TOYOVEN": {
+            "code": "7173",
+            "shariah": true
+        }
     },
     {
-        "name": "EWEIN",
-        "code": "7249",
-        "shariah": true
+        "EWEIN": {
+            "code": "7249",
+            "shariah": true
+        }
     },
     {
-        "name": "SCOPE",
-        "code": "0028",
-        "shariah": true
+        "SCOPE": {
+            "code": "0028",
+            "shariah": true
+        }
     },
     {
-        "name": "LEBTECH",
-        "code": "9628",
-        "shariah": true
+        "LEBTECH": {
+            "code": "9628",
+            "shariah": true
+        }
     },
     {
-        "name": "ORNA",
-        "code": "5065",
-        "shariah": true
+        "ORNA": {
+            "code": "5065",
+            "shariah": true
+        }
     },
     {
-        "name": "TITIJYA",
-        "code": "5239",
-        "shariah": true
+        "TITIJYA": {
+            "code": "5239",
+            "shariah": true
+        }
     },
     {
-        "name": "STAR",
-        "code": "6084",
-        "shariah": true
+        "STAR": {
+            "code": "6084",
+            "shariah": true
+        }
     },
     {
-        "name": "AMLEX",
-        "code": "03011",
-        "shariah": true
+        "AMLEX": {
+            "code": "03011",
+            "shariah": true
+        }
     },
     {
-        "name": "LIONPSIM",
-        "code": "8486",
-        "shariah": true
+        "LIONPSIM": {
+            "code": "8486",
+            "shariah": true
+        }
     },
     {
-        "name": "YBS",
-        "code": "0025",
-        "shariah": true
+        "YBS": {
+            "code": "0025",
+            "shariah": true
+        }
     },
     {
-        "name": "KOSSAN",
-        "code": "7153",
-        "shariah": true
+        "KOSSAN": {
+            "code": "7153",
+            "shariah": true
+        }
     },
     {
-        "name": "ENGTEX",
-        "code": "5056",
-        "shariah": true
+        "ENGTEX": {
+            "code": "5056",
+            "shariah": true
+        }
     },
     {
-        "name": "ICAP",
-        "code": "5108",
-        "shariah": false
+        "ICAP": {
+            "code": "5108",
+            "shariah": false
+        }
     },
     {
-        "name": "DFX",
-        "code": "0131",
-        "shariah": false
+        "DFX": {
+            "code": "0131",
+            "shariah": false
+        }
     },
     {
-        "name": "SWSCAP",
-        "code": "7186",
-        "shariah": true
+        "SWSCAP": {
+            "code": "7186",
+            "shariah": true
+        }
     },
     {
-        "name": "GOPENG",
-        "code": "2135",
-        "shariah": true
+        "GOPENG": {
+            "code": "2135",
+            "shariah": true
+        }
     },
     {
-        "name": "GLXT",
-        "code": "0284",
-        "shariah": false
+        "GLXT": {
+            "code": "0284",
+            "shariah": false
+        }
     },
     {
-        "name": "RGTBHD",
-        "code": "9954",
-        "shariah": true
+        "RGTBHD": {
+            "code": "9954",
+            "shariah": true
+        }
     },
     {
-        "name": "EKSONS",
-        "code": "9016",
-        "shariah": true
+        "EKSONS": {
+            "code": "9016",
+            "shariah": true
+        }
     },
     {
-        "name": "LSTEEL",
-        "code": "9881",
-        "shariah": true
+        "LSTEEL": {
+            "code": "9881",
+            "shariah": true
+        }
     },
     {
-        "name": "SBCCORP",
-        "code": "5207",
-        "shariah": true
+        "SBCCORP": {
+            "code": "5207",
+            "shariah": true
+        }
     },
     {
-        "name": "ALLIANZ-PA",
-        "code": "1163PA",
-        "shariah": false
+        "FBMPALMOIL-NC": {
+            "code": "0829I",
+            "shariah": false
+        }
     },
     {
-        "name": "OMH",
-        "code": "5298",
-        "shariah": true
+        "FBMSHA": {
+            "code": "0868I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMKLCI",
-        "code": "0200I",
-        "shariah": false
+        "DPS-OR": {
+            "code": "7198OR",
+            "shariah": true
+        }
     },
     {
-        "name": "FBMT100",
-        "code": "0861I",
-        "shariah": false
+        "FBMAPMYR": {
+            "code": "0828I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBM70",
-        "code": "0863I",
-        "shariah": false
+        "FBMEMAS": {
+            "code": "0865I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMSCAP",
-        "code": "0864I",
-        "shariah": false
+        "FINANCIAL SERVICES": {
+            "code": "0010I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMEMAS",
-        "code": "0865I",
-        "shariah": false
+        "FBMKLCI": {
+            "code": "0200I",
+            "shariah": false
+        }
     },
     {
-        "name": "CONSTRUCTION",
-        "code": "0003I",
-        "shariah": false
+        "TELECOMMUNICATIONS & MEDIA": {
+            "code": "0063I",
+            "shariah": false
+        }
     },
     {
-        "name": "CONSUMER PRODUCTS & SERVICES",
-        "code": "0001I",
-        "shariah": false
+        "DIN045801028": {
+            "code": "0400GB",
+            "shariah": true
+        }
     },
     {
-        "name": "ENERGY",
-        "code": "0061I",
-        "shariah": false
+        "FBMT100": {
+            "code": "0861I",
+            "shariah": false
+        }
     },
     {
-        "name": "F4GBM",
-        "code": "0840I",
-        "shariah": false
+        "F4GBMS": {
+            "code": "0841I",
+            "shariah": false
+        }
     },
     {
-        "name": "F4GBMS",
-        "code": "0841I",
-        "shariah": false
+        "ALLIANZ-PA": {
+            "code": "1163PA",
+            "shariah": false
+        }
     },
     {
-        "name": "FA40",
-        "code": "0867I",
-        "shariah": false
+        "FBMMSCS": {
+            "code": "0873I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMACE",
-        "code": "0871I",
-        "shariah": false
+        "FBMAPUSD": {
+            "code": "0827I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMAPMYR",
-        "code": "0828I",
-        "shariah": false
+        "UTILITIES": {
+            "code": "0065I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMAPUSD",
-        "code": "0827I",
-        "shariah": false
+        "FBMHIJRAH": {
+            "code": "0869I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMFLG",
-        "code": "0866I",
-        "shariah": false
+        "FBMFLG": {
+            "code": "0866I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMHIJRAH",
-        "code": "0869I",
-        "shariah": false
+        "FBM70": {
+            "code": "0863I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMMSCAP",
-        "code": "0872I",
-        "shariah": false
+        "ADVENTA-OR": {
+            "code": "7191OR",
+            "shariah": true
+        }
     },
     {
-        "name": "FBMMSCS",
-        "code": "0873I",
-        "shariah": false
+        "IHS046000824": {
+            "code": "0401GA",
+            "shariah": true
+        }
     },
     {
-        "name": "FBMPALMOIL-NC",
-        "code": "0829I",
-        "shariah": false
+        "ENERGY": {
+            "code": "0061I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMSHA",
-        "code": "0868I",
-        "shariah": false
+        "FBM100LC": {
+            "code": "0842I",
+            "shariah": false
+        }
     },
     {
-        "name": "FINANCIAL SERVICES",
-        "code": "0010I",
-        "shariah": false
+        "TECHNOLOGY": {
+            "code": "0005I",
+            "shariah": false
+        }
     },
     {
-        "name": "HEALTH CARE",
-        "code": "0062I",
-        "shariah": false
+        "OMH": {
+            "code": "5298",
+            "shariah": true
+        }
     },
     {
-        "name": "INDUSTRIAL PRODUCTS & SERVICES",
-        "code": "0002I",
-        "shariah": false
+        "CPETECH": {
+            "code": "5317",
+            "shariah": false
+        }
     },
     {
-        "name": "PLANTATION",
-        "code": "0025I",
-        "shariah": false
+        "INDUSTRIAL PRODUCTS & SERVICES": {
+            "code": "0002I",
+            "shariah": false
+        }
     },
     {
-        "name": "PROPERTY",
-        "code": "0020I",
-        "shariah": false
+        "REIT": {
+            "code": "0050I",
+            "shariah": false
+        }
     },
     {
-        "name": "REIT",
-        "code": "0050I",
-        "shariah": false
+        "FBMACE": {
+            "code": "0871I",
+            "shariah": false
+        }
     },
     {
-        "name": "TECHNOLOGY",
-        "code": "0005I",
-        "shariah": false
+        "TRANSPORTATION & LOGISTICS": {
+            "code": "0064I",
+            "shariah": false
+        }
     },
     {
-        "name": "TELECOMMUNICATIONS & MEDIA",
-        "code": "0063I",
-        "shariah": false
+        "FA40": {
+            "code": "0867I",
+            "shariah": false
+        }
     },
     {
-        "name": "TRANSPORTATION & LOGISTICS",
-        "code": "0064I",
-        "shariah": false
+        "FBMSCAP": {
+            "code": "0864I",
+            "shariah": false
+        }
     },
     {
-        "name": "UTILITIES",
-        "code": "0065I",
-        "shariah": false
+        "HEALTH CARE": {
+            "code": "0062I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBM100LC",
-        "code": "0842I",
-        "shariah": false
+        "PLANTATION": {
+            "code": "0025I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBM100LS",
-        "code": "0843I",
-        "shariah": false
+        "FBM100LS": {
+            "code": "0843I",
+            "shariah": false
+        }
     },
     {
-        "name": "ADVENTA-OR",
-        "code": "7191OR",
-        "shariah": true
+        "F4GBM": {
+            "code": "0840I",
+            "shariah": false
+        }
     },
     {
-        "name": "DIN045801028",
-        "code": "0400GB",
-        "shariah": true
+        "CONSTRUCTION": {
+            "code": "0003I",
+            "shariah": false
+        }
     },
     {
-        "name": "IHS046000824",
-        "code": "0401GA",
-        "shariah": true
+        "FBMMSCAP": {
+            "code": "0872I",
+            "shariah": false
+        }
     },
     {
-        "name": "DPS-OR",
-        "code": "7198OR",
-        "shariah": true
+        "CONSUMER PRODUCTS & SERVICES": {
+            "code": "0001I",
+            "shariah": false
+        }
     },
     {
-        "name": "CPETECH",
-        "code": "5317",
-        "shariah": false
+        "PROPERTY": {
+            "code": "0020I",
+            "shariah": false
+        }
     },
     {
-        "name": "FBMKLCI-EA",
-        "code": "0820EA",
-        "shariah": false
+        "FBMKLCI-EA": {
+            "code": "0820EA",
+            "shariah": false
+        }
     },
     {
-        "name": "CARZO",
-        "code": "03048",
-        "shariah": true
+        "CARZO": {
+            "code": "03048",
+            "shariah": true
+        }
     },
     {
-        "name": "GPP",
-        "code": "03029",
-        "shariah": true
+        "GPP": {
+            "code": "03029",
+            "shariah": true
+        }
     },
     {
-        "name": "PHARMA",
-        "code": "7081",
-        "shariah": true
+        "PHARMA": {
+            "code": "7081",
+            "shariah": true
+        }
     },
     {
-        "name": "SAPNRG",
-        "code": "5218",
-        "shariah": true
+        "SAPNRG": {
+            "code": "5218",
+            "shariah": true
+        }
     },
     {
-        "name": "SCABLE",
-        "code": "5170",
-        "shariah": true
+        "SCABLE": {
+            "code": "5170",
+            "shariah": true
+        }
     },
     {
-        "name": "IREKA",
-        "code": "8834",
-        "shariah": true
+        "IREKA": {
+            "code": "8834",
+            "shariah": true
+        }
     },
     {
-        "name": "ALAM",
-        "code": "5115",
-        "shariah": true
+        "ALAM": {
+            "code": "5115",
+            "shariah": true
+        }
     },
     {
-        "name": "METFUS50",
-        "code": "0827EA",
-        "shariah": true
+        "METFUS50": {
+            "code": "0827EA",
+            "shariah": true
+        }
     },
     {
-        "name": "CAPITALA",
-        "code": "5099",
-        "shariah": true
+        "CAPITALA": {
+            "code": "5099",
+            "shariah": true
+        }
     },
     {
-        "name": "BARAKAH",
-        "code": "7251",
-        "shariah": true
+        "BARAKAH": {
+            "code": "7251",
+            "shariah": true
+        }
     },
     {
-        "name": "KHEESAN",
-        "code": "6203",
-        "shariah": false
+        "KHEESAN": {
+            "code": "6203",
+            "shariah": false
+        }
     },
     {
-        "name": "ABFMY1",
-        "code": "0800EA",
-        "shariah": false
+        "ABFMY1": {
+            "code": "0800EA",
+            "shariah": false
+        }
     },
     {
-        "name": "MILUX",
-        "code": "7935",
-        "shariah": true
+        "MILUX": {
+            "code": "7935",
+            "shariah": true
+        }
     },
     {
-        "name": "SUBUR",
-        "code": "6904",
-        "shariah": false
+        "SUBUR": {
+            "code": "6904",
+            "shariah": false
+        }
     },
     {
-        "name": "TWL",
-        "code": "7079",
-        "shariah": true
+        "TWL": {
+            "code": "7079",
+            "shariah": true
+        }
     },
     {
-        "name": "MAA",
-        "code": "1198",
-        "shariah": false
+        "MAA": {
+            "code": "1198",
+            "shariah": false
+        }
     },
     {
-        "name": "KESM",
-        "code": "9334",
-        "shariah": true
+        "KESM": {
+            "code": "9334",
+            "shariah": true
+        }
     },
     {
-        "name": "PERSTIM",
-        "code": "5436",
-        "shariah": false
+        "PERSTIM": {
+            "code": "5436",
+            "shariah": false
+        }
     },
     {
-        "name": "ESAFE",
-        "code": "0190",
-        "shariah": true
+        "ESAFE": {
+            "code": "0190",
+            "shariah": true
+        }
     },
     {
-        "name": "NADIBHD",
-        "code": "0206",
-        "shariah": true
+        "NADIBHD": {
+            "code": "0206",
+            "shariah": true
+        }
     },
     {
-        "name": "LBICAP",
-        "code": "8494",
-        "shariah": true
+        "LBICAP": {
+            "code": "8494",
+            "shariah": true
+        }
     },
     {
-        "name": "HEVEA",
-        "code": "5095",
-        "shariah": true
+        "HEVEA": {
+            "code": "5095",
+            "shariah": true
+        }
     },
     {
-        "name": "EIG",
-        "code": "5081",
-        "shariah": true
+        "EIG": {
+            "code": "5081",
+            "shariah": true
+        }
     },
     {
-        "name": "TURBO",
-        "code": "5167",
-        "shariah": false
+        "TURBO": {
+            "code": "5167",
+            "shariah": false
+        }
     },
     {
-        "name": "TFP",
-        "code": "0145",
-        "shariah": false
+        "TFP": {
+            "code": "0145",
+            "shariah": false
+        }
     },
     {
-        "name": "MULPHA",
-        "code": "3905",
-        "shariah": false
+        "MULPHA": {
+            "code": "3905",
+            "shariah": false
+        }
     },
     {
-        "name": "PTARAS",
-        "code": "9598",
-        "shariah": true
+        "PTARAS": {
+            "code": "9598",
+            "shariah": true
+        }
     },
     {
-        "name": "ZECON",
-        "code": "7028",
-        "shariah": true
+        "ZECON": {
+            "code": "7028",
+            "shariah": true
+        }
     },
     {
-        "name": "JASKITA",
-        "code": "8648",
-        "shariah": false
+        "JASKITA": {
+            "code": "8648",
+            "shariah": false
+        }
     },
     {
-        "name": "NPC",
-        "code": "5047",
-        "shariah": true
+        "NPC": {
+            "code": "5047",
+            "shariah": true
+        }
     },
     {
-        "name": "SHANG",
-        "code": "5517",
-        "shariah": true
+        "SHANG": {
+            "code": "5517",
+            "shariah": true
+        }
     },
     {
-        "name": "PARKSON",
-        "code": "5657",
-        "shariah": true
+        "PARKSON": {
+            "code": "5657",
+            "shariah": true
+        }
     },
     {
-        "name": "MAGNA",
-        "code": "7617",
-        "shariah": true
+        "MAGNA": {
+            "code": "7617",
+            "shariah": true
+        }
     },
     {
-        "name": "GOINNO",
-        "code": "03028",
-        "shariah": true
+        "GOINNO": {
+            "code": "03028",
+            "shariah": true
+        }
     },
     {
-        "name": "CHUAN",
-        "code": "7016",
-        "shariah": true
+        "CHUAN": {
+            "code": "7016",
+            "shariah": true
+        }
     },
     {
-        "name": "GKENT",
-        "code": "3204",
-        "shariah": true
+        "GKENT": {
+            "code": "3204",
+            "shariah": true
+        }
     },
     {
-        "name": "VERSATL",
-        "code": "4995",
-        "shariah": true
+        "VERSATL": {
+            "code": "4995",
+            "shariah": true
+        }
     },
     {
-        "name": "MUHIBAH",
-        "code": "5703",
-        "shariah": true
+        "MUHIBAH": {
+            "code": "5703",
+            "shariah": true
+        }
     },
     {
-        "name": "BJASSET",
-        "code": "3239",
-        "shariah": false
+        "BJASSET": {
+            "code": "3239",
+            "shariah": false
+        }
     },
     {
-        "name": "WONG",
-        "code": "7050",
-        "shariah": true
+        "WONG": {
+            "code": "7050",
+            "shariah": true
+        }
     },
     {
-        "name": "CLOUD",
-        "code": "03001",
-        "shariah": true
+        "CLOUD": {
+            "code": "03001",
+            "shariah": true
+        }
     },
     {
-        "name": "CYL",
-        "code": "7157",
-        "shariah": true
+        "CYL": {
+            "code": "7157",
+            "shariah": true
+        }
     },
     {
-        "name": "KIMLUN",
-        "code": "5171",
-        "shariah": true
+        "KIMLUN": {
+            "code": "5171",
+            "shariah": true
+        }
     },
     {
-        "name": "NTPM",
-        "code": "5066",
-        "shariah": true
+        "NTPM": {
+            "code": "5066",
+            "shariah": true
+        }
     },
     {
-        "name": "MUIIND",
-        "code": "3891",
-        "shariah": false
+        "MUIIND": {
+            "code": "3891",
+            "shariah": false
+        }
     },
     {
-        "name": "BORNOIL",
-        "code": "7036",
-        "shariah": true
+        "BORNOIL": {
+            "code": "7036",
+            "shariah": true
+        }
     },
     {
-        "name": "PENSONI",
-        "code": "9997",
-        "shariah": true
+        "PENSONI": {
+            "code": "9997",
+            "shariah": true
+        }
     },
     {
-        "name": "GENM",
-        "code": "4715",
-        "shariah": false
+        "GENM": {
+            "code": "4715",
+            "shariah": false
+        }
     },
     {
-        "name": "KNUSFOR",
-        "code": "5035",
-        "shariah": true
+        "KNUSFOR": {
+            "code": "5035",
+            "shariah": true
+        }
     },
     {
-        "name": "NEXGRAM",
-        "code": "0096",
-        "shariah": true
+        "NEXGRAM": {
+            "code": "0096",
+            "shariah": true
+        }
     },
     {
-        "name": "INCKEN",
-        "code": "2607",
-        "shariah": true
+        "INCKEN": {
+            "code": "2607",
+            "shariah": true
+        }
     },
     {
-        "name": "YNHPROP",
-        "code": "3158",
-        "shariah": true
+        "YNHPROP": {
+            "code": "3158",
+            "shariah": true
+        }
     },
     {
-        "name": "XDL",
-        "code": "5156",
-        "shariah": false
+        "XDL": {
+            "code": "5156",
+            "shariah": false
+        }
     },
     {
-        "name": "ORGABIO",
-        "code": "0252",
-        "shariah": true
+        "ORGABIO": {
+            "code": "0252",
+            "shariah": true
+        }
     },
     {
-        "name": "PESONA",
-        "code": "8311",
-        "shariah": true
+        "PESONA": {
+            "code": "8311",
+            "shariah": true
+        }
     },
     {
-        "name": "BJCORP",
-        "code": "3395",
-        "shariah": false
+        "BJCORP": {
+            "code": "3395",
+            "shariah": false
+        }
     },
     {
-        "name": "MJPERAK",
-        "code": "8141",
-        "shariah": true
+        "MJPERAK": {
+            "code": "8141",
+            "shariah": true
+        }
     },
     {
-        "name": "MEDIAC",
-        "code": "5090",
-        "shariah": true
+        "MEDIAC": {
+            "code": "5090",
+            "shariah": true
+        }
     },
     {
-        "name": "PMHLDG",
-        "code": "1287",
-        "shariah": true
+        "PMHLDG": {
+            "code": "1287",
+            "shariah": true
+        }
     },
     {
-        "name": "YEWLEE",
-        "code": "0248",
-        "shariah": true
+        "YEWLEE": {
+            "code": "0248",
+            "shariah": true
+        }
     },
     {
-        "name": "CHINAETF-USD",
-        "code": "0829EB",
-        "shariah": false
+        "CHINAETF-USD": {
+            "code": "0829EB",
+            "shariah": false
+        }
     },
     {
-        "name": "ZENTECH",
-        "code": "0094",
-        "shariah": true
+        "ZENTECH": {
+            "code": "0094",
+            "shariah": true
+        }
     },
     {
-        "name": "ANCOMLB",
-        "code": "0048",
-        "shariah": true
+        "ANCOMLB": {
+            "code": "0048",
+            "shariah": true
+        }
     },
     {
-        "name": "OVERSEA",
-        "code": "0153",
-        "shariah": false
+        "OVERSEA": {
+            "code": "0153",
+            "shariah": false
+        }
     },
     {
-        "name": "TCHONG",
-        "code": "4405",
-        "shariah": false
+        "TCHONG": {
+            "code": "4405",
+            "shariah": false
+        }
     },
     {
-        "name": "GUH",
-        "code": "3247",
-        "shariah": true
+        "GUH": {
+            "code": "3247",
+            "shariah": true
+        }
     },
     {
-        "name": "EMETALL",
-        "code": "7217",
-        "shariah": true
+        "EMETALL": {
+            "code": "7217",
+            "shariah": true
+        }
     },
     {
-        "name": "MMSV",
-        "code": "0113",
-        "shariah": true
+        "MMSV": {
+            "code": "0113",
+            "shariah": true
+        }
     },
     {
-        "name": "LANDMRK",
-        "code": "1643",
-        "shariah": false
+        "LANDMRK": {
+            "code": "1643",
+            "shariah": false
+        }
     },
     {
-        "name": "KIALIM",
-        "code": "6211",
-        "shariah": true
+        "KIALIM": {
+            "code": "6211",
+            "shariah": true
+        }
     },
     {
-        "name": "GOB",
-        "code": "1147",
-        "shariah": true
+        "GOB": {
+            "code": "1147",
+            "shariah": true
+        }
     },
     {
-        "name": "KAMDAR",
-        "code": "8672",
-        "shariah": true
+        "KAMDAR": {
+            "code": "8672",
+            "shariah": true
+        }
     },
     {
-        "name": "SEALINK",
-        "code": "5145",
-        "shariah": true
+        "SEALINK": {
+            "code": "5145",
+            "shariah": true
+        }
     },
     {
-        "name": "CLASSITA",
-        "code": "7154",
-        "shariah": true
+        "CLASSITA": {
+            "code": "7154",
+            "shariah": true
+        }
     },
     {
-        "name": "MYCRON",
-        "code": "5087",
-        "shariah": true
+        "MYCRON": {
+            "code": "5087",
+            "shariah": true
+        }
     },
     {
-        "name": "AWANTEC",
-        "code": "5204",
-        "shariah": true
+        "AWANTEC": {
+            "code": "5204",
+            "shariah": true
+        }
     },
     {
-        "name": "CHOOBEE",
-        "code": "5797",
-        "shariah": true
+        "CHOOBEE": {
+            "code": "5797",
+            "shariah": true
+        }
     },
     {
-        "name": "WARISAN",
-        "code": "5016",
-        "shariah": true
+        "WARISAN": {
+            "code": "5016",
+            "shariah": true
+        }
     },
     {
-        "name": "MY-MOMETF",
-        "code": "0836EA",
-        "shariah": false
+        "MY-MOMETF": {
+            "code": "0836EA",
+            "shariah": false
+        }
     },
     {
-        "name": "DFCITY",
-        "code": "5165",
-        "shariah": true
+        "DFCITY": {
+            "code": "5165",
+            "shariah": true
+        }
     },
     {
-        "name": "CBIP",
-        "code": "7076",
-        "shariah": true
+        "CBIP": {
+            "code": "7076",
+            "shariah": true
+        }
     },
     {
-        "name": "WATTA",
-        "code": "7226",
-        "shariah": true
+        "WATTA": {
+            "code": "7226",
+            "shariah": true
+        }
     },
     {
-        "name": "GCE",
-        "code": "5592",
-        "shariah": true
+        "GCE": {
+            "code": "5592",
+            "shariah": true
+        }
     },
     {
-        "name": "MUDAJYA",
-        "code": "5085",
-        "shariah": true
+        "MUDAJYA": {
+            "code": "5085",
+            "shariah": true
+        }
     },
     {
-        "name": "OCR",
-        "code": "7071",
-        "shariah": true
+        "OCR": {
+            "code": "7071",
+            "shariah": true
+        }
     },
     {
-        "name": "AVI",
-        "code": "8885",
-        "shariah": true
+        "AVI": {
+            "code": "8885",
+            "shariah": true
+        }
     },
     {
-        "name": "CNH",
-        "code": "5104",
-        "shariah": true
+        "CNH": {
+            "code": "5104",
+            "shariah": true
+        }
     },
     {
-        "name": "SUPERMX",
-        "code": "7106",
-        "shariah": false
+        "SUPERMX": {
+            "code": "7106",
+            "shariah": false
+        }
     },
     {
-        "name": "AASIA",
-        "code": "7054",
-        "shariah": true
+        "AASIA": {
+            "code": "7054",
+            "shariah": true
+        }
     },
     {
-        "name": "CFM",
-        "code": "8044",
-        "shariah": false
+        "CFM": {
+            "code": "8044",
+            "shariah": false
+        }
     },
     {
-        "name": "CME",
-        "code": "7018",
-        "shariah": true
+        "CME": {
+            "code": "7018",
+            "shariah": true
+        }
     },
     {
-        "name": "WTK",
-        "code": "4243",
-        "shariah": true
+        "WTK": {
+            "code": "4243",
+            "shariah": true
+        }
     },
     {
-        "name": "MELEWAR",
-        "code": "3778",
-        "shariah": true
+        "MELEWAR": {
+            "code": "3778",
+            "shariah": true
+        }
     },
     {
-        "name": "ZELAN",
-        "code": "2283",
-        "shariah": true
+        "ZELAN": {
+            "code": "2283",
+            "shariah": true
+        }
     },
     {
-        "name": "GADANG",
-        "code": "9261",
-        "shariah": true
+        "GADANG": {
+            "code": "9261",
+            "shariah": true
+        }
     },
     {
-        "name": "AFUJIYA",
-        "code": "5198",
-        "shariah": true
+        "AFUJIYA": {
+            "code": "5198",
+            "shariah": true
+        }
     },
     {
-        "name": "HARNLEN",
-        "code": "7501",
-        "shariah": true
+        "HARNLEN": {
+            "code": "7501",
+            "shariah": true
+        }
     },
     {
-        "name": "DNONCE",
-        "code": "7114",
-        "shariah": true
+        "DNONCE": {
+            "code": "7114",
+            "shariah": true
+        }
     },
     {
-        "name": "TWRREIT",
-        "code": "5111",
-        "shariah": false
+        "TWRREIT": {
+            "code": "5111",
+            "shariah": false
+        }
     },
     {
-        "name": "TIENWAH",
-        "code": "7374",
-        "shariah": false
+        "TIENWAH": {
+            "code": "7374",
+            "shariah": false
+        }
     },
     {
-        "name": "SEEHUP",
-        "code": "7053",
-        "shariah": true
+        "SEEHUP": {
+            "code": "7053",
+            "shariah": true
+        }
     },
     {
-        "name": "OLYMPIA",
-        "code": "3018",
-        "shariah": false
+        "OLYMPIA": {
+            "code": "3018",
+            "shariah": false
+        }
     },
     {
-        "name": "IWCITY",
-        "code": "1589",
-        "shariah": true
+        "IWCITY": {
+            "code": "1589",
+            "shariah": true
+        }
     },
     {
-        "name": "TEXCHEM",
-        "code": "8702",
-        "shariah": true
+        "TEXCHEM": {
+            "code": "8702",
+            "shariah": true
+        }
     },
     {
-        "name": "MYETFID",
-        "code": "0824EA",
-        "shariah": true
+        "MYETFID": {
+            "code": "0824EA",
+            "shariah": true
+        }
     },
     {
-        "name": "FAJAR",
-        "code": "7047",
-        "shariah": true
+        "FAJAR": {
+            "code": "7047",
+            "shariah": true
+        }
     },
     {
-        "name": "EUROSP",
-        "code": "7094",
-        "shariah": true
+        "EUROSP": {
+            "code": "7094",
+            "shariah": true
+        }
     },
     {
-        "name": "SCBUILD",
-        "code": "0109",
-        "shariah": true
+        "SCBUILD": {
+            "code": "0109",
+            "shariah": true
+        }
     },
     {
-        "name": "PHB",
-        "code": "4464",
-        "shariah": true
+        "PHB": {
+            "code": "4464",
+            "shariah": true
+        }
     },
     {
-        "name": "PUNCAK",
-        "code": "6807",
-        "shariah": true
+        "PUNCAK": {
+            "code": "6807",
+            "shariah": true
+        }
     },
     {
-        "name": "ECONBHD",
-        "code": "5253",
-        "shariah": true
+        "ECONBHD": {
+            "code": "5253",
+            "shariah": true
+        }
     },
     {
-        "name": "SAUDEE",
-        "code": "5157",
-        "shariah": true
+        "SAUDEE": {
+            "code": "5157",
+            "shariah": true
+        }
     },
     {
-        "name": "KSSC",
-        "code": "5192",
-        "shariah": true
+        "KSSC": {
+            "code": "5192",
+            "shariah": true
+        }
     },
     {
-        "name": "MUDA",
-        "code": "3883",
-        "shariah": true
+        "MUDA": {
+            "code": "3883",
+            "shariah": true
+        }
     },
     {
-        "name": "PASDEC",
-        "code": "6912",
-        "shariah": true
+        "PASDEC": {
+            "code": "6912",
+            "shariah": true
+        }
     },
     {
-        "name": "ENGKAH",
-        "code": "7149",
-        "shariah": true
+        "ENGKAH": {
+            "code": "7149",
+            "shariah": true
+        }
     },
     {
-        "name": "EKOVEST",
-        "code": "8877",
-        "shariah": true
+        "EKOVEST": {
+            "code": "8877",
+            "shariah": true
+        }
     },
     {
-        "name": "WIDAD",
-        "code": "0162",
-        "shariah": true
+        "WIDAD": {
+            "code": "0162",
+            "shariah": true
+        }
     },
     {
-        "name": "YGL",
-        "code": "0086",
-        "shariah": true
+        "YGL": {
+            "code": "0086",
+            "shariah": true
+        }
     },
     {
-        "name": "AXTERIA",
-        "code": "7120",
-        "shariah": true
+        "AXTERIA": {
+            "code": "7120",
+            "shariah": true
+        }
     },
     {
-        "name": "MYNEWS",
-        "code": "5275",
-        "shariah": false
+        "MYNEWS": {
+            "code": "5275",
+            "shariah": false
+        }
     },
     {
-        "name": "KANGER",
-        "code": "0170",
-        "shariah": true
+        "KANGER": {
+            "code": "0170",
+            "shariah": true
+        }
     },
     {
-        "name": "TALAMT",
-        "code": "2259",
-        "shariah": true
+        "TALAMT": {
+            "code": "2259",
+            "shariah": true
+        }
     },
     {
-        "name": "ENCORP",
-        "code": "6076",
-        "shariah": true
+        "ENCORP": {
+            "code": "6076",
+            "shariah": true
+        }
     },
     {
-        "name": "MQTECH",
-        "code": "0070",
-        "shariah": true
+        "MQTECH": {
+            "code": "0070",
+            "shariah": true
+        }
     },
     {
-        "name": "PWORTH",
-        "code": "7123",
-        "shariah": true
+        "PWORTH": {
+            "code": "7123",
+            "shariah": true
+        }
     },
     {
-        "name": "ASDION",
-        "code": "0068",
-        "shariah": true
+        "ASDION": {
+            "code": "0068",
+            "shariah": true
+        }
     },
     {
-        "name": "RSAWIT",
-        "code": "5113",
-        "shariah": true
+        "RSAWIT": {
+            "code": "5113",
+            "shariah": true
+        }
     },
     {
-        "name": "FARLIM",
-        "code": "6041",
-        "shariah": true
+        "FARLIM": {
+            "code": "6041",
+            "shariah": true
+        }
     },
     {
-        "name": "RALCO",
-        "code": "7498",
-        "shariah": true
+        "RALCO": {
+            "code": "7498",
+            "shariah": true
+        }
     },
     {
-        "name": "SMI",
-        "code": "4375",
-        "shariah": true
+        "SMI": {
+            "code": "4375",
+            "shariah": true
+        }
     },
     {
-        "name": "HOHUP",
-        "code": "5169",
-        "shariah": true
+        "HOHUP": {
+            "code": "5169",
+            "shariah": true
+        }
     },
     {
-        "name": "LUSTER",
-        "code": "5068",
-        "shariah": false
+        "LUSTER": {
+            "code": "5068",
+            "shariah": false
+        }
     },
     {
-        "name": "MLAB",
-        "code": "0085",
-        "shariah": false
+        "MLAB": {
+            "code": "0085",
+            "shariah": false
+        }
     },
     {
-        "name": "MTRONIC",
-        "code": "0043",
-        "shariah": true
+        "MTRONIC": {
+            "code": "0043",
+            "shariah": true
+        }
     },
     {
-        "name": "WTHORSE",
-        "code": "5009",
-        "shariah": true
+        "WTHORSE": {
+            "code": "5009",
+            "shariah": true
+        }
     },
     {
-        "name": "JADEM",
-        "code": "7043",
-        "shariah": true
+        "JADEM": {
+            "code": "7043",
+            "shariah": true
+        }
     },
     {
-        "name": "EWINT",
-        "code": "5283",
-        "shariah": true
+        "EWINT": {
+            "code": "5283",
+            "shariah": true
+        }
     },
     {
-        "name": "SALCON",
-        "code": "8567",
-        "shariah": true
+        "SALCON": {
+            "code": "8567",
+            "shariah": true
+        }
     },
     {
-        "name": "AURO",
-        "code": "5025",
-        "shariah": true
+        "AURO": {
+            "code": "5025",
+            "shariah": true
+        }
     },
     {
-        "name": "ARK",
-        "code": "7007",
-        "shariah": true
+        "ARK": {
+            "code": "7007",
+            "shariah": true
+        }
     },
     {
-        "name": "PINEPAC",
-        "code": "1902",
-        "shariah": false
+        "PINEPAC": {
+            "code": "1902",
+            "shariah": false
+        }
     },
     {
-        "name": "MALAKOF",
-        "code": "5264",
-        "shariah": true
+        "MALAKOF": {
+            "code": "5264",
+            "shariah": true
+        }
     },
     {
-        "name": "G3",
-        "code": "7184",
-        "shariah": true
+        "G3": {
+            "code": "7184",
+            "shariah": true
+        }
     },
     {
-        "name": "CUSCAPI",
-        "code": "0051",
-        "shariah": true
+        "CUSCAPI": {
+            "code": "0051",
+            "shariah": true
+        }
     },
     {
-        "name": "PERMAJU",
-        "code": "7080",
-        "shariah": true
+        "PERMAJU": {
+            "code": "7080",
+            "shariah": true
+        }
     },
     {
-        "name": "CRESBLD",
-        "code": "8591",
-        "shariah": true
+        "CRESBLD": {
+            "code": "8591",
+            "shariah": true
+        }
     },
     {
-        "name": "YB",
-        "code": "5048",
-        "shariah": true
+        "YB": {
+            "code": "5048",
+            "shariah": true
+        }
     },
     {
-        "name": "ASB",
-        "code": "1481",
-        "shariah": false
+        "ASB": {
+            "code": "1481",
+            "shariah": false
+        }
     },
     {
-        "name": "DNEX",
-        "code": "4456",
-        "shariah": true
+        "DNEX": {
+            "code": "4456",
+            "shariah": true
+        }
     },
     {
-        "name": "ASIAPLY",
-        "code": "0105",
-        "shariah": true
+        "ASIAPLY": {
+            "code": "0105",
+            "shariah": true
+        }
     },
     {
-        "name": "NIHSIN",
-        "code": "7215",
-        "shariah": true
+        "NIHSIN": {
+            "code": "7215",
+            "shariah": true
+        }
     },
     {
-        "name": "LIENHOE",
-        "code": "3573",
-        "shariah": false
+        "LIENHOE": {
+            "code": "3573",
+            "shariah": false
+        }
     },
     {
-        "name": "COMFORT",
-        "code": "2127",
-        "shariah": true
+        "COMFORT": {
+            "code": "2127",
+            "shariah": true
+        }
     },
     {
-        "name": "GDEX",
-        "code": "0078",
-        "shariah": true
+        "GDEX": {
+            "code": "0078",
+            "shariah": true
+        }
     },
     {
-        "name": "CSH",
-        "code": "7165",
-        "shariah": false
+        "CSH": {
+            "code": "7165",
+            "shariah": false
+        }
     },
     {
-        "name": "SYMLIFE",
-        "code": "1538",
-        "shariah": true
+        "SYMLIFE": {
+            "code": "1538",
+            "shariah": true
+        }
     },
     {
-        "name": "NYLEX",
-        "code": "4944",
-        "shariah": true
+        "NYLEX": {
+            "code": "4944",
+            "shariah": true
+        }
     },
     {
-        "name": "BCMALL",
-        "code": "0187",
-        "shariah": true
+        "BCMALL": {
+            "code": "0187",
+            "shariah": true
+        }
     },
     {
-        "name": "HONGSENG",
-        "code": "0041",
-        "shariah": true
+        "HONGSENG": {
+            "code": "0041",
+            "shariah": true
+        }
     },
     {
-        "name": "GBAY",
-        "code": "9148",
-        "shariah": true
+        "GBAY": {
+            "code": "9148",
+            "shariah": true
+        }
     },
     {
-        "name": "EVERGRN",
-        "code": "5101",
-        "shariah": true
+        "EVERGRN": {
+            "code": "5101",
+            "shariah": true
+        }
     },
     {
-        "name": "PDZ",
-        "code": "6254",
-        "shariah": true
+        "PDZ": {
+            "code": "6254",
+            "shariah": true
+        }
     },
     {
-        "name": "ADVENTA",
-        "code": "7191",
-        "shariah": true
+        "ADVENTA": {
+            "code": "7191",
+            "shariah": true
+        }
     },
     {
-        "name": "TROP",
-        "code": "5401",
-        "shariah": true
+        "TROP": {
+            "code": "5401",
+            "shariah": true
+        }
     },
     {
-        "name": "LCTITAN",
-        "code": "5284",
-        "shariah": true
+        "LCTITAN": {
+            "code": "5284",
+            "shariah": true
+        }
     },
     {
-        "name": "HARTA",
-        "code": "5168",
-        "shariah": true
+        "HARTA": {
+            "code": "5168",
+            "shariah": true
+        }
     },
     {
-        "name": "NP",
-        "code": "03045",
-        "shariah": false
+        "NP": {
+            "code": "03045",
+            "shariah": false
+        }
     },
     {
-        "name": "GLBHD",
-        "code": "7382",
-        "shariah": true
+        "GLBHD": {
+            "code": "7382",
+            "shariah": true
+        }
     },
     {
-        "name": "COMPUGT",
-        "code": "5037",
-        "shariah": true
+        "COMPUGT": {
+            "code": "5037",
+            "shariah": true
+        }
     },
     {
-        "name": "AEMULUS",
-        "code": "0181",
-        "shariah": true
+        "AEMULUS": {
+            "code": "0181",
+            "shariah": true
+        }
     },
     {
-        "name": "KIMHIN",
-        "code": "5371",
-        "shariah": true
+        "KIMHIN": {
+            "code": "5371",
+            "shariah": true
+        }
     },
     {
-        "name": "HM",
-        "code": "0060",
-        "shariah": true
+        "HM": {
+            "code": "0060",
+            "shariah": true
+        }
     },
     {
-        "name": "ITRONIC",
-        "code": "9393",
-        "shariah": true
+        "ITRONIC": {
+            "code": "9393",
+            "shariah": true
+        }
     },
     {
-        "name": "PASUKGB",
-        "code": "0177",
-        "shariah": true
+        "PASUKGB": {
+            "code": "0177",
+            "shariah": true
+        }
     },
     {
-        "name": "FAST",
-        "code": "0084",
-        "shariah": true
+        "FAST": {
+            "code": "0084",
+            "shariah": true
+        }
     },
     {
-        "name": "FOCUS",
-        "code": "0116",
-        "shariah": false
+        "FOCUS": {
+            "code": "0116",
+            "shariah": false
+        }
     },
     {
-        "name": "JADI",
-        "code": "7223",
-        "shariah": true
+        "JADI": {
+            "code": "7223",
+            "shariah": true
+        }
     },
     {
-        "name": "FLEXI",
-        "code": "0231",
-        "shariah": true
+        "FLEXI": {
+            "code": "0231",
+            "shariah": true
+        }
     },
     {
-        "name": "WOODLAN",
-        "code": "7025",
-        "shariah": true
+        "WOODLAN": {
+            "code": "7025",
+            "shariah": true
+        }
     },
     {
-        "name": "MALTON",
-        "code": "6181",
-        "shariah": true
+        "MALTON": {
+            "code": "6181",
+            "shariah": true
+        }
     },
     {
-        "name": "NICE",
-        "code": "7139",
-        "shariah": true
+        "NICE": {
+            "code": "7139",
+            "shariah": true
+        }
     },
     {
-        "name": "MSM",
-        "code": "5202",
-        "shariah": true
+        "MSM": {
+            "code": "5202",
+            "shariah": true
+        }
     },
     {
-        "name": "XINHWA",
-        "code": "5267",
-        "shariah": true
+        "XINHWA": {
+            "code": "5267",
+            "shariah": true
+        }
     },
     {
-        "name": "TCS",
-        "code": "0221",
-        "shariah": true
+        "TCS": {
+            "code": "0221",
+            "shariah": true
+        }
     },
     {
-        "name": "ASTEEL",
-        "code": "7020",
-        "shariah": true
+        "ASTEEL": {
+            "code": "7020",
+            "shariah": true
+        }
     },
     {
-        "name": "INNITY",
-        "code": "0147",
-        "shariah": false
+        "INNITY": {
+            "code": "0147",
+            "shariah": false
+        }
     },
     {
-        "name": "ADVCON",
-        "code": "5281",
-        "shariah": true
+        "ADVCON": {
+            "code": "5281",
+            "shariah": true
+        }
     },
     {
-        "name": "BAHVEST",
-        "code": "0098",
-        "shariah": true
+        "BAHVEST": {
+            "code": "0098",
+            "shariah": true
+        }
     },
     {
-        "name": "PRTASCO",
-        "code": "5070",
-        "shariah": true
+        "PRTASCO": {
+            "code": "5070",
+            "shariah": true
+        }
     },
     {
-        "name": "BOXPAK",
-        "code": "6297",
-        "shariah": false
+        "BOXPAK": {
+            "code": "6297",
+            "shariah": false
+        }
     },
     {
-        "name": "MNC",
-        "code": "0103",
-        "shariah": false
+        "MNC": {
+            "code": "0103",
+            "shariah": false
+        }
     },
     {
-        "name": "CITAGLB",
-        "code": "7245",
-        "shariah": true
+        "CITAGLB": {
+            "code": "7245",
+            "shariah": true
+        }
     },
     {
-        "name": "MINETEC",
-        "code": "7219",
-        "shariah": true
+        "MINETEC": {
+            "code": "7219",
+            "shariah": true
+        }
     },
     {
-        "name": "MERCURY",
-        "code": "8192",
-        "shariah": true
+        "MERCURY": {
+            "code": "8192",
+            "shariah": true
+        }
     },
     {
-        "name": "SMCAP",
-        "code": "9776",
-        "shariah": true
+        "SMCAP": {
+            "code": "9776",
+            "shariah": true
+        }
     },
     {
-        "name": "HEXCARE",
-        "code": "7803",
-        "shariah": true
+        "HEXCARE": {
+            "code": "7803",
+            "shariah": true
+        }
     },
     {
-        "name": "MENTIGA",
-        "code": "5223",
-        "shariah": true
+        "MENTIGA": {
+            "code": "5223",
+            "shariah": true
+        }
     },
     {
-        "name": "IMPIANA",
-        "code": "7243",
-        "shariah": false
+        "IMPIANA": {
+            "code": "7243",
+            "shariah": false
+        }
     },
     {
-        "name": "NETX",
-        "code": "0020",
-        "shariah": false
+        "NETX": {
+            "code": "0020",
+            "shariah": false
+        }
     },
     {
-        "name": "LEFORM",
-        "code": "0266",
-        "shariah": true
+        "LEFORM": {
+            "code": "0266",
+            "shariah": true
+        }
     },
     {
-        "name": "PLS",
-        "code": "9695",
-        "shariah": true
+        "PLS": {
+            "code": "9695",
+            "shariah": true
+        }
     },
     {
-        "name": "YONGTAI",
-        "code": "7066",
-        "shariah": true
+        "YONGTAI": {
+            "code": "7066",
+            "shariah": true
+        }
     },
     {
-        "name": "BENALEC",
-        "code": "5190",
-        "shariah": true
+        "BENALEC": {
+            "code": "5190",
+            "shariah": true
+        }
     },
     {
-        "name": "SANICHI",
-        "code": "0133",
-        "shariah": false
+        "SANICHI": {
+            "code": "0133",
+            "shariah": false
+        }
     },
     {
-        "name": "CHHB",
-        "code": "5738",
-        "shariah": true
+        "CHHB": {
+            "code": "5738",
+            "shariah": true
+        }
     },
     {
-        "name": "TDM",
-        "code": "2054",
-        "shariah": true
+        "TDM": {
+            "code": "2054",
+            "shariah": true
+        }
     },
     {
-        "name": "QUALITY",
-        "code": "7544",
-        "shariah": true
+        "QUALITY": {
+            "code": "7544",
+            "shariah": true
+        }
     },
     {
-        "name": "BSLCORP",
-        "code": "7221",
-        "shariah": true
+        "BSLCORP": {
+            "code": "7221",
+            "shariah": true
+        }
     },
     {
-        "name": "PAM-A40M",
-        "code": "0822EA",
-        "shariah": false
+        "PAM-A40M": {
+            "code": "0822EA",
+            "shariah": false
+        }
     },
     {
-        "name": "PARAGON",
-        "code": "9407",
-        "shariah": true
+        "PARAGON": {
+            "code": "9407",
+            "shariah": true
+        }
     },
     {
-        "name": "JCY",
-        "code": "5161",
-        "shariah": true
+        "JCY": {
+            "code": "5161",
+            "shariah": true
+        }
     },
     {
-        "name": "VINVEST",
-        "code": "0069",
-        "shariah": true
+        "VINVEST": {
+            "code": "0069",
+            "shariah": true
+        }
     },
     {
-        "name": "EIB",
-        "code": "0255",
-        "shariah": true
+        "EIB": {
+            "code": "0255",
+            "shariah": true
+        }
     },
     {
-        "name": "TRIVE",
-        "code": "0118",
-        "shariah": true
+        "TRIVE": {
+            "code": "0118",
+            "shariah": true
+        }
     },
     {
-        "name": "NESTCON",
-        "code": "0235",
-        "shariah": true
+        "NESTCON": {
+            "code": "0235",
+            "shariah": true
+        }
     },
     {
-        "name": "ARTRONIQ",
-        "code": "0038",
-        "shariah": true
+        "ARTRONIQ": {
+            "code": "0038",
+            "shariah": true
+        }
     },
     {
-        "name": "VIZIONE",
-        "code": "7070",
-        "shariah": true
+        "VIZIONE": {
+            "code": "7070",
+            "shariah": true
+        }
     },
     {
-        "name": "KOMARK",
-        "code": "7017",
-        "shariah": true
+        "KOMARK": {
+            "code": "7017",
+            "shariah": true
+        }
     },
     {
-        "name": "MTOUCHE",
-        "code": "0092",
-        "shariah": false
+        "MTOUCHE": {
+            "code": "0092",
+            "shariah": false
+        }
     },
     {
-        "name": "ANEKA",
-        "code": "0226",
-        "shariah": true
+        "ANEKA": {
+            "code": "0226",
+            "shariah": true
+        }
     },
     {
-        "name": "FINTEC",
-        "code": "0150",
-        "shariah": false
+        "FINTEC": {
+            "code": "0150",
+            "shariah": false
+        }
     },
     {
-        "name": "TAWIN",
-        "code": "7097",
-        "shariah": true
+        "TAWIN": {
+            "code": "7097",
+            "shariah": true
+        }
     },
     {
-        "name": "CHEETAH",
-        "code": "7209",
-        "shariah": true
+        "CHEETAH": {
+            "code": "7209",
+            "shariah": true
+        }
     },
     {
-        "name": "PICORP",
-        "code": "7201",
-        "shariah": true
+        "PICORP": {
+            "code": "7201",
+            "shariah": true
+        }
     },
     {
-        "name": "SAFETY",
-        "code": "03056",
-        "shariah": true
+        "SAFETY": {
+            "code": "03056",
+            "shariah": true
+        }
     },
     {
-        "name": "PINEAPP",
-        "code": "0006",
-        "shariah": false
+        "PINEAPP": {
+            "code": "0006",
+            "shariah": false
+        }
     },
     {
-        "name": "HWGB",
-        "code": "9601",
-        "shariah": true
+        "HWGB": {
+            "code": "9601",
+            "shariah": true
+        }
     },
     {
-        "name": "SMTRACK",
-        "code": "0169",
-        "shariah": true
+        "SMTRACK": {
+            "code": "0169",
+            "shariah": true
+        }
     },
     {
-        "name": "GCAP",
-        "code": "7676",
-        "shariah": true
+        "GCAP": {
+            "code": "7676",
+            "shariah": true
+        }
     },
     {
-        "name": "VSOLAR",
-        "code": "0066",
-        "shariah": true
+        "VSOLAR": {
+            "code": "0066",
+            "shariah": true
+        }
     },
     {
-        "name": "LKL",
-        "code": "0182",
-        "shariah": true
+        "LKL": {
+            "code": "0182",
+            "shariah": true
+        }
     },
     {
-        "name": "JSB",
-        "code": "5673",
-        "shariah": true
+        "JSB": {
+            "code": "5673",
+            "shariah": true
+        }
     },
     {
-        "name": "MPAY",
-        "code": "0156",
-        "shariah": true
+        "MPAY": {
+            "code": "0156",
+            "shariah": true
+        }
     },
     {
-        "name": "AXJ-REITSETF",
-        "code": "0837EA",
-        "shariah": false
+        "AXJ-REITSETF": {
+            "code": "0837EA",
+            "shariah": false
+        }
     },
     {
-        "name": "ICONIC",
-        "code": "9113",
-        "shariah": true
+        "ICONIC": {
+            "code": "9113",
+            "shariah": true
+        }
     },
     {
-        "name": "REVENUE",
-        "code": "0200",
-        "shariah": true
+        "REVENUE": {
+            "code": "0200",
+            "shariah": true
+        }
     },
     {
-        "name": "SCNWOLF",
-        "code": "7239",
-        "shariah": true
+        "SCNWOLF": {
+            "code": "7239",
+            "shariah": true
+        }
     },
     {
-        "name": "JIANKUN",
-        "code": "8923",
-        "shariah": true
+        "JIANKUN": {
+            "code": "8923",
+            "shariah": true
+        }
     },
     {
-        "name": "CNOUHUA",
-        "code": "5188",
-        "shariah": false
+        "CNOUHUA": {
+            "code": "5188",
+            "shariah": false
+        }
     },
     {
-        "name": "MCLEAN",
-        "code": "0167",
-        "shariah": true
+        "MCLEAN": {
+            "code": "0167",
+            "shariah": true
+        }
     },
     {
-        "name": "FITTERS",
-        "code": "9318",
-        "shariah": true
+        "FITTERS": {
+            "code": "9318",
+            "shariah": true
+        }
     },
     {
-        "name": "ANNJOO",
-        "code": "6556",
-        "shariah": true
+        "ANNJOO": {
+            "code": "6556",
+            "shariah": true
+        }
     },
     {
-        "name": "JOHAN",
-        "code": "3441",
-        "shariah": false
+        "JOHAN": {
+            "code": "3441",
+            "shariah": false
+        }
     },
     {
-        "name": "KNM",
-        "code": "7164",
-        "shariah": false
+        "KNM": {
+            "code": "7164",
+            "shariah": false
+        }
     },
     {
-        "name": "THRIVEN",
-        "code": "7889",
-        "shariah": true
+        "THRIVEN": {
+            "code": "7889",
+            "shariah": true
+        }
     },
     {
-        "name": "KGROUP",
-        "code": "0036",
-        "shariah": true
+        "KGROUP": {
+            "code": "0036",
+            "shariah": true
+        }
     },
     {
-        "name": "TOPGLOV",
-        "code": "7113",
-        "shariah": true
+        "TOPGLOV": {
+            "code": "7113",
+            "shariah": true
+        }
     },
     {
-        "name": "PUC",
-        "code": "0007",
-        "shariah": true
+        "PUC": {
+            "code": "0007",
+            "shariah": true
+        }
     },
     {
-        "name": "PARLO",
-        "code": "0022",
-        "shariah": true
+        "PARLO": {
+            "code": "0022",
+            "shariah": true
+        }
     },
     {
-        "name": "GIIB",
-        "code": "7192",
-        "shariah": true
+        "GIIB": {
+            "code": "7192",
+            "shariah": true
+        }
     },
     {
-        "name": "SSTEEL",
-        "code": "5665",
-        "shariah": false
+        "SSTEEL": {
+            "code": "5665",
+            "shariah": false
+        }
     },
     {
-        "name": "RGS",
-        "code": "03052",
-        "shariah": true
+        "RGS": {
+            "code": "03052",
+            "shariah": true
+        }
     },
     {
-        "name": "JETSON",
-        "code": "9083",
-        "shariah": true
+        "JETSON": {
+            "code": "9083",
+            "shariah": true
+        }
     },
     {
-        "name": "PNEPCB",
-        "code": "6637",
-        "shariah": true
+        "PNEPCB": {
+            "code": "6637",
+            "shariah": true
+        }
     },
     {
-        "name": "MYETFDJ",
-        "code": "0821EA",
-        "shariah": true
+        "MYETFDJ": {
+            "code": "0821EA",
+            "shariah": true
+        }
     },
     {
-        "name": "XOXNET",
-        "code": "0140",
-        "shariah": false
+        "XOXNET": {
+            "code": "0140",
+            "shariah": false
+        }
     },
     {
-        "name": "LIONIND",
-        "code": "4235",
-        "shariah": true
+        "LIONIND": {
+            "code": "4235",
+            "shariah": true
+        }
     },
     {
-        "name": "SYSTECH",
-        "code": "0050",
-        "shariah": true
+        "SYSTECH": {
+            "code": "0050",
+            "shariah": true
+        }
     },
     {
-        "name": "EAH",
-        "code": "0154",
-        "shariah": false
+        "EAH": {
+            "code": "0154",
+            "shariah": false
+        }
     },
     {
-        "name": "MIECO",
-        "code": "5001",
-        "shariah": true
+        "MIECO": {
+            "code": "5001",
+            "shariah": true
+        }
     },
     {
-        "name": "UNIWALL",
-        "code": "03017",
-        "shariah": true
+        "UNIWALL": {
+            "code": "03017",
+            "shariah": true
+        }
     },
     {
-        "name": "KEYASIC",
-        "code": "0143",
-        "shariah": true
+        "KEYASIC": {
+            "code": "0143",
+            "shariah": true
+        }
     },
     {
-        "name": "METFSID",
-        "code": "0825EA",
-        "shariah": true
+        "METFSID": {
+            "code": "0825EA",
+            "shariah": true
+        }
     },
     {
-        "name": "VARIA",
-        "code": "5006",
-        "shariah": true
+        "VARIA": {
+            "code": "5006",
+            "shariah": true
+        }
     },
     {
-        "name": "SALUTE",
-        "code": "0183",
-        "shariah": true
+        "SALUTE": {
+            "code": "0183",
+            "shariah": true
+        }
     },
     {
-        "name": "ENRA",
-        "code": "8613",
-        "shariah": true
+        "ENRA": {
+            "code": "8613",
+            "shariah": true
+        }
     },
     {
-        "name": "SINARAN",
-        "code": "5172",
-        "shariah": true
+        "SINARAN": {
+            "code": "5172",
+            "shariah": true
+        }
     },
     {
-        "name": "HWATAI",
-        "code": "8478",
-        "shariah": true
+        "HWATAI": {
+            "code": "8478",
+            "shariah": true
+        }
     },
     {
-        "name": "AEM",
-        "code": "7146",
-        "shariah": false
+        "AEM": {
+            "code": "7146",
+            "shariah": false
+        }
     },
     {
-        "name": "CHINA100-MYR",
-        "code": "0838EA",
-        "shariah": true
+        "CHINA100-MYR": {
+            "code": "0838EA",
+            "shariah": true
+        }
     },
     {
-        "name": "CYPARK",
-        "code": "5184",
-        "shariah": true
+        "CYPARK": {
+            "code": "5184",
+            "shariah": true
+        }
     },
     {
-        "name": "AORB",
-        "code": "03051",
-        "shariah": false
+        "AORB": {
+            "code": "03051",
+            "shariah": false
+        }
     },
     {
-        "name": "REKATECH",
-        "code": "0081",
-        "shariah": true
+        "REKATECH": {
+            "code": "0081",
+            "shariah": true
+        }
     },
     {
-        "name": "PLB",
-        "code": "7055",
-        "shariah": true
+        "PLB": {
+            "code": "7055",
+            "shariah": true
+        }
     },
     {
-        "name": "BTM",
-        "code": "7188",
-        "shariah": true
+        "BTM": {
+            "code": "7188",
+            "shariah": true
+        }
     },
     {
-        "name": "AHB",
-        "code": "7315",
-        "shariah": true
+        "AHB": {
+            "code": "7315",
+            "shariah": true
+        }
     },
     {
-        "name": "HTPADU",
-        "code": "5028",
-        "shariah": true
+        "HTPADU": {
+            "code": "5028",
+            "shariah": true
+        }
     },
     {
-        "name": "MERIDIAN",
-        "code": "5040",
-        "shariah": true
+        "MERIDIAN": {
+            "code": "5040",
+            "shariah": true
+        }
     },
     {
-        "name": "DATAPRP",
-        "code": "8338",
-        "shariah": true
+        "DATAPRP": {
+            "code": "8338",
+            "shariah": true
+        }
     },
     {
-        "name": "SCIB",
-        "code": "9237",
-        "shariah": true
+        "SCIB": {
+            "code": "9237",
+            "shariah": true
+        }
     },
     {
-        "name": "LAMBO",
-        "code": "0018",
-        "shariah": false
+        "LAMBO": {
+            "code": "0018",
+            "shariah": false
+        }
     },
     {
-        "name": "AT",
-        "code": "0072",
-        "shariah": true
+        "AT": {
+            "code": "0072",
+            "shariah": true
+        }
     },
     {
-        "name": "NOVAMSC",
-        "code": "0026",
-        "shariah": true
+        "NOVAMSC": {
+            "code": "0026",
+            "shariah": true
+        }
     },
     {
-        "name": "SNTORIA",
-        "code": "5213",
-        "shariah": false
+        "SNTORIA": {
+            "code": "5213",
+            "shariah": false
+        }
     },
     {
-        "name": "KLCI2XL",
-        "code": "0834EA",
-        "shariah": false
+        "KLCI2XL": {
+            "code": "0834EA",
+            "shariah": false
+        }
     },
     {
-        "name": "BIOHLDG",
-        "code": "0179",
-        "shariah": true
+        "BIOHLDG": {
+            "code": "0179",
+            "shariah": true
+        }
     },
     {
-        "name": "POS",
-        "code": "4634",
-        "shariah": true
+        "POS": {
+            "code": "4634",
+            "shariah": true
+        }
     },
     {
-        "name": "PAM-C50",
-        "code": "0823EA",
-        "shariah": false
+        "PAM-C50": {
+            "code": "0823EA",
+            "shariah": false
+        }
     },
     {
-        "name": "ECOHLDS",
-        "code": "0059",
-        "shariah": true
+        "ECOHLDS": {
+            "code": "0059",
+            "shariah": true
+        }
     },
     {
-        "name": "DESTINI",
-        "code": "7212",
-        "shariah": true
+        "DESTINI": {
+            "code": "7212",
+            "shariah": true
+        }
     },
     {
-        "name": "LYC",
-        "code": "0075",
-        "shariah": true
+        "LYC": {
+            "code": "0075",
+            "shariah": true
+        }
     },
     {
-        "name": "MHB",
-        "code": "5186",
-        "shariah": true
+        "MHB": {
+            "code": "5186",
+            "shariah": true
+        }
     },
     {
-        "name": "IHB",
-        "code": "7240",
-        "shariah": true
+        "IHB": {
+            "code": "7240",
+            "shariah": true
+        }
     },
     {
-        "name": "GPACKET",
-        "code": "0082",
-        "shariah": true
+        "GPACKET": {
+            "code": "0082",
+            "shariah": true
+        }
     },
     {
-        "name": "REX",
-        "code": "9946",
-        "shariah": true
+        "REX": {
+            "code": "9946",
+            "shariah": true
+        }
     },
     {
-        "name": "SRIDGE",
-        "code": "0129",
-        "shariah": true
+        "SRIDGE": {
+            "code": "0129",
+            "shariah": true
+        }
     },
     {
-        "name": "HLT",
-        "code": "0188",
-        "shariah": true
+        "HLT": {
+            "code": "0188",
+            "shariah": true
+        }
     },
     {
-        "name": "MPIRE",
-        "code": "7943",
-        "shariah": true
+        "MPIRE": {
+            "code": "7943",
+            "shariah": true
+        }
     },
     {
-        "name": "ONEGLOVE",
-        "code": "5079",
-        "shariah": true
+        "ONEGLOVE": {
+            "code": "5079",
+            "shariah": true
+        }
     },
     {
-        "name": "TJSETIA",
-        "code": "5297",
-        "shariah": true
+        "TJSETIA": {
+            "code": "5297",
+            "shariah": true
+        }
     },
     {
-        "name": "SMRT",
-        "code": "0117",
-        "shariah": true
+        "SMRT": {
+            "code": "0117",
+            "shariah": true
+        }
     },
     {
-        "name": "TDEX",
-        "code": "0132",
-        "shariah": true
+        "TDEX": {
+            "code": "0132",
+            "shariah": true
+        }
     },
     {
-        "name": "SOLUTN",
-        "code": "0093",
-        "shariah": true
+        "SOLUTN": {
+            "code": "0093",
+            "shariah": true
+        }
     },
     {
-        "name": "CAREPLS",
-        "code": "0163",
-        "shariah": true
+        "CAREPLS": {
+            "code": "0163",
+            "shariah": true
+        }
     },
     {
-        "name": "SIAB",
-        "code": "0241",
-        "shariah": true
+        "SIAB": {
+            "code": "0241",
+            "shariah": true
+        }
     },
     {
-        "name": "BHIC",
-        "code": "8133",
-        "shariah": true
+        "BHIC": {
+            "code": "8133",
+            "shariah": true
+        }
     },
     {
-        "name": "MGRC",
-        "code": "0155",
-        "shariah": true
+        "MGRC": {
+            "code": "0155",
+            "shariah": true
+        }
     },
     {
-        "name": "AIM",
-        "code": "0122",
-        "shariah": true
+        "AIM": {
+            "code": "0122",
+            "shariah": true
+        }
     },
     {
-        "name": "ANNUM",
-        "code": "5082",
-        "shariah": true
+        "ANNUM": {
+            "code": "5082",
+            "shariah": true
+        }
     },
     {
-        "name": "ATAIMS",
-        "code": "8176",
-        "shariah": true
+        "ATAIMS": {
+            "code": "8176",
+            "shariah": true
+        }
     },
     {
-        "name": "REACH",
-        "code": "5256",
-        "shariah": false
+        "REACH": {
+            "code": "5256",
+            "shariah": false
+        }
     },
     {
-        "name": "CNASIA",
-        "code": "7986",
-        "shariah": true
+        "CNASIA": {
+            "code": "7986",
+            "shariah": true
+        }
     },
     {
-        "name": "BINTAI",
-        "code": "6998",
-        "shariah": true
+        "BINTAI": {
+            "code": "6998",
+            "shariah": true
+        }
     },
     {
-        "name": "PESTECH",
-        "code": "5219",
-        "shariah": true
+        "PESTECH": {
+            "code": "5219",
+            "shariah": true
+        }
     },
     {
-        "name": "HENGYUAN",
-        "code": "4324",
-        "shariah": true
+        "HENGYUAN": {
+            "code": "4324",
+            "shariah": true
+        }
     },
     {
-        "name": "JOE",
-        "code": "7096",
-        "shariah": false
+        "JOE": {
+            "code": "7096",
+            "shariah": false
+        }
     },
     {
-        "name": "SERSOL",
-        "code": "0055",
-        "shariah": true
+        "SERSOL": {
+            "code": "0055",
+            "shariah": true
+        }
     },
     {
-        "name": "SENDAI",
-        "code": "5205",
-        "shariah": true
+        "SENDAI": {
+            "code": "5205",
+            "shariah": true
+        }
     },
     {
-        "name": "HBGLOB",
-        "code": "5187",
-        "shariah": false
+        "HBGLOB": {
+            "code": "5187",
+            "shariah": false
+        }
     },
     {
-        "name": "XOX",
-        "code": "0165",
-        "shariah": true
+        "XOX": {
+            "code": "0165",
+            "shariah": true
+        }
     },
     {
-        "name": "RSENA",
-        "code": "5270",
-        "shariah": false
+        "RSENA": {
+            "code": "5270",
+            "shariah": false
+        }
     },
     {
-        "name": "AGES",
-        "code": "7145",
-        "shariah": true
+        "AGES": {
+            "code": "7145",
+            "shariah": true
+        }
     },
     {
-        "name": "TECHNAX",
-        "code": "2739",
-        "shariah": true
+        "TECHNAX": {
+            "code": "2739",
+            "shariah": true
+        }
     },
     {
-        "name": "GOCEAN",
-        "code": "0074",
-        "shariah": true
+        "GOCEAN": {
+            "code": "0074",
+            "shariah": true
+        }
     },
     {
-        "name": "BPURI",
-        "code": "5932",
-        "shariah": true
+        "BPURI": {
+            "code": "5932",
+            "shariah": true
+        }
     },
     {
-        "name": "AZRB",
-        "code": "7078",
-        "shariah": true
+        "AZRB": {
+            "code": "7078",
+            "shariah": true
+        }
     },
     {
-        "name": "DGB",
-        "code": "0152",
-        "shariah": false
+        "DGB": {
+            "code": "0152",
+            "shariah": false
+        }
     },
     {
-        "name": "WAJA",
-        "code": "0102",
-        "shariah": true
+        "WAJA": {
+            "code": "0102",
+            "shariah": true
+        }
     },
     {
-        "name": "IVORY",
-        "code": "5175",
-        "shariah": true
+        "IVORY": {
+            "code": "5175",
+            "shariah": true
+        }
     },
     {
-        "name": "ETH",
-        "code": "03021",
-        "shariah": true
+        "ETH": {
+            "code": "03021",
+            "shariah": true
+        }
     },
     {
-        "name": "SERBADK",
-        "code": "5279",
-        "shariah": true
+        "SERBADK": {
+            "code": "5279",
+            "shariah": true
+        }
     },
     {
-        "name": "IQZAN",
-        "code": "7183",
-        "shariah": true
+        "IQZAN": {
+            "code": "7183",
+            "shariah": true
+        }
     },
     {
-        "name": "DOLPHIN",
-        "code": "5265",
-        "shariah": false
+        "DOLPHIN": {
+            "code": "5265",
+            "shariah": false
+        }
     },
     {
-        "name": "PERTAMA",
-        "code": "8532",
-        "shariah": true
+        "PERTAMA": {
+            "code": "8532",
+            "shariah": true
+        }
     },
     {
-        "name": "DIGISTA",
-        "code": "0029",
-        "shariah": false
+        "DIGISTA": {
+            "code": "0029",
+            "shariah": false
+        }
     },
     {
-        "name": "MMAG",
-        "code": "0034",
-        "shariah": true
+        "MMAG": {
+            "code": "0034",
+            "shariah": true
+        }
     },
     {
-        "name": "SCOMIES",
-        "code": "7045",
-        "shariah": true
+        "SCOMIES": {
+            "code": "7045",
+            "shariah": true
+        }
     },
     {
-        "name": "REDIDEA",
-        "code": "03002",
-        "shariah": false
+        "REDIDEA": {
+            "code": "03002",
+            "shariah": false
+        }
     },
     {
-        "name": "MCOM",
-        "code": "03022",
-        "shariah": true
+        "MCOM": {
+            "code": "03022",
+            "shariah": true
+        }
     }
 ]
