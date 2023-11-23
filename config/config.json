@@ -1,0 +1,15 @@
+{
+  "watchlist": [
+    "AMZN",
+    "NFLX",
+    "TSLA"
+  ],
+  "api": {
+    "baseUrl": "https://api.example.com",
+    "apiKey": "your-api-key"
+  },
+  "logging": {
+    "level": "info",
+    "file": "logs/app.log"
+  }
+}

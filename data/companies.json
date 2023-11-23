@@ -15,6 +15,11 @@
         "shariah": false
     },
     {
+        "name": "EPICON",
+        "code": "4847",
+        "shariah": true
+    },
+    {
         "name": "HEIM",
         "code": "3255",
         "shariah": false
@@ -35,6 +40,11 @@
         "shariah": true
     },
     {
+        "name": "TIMECOM",
+        "code": "5031",
+        "shariah": true
+    },
+    {
         "name": "M&G",
         "code": "5078",
         "shariah": true
@@ -42,11 +52,6 @@
     {
         "name": "SKHAWK",
         "code": "03049",
-        "shariah": true
-    },
-    {
-        "name": "TIMECOM",
-        "code": "5031",
         "shariah": true
     },
     {
@@ -190,11 +195,6 @@
         "shariah": true
     },
     {
-        "name": "FOCUSP",
-        "code": "0157",
-        "shariah": true
-    },
-    {
         "name": "1TECH",
         "code": "03041",
         "shariah": false
@@ -207,6 +207,11 @@
     {
         "name": "JISHAN",
         "code": "03040",
+        "shariah": true
+    },
+    {
+        "name": "KGB",
+        "code": "0151",
         "shariah": true
     },
     {
@@ -235,6 +240,11 @@
         "shariah": true
     },
     {
+        "name": "FOCUSP",
+        "code": "0157",
+        "shariah": true
+    },
+    {
         "name": "HUMEIND",
         "code": "5000",
         "shariah": false
@@ -242,16 +252,6 @@
     {
         "name": "MBL",
         "code": "5152",
-        "shariah": true
-    },
-    {
-        "name": "KGB",
-        "code": "0151",
-        "shariah": true
-    },
-    {
-        "name": "CIHLDG",
-        "code": "2828",
         "shariah": true
     },
     {
@@ -300,6 +300,16 @@
         "shariah": true
     },
     {
+        "name": "TPC",
+        "code": "7176",
+        "shariah": true
+    },
+    {
+        "name": "CIHLDG",
+        "code": "2828",
+        "shariah": true
+    },
+    {
         "name": "SJC",
         "code": "9431",
         "shariah": true
@@ -340,11 +350,6 @@
         "shariah": false
     },
     {
-        "name": "TAKAFUL",
-        "code": "6139",
-        "shariah": true
-    },
-    {
         "name": "GREATEC",
         "code": "0208",
         "shariah": true
@@ -363,6 +368,11 @@
         "name": "COASTAL",
         "code": "5071",
         "shariah": false
+    },
+    {
+        "name": "TAKAFUL",
+        "code": "6139",
+        "shariah": true
     },
     {
         "name": "SFPTECH",
@@ -387,11 +397,6 @@
     {
         "name": "CETECH",
         "code": "03024",
-        "shariah": true
-    },
-    {
-        "name": "TPC",
-        "code": "7176",
         "shariah": true
     },
     {
@@ -460,6 +465,11 @@
         "shariah": true
     },
     {
+        "name": "TM",
+        "code": "4863",
+        "shariah": true
+    },
+    {
         "name": "SUNCON",
         "code": "5263",
         "shariah": true
@@ -467,16 +477,6 @@
     {
         "name": "FPI",
         "code": "9172",
-        "shariah": true
-    },
-    {
-        "name": "AGMO",
-        "code": "0258",
-        "shariah": true
-    },
-    {
-        "name": "RCECAP",
-        "code": "9296",
         "shariah": true
     },
     {
@@ -490,13 +490,18 @@
         "shariah": true
     },
     {
+        "name": "SYNERGY",
+        "code": "0279",
+        "shariah": true
+    },
+    {
         "name": "GREENYB",
         "code": "0136",
         "shariah": true
     },
     {
-        "name": "PETDAG",
-        "code": "5681",
+        "name": "RCECAP",
+        "code": "9296",
         "shariah": true
     },
     {
@@ -555,14 +560,9 @@
         "shariah": true
     },
     {
-        "name": "PWROOT",
-        "code": "7237",
-        "shariah": true
-    },
-    {
-        "name": "TSH",
-        "code": "9059",
-        "shariah": true
+        "name": "ECM",
+        "code": "2143",
+        "shariah": false
     },
     {
         "name": "UMC",
@@ -595,11 +595,6 @@
         "shariah": true
     },
     {
-        "name": "QES",
-        "code": "0196",
-        "shariah": true
-    },
-    {
         "name": "MASTER",
         "code": "7029",
         "shariah": true
@@ -610,13 +605,18 @@
         "shariah": true
     },
     {
-        "name": "AJIYA",
-        "code": "7609",
+        "name": "PETDAG",
+        "code": "5681",
         "shariah": true
     },
     {
-        "name": "TM",
-        "code": "4863",
+        "name": "AGMO",
+        "code": "0258",
+        "shariah": true
+    },
+    {
+        "name": "AJIYA",
+        "code": "7609",
         "shariah": true
     },
     {
@@ -625,18 +625,23 @@
         "shariah": true
     },
     {
-        "name": "ECM",
-        "code": "2143",
-        "shariah": false
-    },
-    {
         "name": "GPHAROS",
         "code": "5649",
         "shariah": true
     },
     {
+        "name": "YTLPOWR",
+        "code": "6742",
+        "shariah": false
+    },
+    {
         "name": "SEG",
         "code": "9792",
+        "shariah": true
+    },
+    {
+        "name": "CLOUDPT",
+        "code": "0277",
         "shariah": true
     },
     {
@@ -647,6 +652,11 @@
     {
         "name": "BVLH",
         "code": "03042",
+        "shariah": true
+    },
+    {
+        "name": "PWROOT",
+        "code": "7237",
         "shariah": true
     },
     {
@@ -665,13 +675,13 @@
         "shariah": true
     },
     {
-        "name": "LAGENDA",
-        "code": "7179",
+        "name": "SKYWLD",
+        "code": "5315",
         "shariah": true
     },
     {
-        "name": "MAXIM",
-        "code": "4022",
+        "name": "LAGENDA",
+        "code": "7179",
         "shariah": true
     },
     {
@@ -687,11 +697,6 @@
     {
         "name": "SYGROUP",
         "code": "5173",
-        "shariah": true
-    },
-    {
-        "name": "AME",
-        "code": "5293",
         "shariah": true
     },
     {
@@ -730,6 +735,11 @@
         "shariah": true
     },
     {
+        "name": "AMEDIA",
+        "code": "0159",
+        "shariah": false
+    },
+    {
         "name": "RANHILL",
         "code": "5272",
         "shariah": true
@@ -737,6 +747,11 @@
     {
         "name": "MNHLDG",
         "code": "0245",
+        "shariah": true
+    },
+    {
+        "name": "GFM",
+        "code": "0039",
         "shariah": true
     },
     {
@@ -760,6 +775,11 @@
         "shariah": true
     },
     {
+        "name": "ALLIANZ",
+        "code": "1163",
+        "shariah": false
+    },
+    {
         "name": "HEXTAR",
         "code": "5151",
         "shariah": true
@@ -767,11 +787,6 @@
     {
         "name": "LGMS",
         "code": "0249",
-        "shariah": true
-    },
-    {
-        "name": "GFM",
-        "code": "0039",
         "shariah": true
     },
     {
@@ -820,18 +835,8 @@
         "shariah": true
     },
     {
-        "name": "MPHBCAP",
-        "code": "5237",
-        "shariah": false
-    },
-    {
         "name": "PANTECH",
         "code": "5125",
-        "shariah": true
-    },
-    {
-        "name": "KPPROP",
-        "code": "7077",
         "shariah": true
     },
     {
@@ -862,6 +867,11 @@
     {
         "name": "BONIA",
         "code": "9288",
+        "shariah": true
+    },
+    {
+        "name": "KPPROP",
+        "code": "7077",
         "shariah": true
     },
     {
@@ -900,24 +910,14 @@
         "shariah": true
     },
     {
-        "name": "YOCB",
-        "code": "5159",
-        "shariah": true
-    },
-    {
-        "name": "INARI",
-        "code": "0166",
+        "name": "BETA",
+        "code": "0263",
         "shariah": true
     },
     {
         "name": "DKSH",
         "code": "5908",
         "shariah": true
-    },
-    {
-        "name": "ALLIANZ",
-        "code": "1163",
-        "shariah": false
     },
     {
         "name": "AMEREIT",
@@ -935,8 +935,8 @@
         "shariah": true
     },
     {
-        "name": "SKYWLD",
-        "code": "5315",
+        "name": "QES",
+        "code": "0196",
         "shariah": true
     },
     {
@@ -950,19 +950,9 @@
         "shariah": true
     },
     {
-        "name": "BETA",
-        "code": "0263",
-        "shariah": true
-    },
-    {
         "name": "MBMR",
         "code": "5983",
         "shariah": true
-    },
-    {
-        "name": "YTLPOWR",
-        "code": "6742",
-        "shariah": false
     },
     {
         "name": "ARMADA",
@@ -1000,18 +990,23 @@
         "shariah": true
     },
     {
-        "name": "HEKTAR",
-        "code": "5121",
-        "shariah": false
-    },
-    {
-        "name": "KTC",
-        "code": "0180",
+        "name": "MATRIX",
+        "code": "5236",
         "shariah": true
     },
     {
-        "name": "INNATURE",
-        "code": "5295",
+        "name": "YOCB",
+        "code": "5159",
+        "shariah": true
+    },
+    {
+        "name": "AME",
+        "code": "5293",
+        "shariah": true
+    },
+    {
+        "name": "INARI",
+        "code": "0166",
         "shariah": true
     },
     {
@@ -1023,6 +1018,11 @@
         "name": "PMCORP",
         "code": "4081",
         "shariah": false
+    },
+    {
+        "name": "KTC",
+        "code": "0180",
+        "shariah": true
     },
     {
         "name": "ULICORP",
@@ -1047,11 +1047,6 @@
     {
         "name": "TAANN",
         "code": "5012",
-        "shariah": true
-    },
-    {
-        "name": "MATRIX",
-        "code": "5236",
         "shariah": true
     },
     {
@@ -1080,11 +1075,6 @@
         "shariah": false
     },
     {
-        "name": "FM",
-        "code": "7210",
-        "shariah": true
-    },
-    {
         "name": "KLCI1XI",
         "code": "0835EA",
         "shariah": false
@@ -1110,9 +1100,9 @@
         "shariah": true
     },
     {
-        "name": "CLOUDPT",
-        "code": "0277",
-        "shariah": true
+        "name": "PANDA",
+        "code": "0290",
+        "shariah": false
     },
     {
         "name": "CORAZA",
@@ -1160,18 +1150,23 @@
         "shariah": true
     },
     {
-        "name": "SYNERGY",
-        "code": "0279",
-        "shariah": true
-    },
-    {
         "name": "JAYCORP",
         "code": "7152",
         "shariah": true
     },
     {
+        "name": "SAM",
+        "code": "9822",
+        "shariah": true
+    },
+    {
         "name": "HLFG",
         "code": "1082",
+        "shariah": false
+    },
+    {
+        "name": "HEKTAR",
+        "code": "5121",
         "shariah": false
     },
     {
@@ -1220,11 +1215,6 @@
         "shariah": false
     },
     {
-        "name": "CHINHIN",
-        "code": "5273",
-        "shariah": true
-    },
-    {
         "name": "CAMRES",
         "code": "7128",
         "shariah": true
@@ -1235,13 +1225,18 @@
         "shariah": true
     },
     {
+        "name": "YTL",
+        "code": "4677",
+        "shariah": false
+    },
+    {
         "name": "MAYBANK",
         "code": "1155",
         "shariah": false
     },
     {
-        "name": "SAM",
-        "code": "9822",
+        "name": "OFI",
+        "code": "7107",
         "shariah": true
     },
     {
@@ -1250,13 +1245,13 @@
         "shariah": false
     },
     {
-        "name": "FIHB",
-        "code": "8605",
+        "name": "FIAMMA",
+        "code": "6939",
         "shariah": true
     },
     {
-        "name": "RGTECH",
-        "code": "0202",
+        "name": "FIHB",
+        "code": "8605",
         "shariah": true
     },
     {
@@ -1285,8 +1280,8 @@
         "shariah": true
     },
     {
-        "name": "TAFI",
-        "code": "7211",
+        "name": "FM",
+        "code": "7210",
         "shariah": true
     },
     {
@@ -1320,11 +1315,6 @@
         "shariah": false
     },
     {
-        "name": "FIAMMA",
-        "code": "6939",
-        "shariah": true
-    },
-    {
         "name": "VIS",
         "code": "0120",
         "shariah": false
@@ -1343,6 +1333,11 @@
         "name": "KIPREIT",
         "code": "5280",
         "shariah": false
+    },
+    {
+        "name": "CHINHIN",
+        "code": "5273",
+        "shariah": true
     },
     {
         "name": "T7GLOBAL",
@@ -1370,6 +1365,16 @@
         "shariah": false
     },
     {
+        "name": "RGTECH",
+        "code": "0202",
+        "shariah": true
+    },
+    {
+        "name": "OVH",
+        "code": "0220",
+        "shariah": true
+    },
+    {
         "name": "PEKAT",
         "code": "0233",
         "shariah": true
@@ -1388,11 +1393,6 @@
         "name": "CIMB",
         "code": "1023",
         "shariah": false
-    },
-    {
-        "name": "MSTGOLF",
-        "code": "5316",
-        "shariah": true
     },
     {
         "name": "ABMB",
@@ -1430,11 +1430,6 @@
         "shariah": true
     },
     {
-        "name": "DLADY",
-        "code": "3026",
-        "shariah": true
-    },
-    {
         "name": "AIMFLEX",
         "code": "0209",
         "shariah": true
@@ -1442,6 +1437,11 @@
     {
         "name": "SNOWFIT",
         "code": "03054",
+        "shariah": true
+    },
+    {
+        "name": "DAYANG",
+        "code": "5141",
         "shariah": true
     },
     {
@@ -1465,8 +1465,13 @@
         "shariah": true
     },
     {
-        "name": "OFI",
-        "code": "7107",
+        "name": "INNATURE",
+        "code": "5295",
+        "shariah": true
+    },
+    {
+        "name": "PETRONM",
+        "code": "3042",
         "shariah": true
     },
     {
@@ -1485,11 +1490,6 @@
         "shariah": true
     },
     {
-        "name": "FPGROUP",
-        "code": "5277",
-        "shariah": true
-    },
-    {
         "name": "IRIS",
         "code": "0010",
         "shariah": true
@@ -1502,6 +1502,11 @@
     {
         "name": "VS",
         "code": "6963",
+        "shariah": true
+    },
+    {
+        "name": "HCK",
+        "code": "7105",
         "shariah": true
     },
     {
@@ -1518,11 +1523,6 @@
         "name": "KSENG",
         "code": "3476",
         "shariah": false
-    },
-    {
-        "name": "SCOMNET",
-        "code": "0001",
-        "shariah": true
     },
     {
         "name": "SPRITZER",
@@ -1545,23 +1545,8 @@
         "shariah": false
     },
     {
-        "name": "BKAWAN",
-        "code": "1899",
-        "shariah": true
-    },
-    {
-        "name": "KAWAN",
-        "code": "7216",
-        "shariah": true
-    },
-    {
         "name": "JFTECH",
         "code": "0146",
-        "shariah": true
-    },
-    {
-        "name": "KLK",
-        "code": "2445",
         "shariah": true
     },
     {
@@ -1615,11 +1600,6 @@
         "shariah": false
     },
     {
-        "name": "CSCENIC",
-        "code": "7202",
-        "shariah": true
-    },
-    {
         "name": "CHGP",
         "code": "7187",
         "shariah": true
@@ -1628,6 +1608,11 @@
         "name": "WCEHB",
         "code": "3565",
         "shariah": false
+    },
+    {
+        "name": "TALIWRK",
+        "code": "8524",
+        "shariah": true
     },
     {
         "name": "IHH",
@@ -1647,11 +1632,6 @@
     {
         "name": "DSS",
         "code": "0269",
-        "shariah": true
-    },
-    {
-        "name": "DAYANG",
-        "code": "5141",
         "shariah": true
     },
     {
@@ -1675,6 +1655,16 @@
         "shariah": true
     },
     {
+        "name": "SCOMNET",
+        "code": "0001",
+        "shariah": true
+    },
+    {
+        "name": "PPJACK",
+        "code": "0242",
+        "shariah": false
+    },
+    {
         "name": "ELKDESA",
         "code": "5228",
         "shariah": false
@@ -1690,13 +1680,18 @@
         "shariah": true
     },
     {
+        "name": "MAXIM",
+        "code": "4022",
+        "shariah": true
+    },
+    {
         "name": "NHFATT",
         "code": "7060",
         "shariah": true
     },
     {
-        "name": "TALIWRK",
-        "code": "8524",
+        "name": "UZMA",
+        "code": "7250",
         "shariah": true
     },
     {
@@ -1720,6 +1715,16 @@
         "shariah": true
     },
     {
+        "name": "MINOX",
+        "code": "0288",
+        "shariah": true
+    },
+    {
+        "name": "KAWAN",
+        "code": "7216",
+        "shariah": true
+    },
+    {
         "name": "HSSEB",
         "code": "0185",
         "shariah": true
@@ -1727,11 +1732,6 @@
     {
         "name": "AYER",
         "code": "2305",
-        "shariah": true
-    },
-    {
-        "name": "MFLOUR",
-        "code": "3662",
         "shariah": true
     },
     {
@@ -1743,11 +1743,6 @@
         "name": "KUB",
         "code": "6874",
         "shariah": true
-    },
-    {
-        "name": "YTL",
-        "code": "4677",
-        "shariah": false
     },
     {
         "name": "POHUAT",
@@ -1770,13 +1765,13 @@
         "shariah": true
     },
     {
-        "name": "PRIVA",
-        "code": "0123",
+        "name": "HIL",
+        "code": "8443",
         "shariah": true
     },
     {
-        "name": "PETRONM",
-        "code": "3042",
+        "name": "PRIVA",
+        "code": "0123",
         "shariah": true
     },
     {
@@ -1785,18 +1780,13 @@
         "shariah": true
     },
     {
-        "name": "PPJACK",
-        "code": "0242",
-        "shariah": false
-    },
-    {
         "name": "PGF",
         "code": "8117",
         "shariah": true
     },
     {
-        "name": "DAY3",
-        "code": "0281",
+        "name": "DLADY",
+        "code": "3026",
         "shariah": true
     },
     {
@@ -1845,8 +1835,8 @@
         "shariah": true
     },
     {
-        "name": "UZMA",
-        "code": "7250",
+        "name": "FAVCO",
+        "code": "7229",
         "shariah": true
     },
     {
@@ -1875,13 +1865,18 @@
         "shariah": false
     },
     {
-        "name": "HIL",
-        "code": "8443",
+        "name": "XOXTECH",
+        "code": "0017",
         "shariah": true
     },
     {
-        "name": "XOXTECH",
-        "code": "0017",
+        "name": "FPGROUP",
+        "code": "5277",
+        "shariah": true
+    },
+    {
+        "name": "N2N",
+        "code": "0108",
         "shariah": true
     },
     {
@@ -1892,11 +1887,6 @@
     {
         "name": "INGENIEU",
         "code": "5178",
-        "shariah": true
-    },
-    {
-        "name": "TIMWELL",
-        "code": "7854",
         "shariah": true
     },
     {
@@ -1913,11 +1903,6 @@
         "name": "ATRIUM",
         "code": "5130",
         "shariah": false
-    },
-    {
-        "name": "TAMBUN",
-        "code": "5191",
-        "shariah": true
     },
     {
         "name": "MEDIA",
@@ -1960,13 +1945,18 @@
         "shariah": false
     },
     {
+        "name": "SUNWAY",
+        "code": "5211",
+        "shariah": true
+    },
+    {
         "name": "THETA",
         "code": "9075",
         "shariah": true
     },
     {
-        "name": "SUNWAY",
-        "code": "5211",
+        "name": "BKAWAN",
+        "code": "1899",
         "shariah": true
     },
     {
@@ -1977,6 +1967,11 @@
     {
         "name": "AXREIT",
         "code": "5106",
+        "shariah": true
+    },
+    {
+        "name": "MSTGOLF",
+        "code": "5316",
         "shariah": true
     },
     {
@@ -1997,11 +1992,6 @@
     {
         "name": "LAYHONG",
         "code": "9385",
-        "shariah": true
-    },
-    {
-        "name": "FAVCO",
-        "code": "7229",
         "shariah": true
     },
     {
@@ -2055,8 +2045,8 @@
         "shariah": true
     },
     {
-        "name": "HCK",
-        "code": "7105",
+        "name": "KLK",
+        "code": "2445",
         "shariah": true
     },
     {
@@ -2072,6 +2062,16 @@
     {
         "name": "AEON",
         "code": "6599",
+        "shariah": true
+    },
+    {
+        "name": "DAY3",
+        "code": "0281",
+        "shariah": true
+    },
+    {
+        "name": "MFLOUR",
+        "code": "3662",
         "shariah": true
     },
     {
@@ -2095,13 +2095,23 @@
         "shariah": true
     },
     {
+        "name": "LYSAGHT",
+        "code": "9199",
+        "shariah": false
+    },
+    {
         "name": "GHLSYS",
         "code": "0021",
         "shariah": true
     },
     {
-        "name": "N2N",
-        "code": "0108",
+        "name": "TAMBUN",
+        "code": "5191",
+        "shariah": true
+    },
+    {
+        "name": "TSH",
+        "code": "9059",
         "shariah": true
     },
     {
@@ -2112,6 +2122,11 @@
     {
         "name": "COSMOS",
         "code": "0261",
+        "shariah": true
+    },
+    {
+        "name": "TIMWELL",
+        "code": "7854",
         "shariah": true
     },
     {
@@ -2170,23 +2185,18 @@
         "shariah": true
     },
     {
+        "name": "MAGNUM",
+        "code": "3859",
+        "shariah": false
+    },
+    {
         "name": "APB",
         "code": "5568",
         "shariah": true
     },
     {
-        "name": "LYSAGHT",
-        "code": "9199",
-        "shariah": false
-    },
-    {
         "name": "TENAGA",
         "code": "5347",
-        "shariah": true
-    },
-    {
-        "name": "TRIMODE",
-        "code": "0199",
         "shariah": true
     },
     {
@@ -2220,13 +2230,18 @@
         "shariah": true
     },
     {
+        "name": "INSAS",
+        "code": "3379",
+        "shariah": false
+    },
+    {
         "name": "ILB",
         "code": "5614",
         "shariah": false
     },
     {
-        "name": "INSAS",
-        "code": "3379",
+        "name": "YTLREIT",
+        "code": "5109",
         "shariah": false
     },
     {
@@ -2255,19 +2270,19 @@
         "shariah": false
     },
     {
+        "name": "MHC",
+        "code": "5026",
+        "shariah": true
+    },
+    {
         "name": "KOBAY",
         "code": "6971",
         "shariah": true
     },
     {
-        "name": "YTLREIT",
-        "code": "5109",
-        "shariah": false
-    },
-    {
-        "name": "MAGNUM",
-        "code": "3859",
-        "shariah": false
+        "name": "EITA",
+        "code": "5208",
+        "shariah": true
     },
     {
         "name": "TRC",
@@ -2275,8 +2290,8 @@
         "shariah": true
     },
     {
-        "name": "OVH",
-        "code": "0220",
+        "name": "AVALAND",
+        "code": "5182",
         "shariah": true
     },
     {
@@ -2310,6 +2325,11 @@
         "shariah": true
     },
     {
+        "name": "GENP",
+        "code": "2291",
+        "shariah": true
+    },
+    {
         "name": "HSPLANT",
         "code": "5138",
         "shariah": true
@@ -2325,8 +2345,8 @@
         "shariah": true
     },
     {
-        "name": "MHC",
-        "code": "5026",
+        "name": "FIMACOR",
+        "code": "3107",
         "shariah": true
     },
     {
@@ -2360,11 +2380,6 @@
         "shariah": false
     },
     {
-        "name": "GENP",
-        "code": "2291",
-        "shariah": true
-    },
-    {
         "name": "MAG",
         "code": "0095",
         "shariah": true
@@ -2385,18 +2400,8 @@
         "shariah": false
     },
     {
-        "name": "FIMACOR",
-        "code": "3107",
-        "shariah": true
-    },
-    {
         "name": "UPA",
         "code": "7757",
-        "shariah": true
-    },
-    {
-        "name": "MINOX",
-        "code": "0288",
         "shariah": true
     },
     {
@@ -2408,6 +2413,11 @@
         "name": "ORIENT",
         "code": "4006",
         "shariah": false
+    },
+    {
+        "name": "TRIMODE",
+        "code": "0199",
+        "shariah": true
     },
     {
         "name": "MSNIAGA",
@@ -2435,6 +2445,11 @@
         "shariah": true
     },
     {
+        "name": "MCEMENT",
+        "code": "3794",
+        "shariah": true
+    },
+    {
         "name": "BRIGHT",
         "code": "9938",
         "shariah": false
@@ -2458,6 +2473,11 @@
         "name": "EVD",
         "code": "0174",
         "shariah": false
+    },
+    {
+        "name": "CSCENIC",
+        "code": "7202",
+        "shariah": true
     },
     {
         "name": "UMSNGB",
@@ -2510,11 +2530,6 @@
         "shariah": true
     },
     {
-        "name": "AVALAND",
-        "code": "5182",
-        "shariah": true
-    },
-    {
         "name": "ASIABRN",
         "code": "7722",
         "shariah": true
@@ -2542,11 +2557,6 @@
     {
         "name": "JHM",
         "code": "0127",
-        "shariah": true
-    },
-    {
-        "name": "TEKSENG",
-        "code": "7200",
         "shariah": true
     },
     {
@@ -2590,6 +2600,11 @@
         "shariah": false
     },
     {
+        "name": "DOMINAN",
+        "code": "7169",
+        "shariah": true
+    },
+    {
         "name": "MKH",
         "code": "6114",
         "shariah": true
@@ -2600,8 +2615,8 @@
         "shariah": true
     },
     {
-        "name": "EITA",
-        "code": "5208",
+        "name": "BPLANT",
+        "code": "5254",
         "shariah": true
     },
     {
@@ -2617,6 +2632,11 @@
     {
         "name": "GDB",
         "code": "0198",
+        "shariah": true
+    },
+    {
+        "name": "L&G",
+        "code": "3174",
         "shariah": true
     },
     {
@@ -2670,6 +2690,16 @@
         "shariah": true
     },
     {
+        "name": "EMCC",
+        "code": "0286",
+        "shariah": false
+    },
+    {
+        "name": "PRESTAR",
+        "code": "9873",
+        "shariah": true
+    },
+    {
         "name": "FACBIND",
         "code": "2984",
         "shariah": false
@@ -2695,11 +2725,6 @@
         "shariah": true
     },
     {
-        "name": "DOMINAN",
-        "code": "7169",
-        "shariah": true
-    },
-    {
         "name": "LOTUS",
         "code": "8303",
         "shariah": true
@@ -2712,11 +2737,6 @@
     {
         "name": "GMUTUAL",
         "code": "9962",
-        "shariah": true
-    },
-    {
-        "name": "BPLANT",
-        "code": "5254",
         "shariah": true
     },
     {
@@ -2738,6 +2758,11 @@
         "name": "TURIYA",
         "code": "4359",
         "shariah": true
+    },
+    {
+        "name": "TUNEPRO",
+        "code": "5230",
+        "shariah": false
     },
     {
         "name": "NSOP",
@@ -2790,19 +2815,14 @@
         "shariah": false
     },
     {
-        "name": "GUOCO",
-        "code": "1503",
-        "shariah": true
-    },
-    {
-        "name": "MCEMENT",
-        "code": "3794",
-        "shariah": true
-    },
-    {
         "name": "SEAL",
         "code": "4286",
         "shariah": false
+    },
+    {
+        "name": "GUOCO",
+        "code": "1503",
+        "shariah": true
     },
     {
         "name": "UNITRAD",
@@ -2832,11 +2852,6 @@
     {
         "name": "PARKWD",
         "code": "2682",
-        "shariah": true
-    },
-    {
-        "name": "DRBHCOM",
-        "code": "1619",
         "shariah": true
     },
     {
@@ -2895,11 +2910,6 @@
         "shariah": false
     },
     {
-        "name": "L&G",
-        "code": "3174",
-        "shariah": true
-    },
-    {
         "name": "UMS",
         "code": "7137",
         "shariah": true
@@ -2907,6 +2917,16 @@
     {
         "name": "IBHD",
         "code": "4251",
+        "shariah": true
+    },
+    {
+        "name": "ALRICH",
+        "code": "0079",
+        "shariah": true
+    },
+    {
+        "name": "TEKSENG",
+        "code": "7200",
         "shariah": true
     },
     {
@@ -2925,19 +2945,9 @@
         "shariah": false
     },
     {
-        "name": "ALRICH",
-        "code": "0079",
-        "shariah": true
-    },
-    {
         "name": "CLMT",
         "code": "5180",
         "shariah": false
-    },
-    {
-        "name": "SPSETIA",
-        "code": "8664",
-        "shariah": true
     },
     {
         "name": "DSR",
@@ -2970,9 +2980,9 @@
         "shariah": true
     },
     {
-        "name": "EMCC",
-        "code": "0286",
-        "shariah": false
+        "name": "SPSETIA",
+        "code": "8664",
+        "shariah": true
     },
     {
         "name": "APEX",
@@ -2982,6 +2992,11 @@
     {
         "name": "AMFIRST",
         "code": "5120",
+        "shariah": false
+    },
+    {
+        "name": "GENTING",
+        "code": "3182",
         "shariah": false
     },
     {
@@ -3020,6 +3035,11 @@
         "shariah": true
     },
     {
+        "name": "IMASPRO",
+        "code": "7222",
+        "shariah": true
+    },
+    {
         "name": "KHIND",
         "code": "7062",
         "shariah": true
@@ -3045,8 +3065,8 @@
         "shariah": true
     },
     {
-        "name": "EKSONS",
-        "code": "9016",
+        "name": "DRBHCOM",
+        "code": "1619",
         "shariah": true
     },
     {
@@ -3075,18 +3095,13 @@
         "shariah": true
     },
     {
-        "name": "WCT",
-        "code": "9679",
-        "shariah": true
+        "name": "MPHBCAP",
+        "code": "5237",
+        "shariah": false
     },
     {
         "name": "YLI",
         "code": "7014",
-        "shariah": true
-    },
-    {
-        "name": "IMASPRO",
-        "code": "7222",
         "shariah": true
     },
     {
@@ -3195,6 +3210,11 @@
         "shariah": false
     },
     {
+        "name": "TAFI",
+        "code": "7211",
+        "shariah": true
+    },
+    {
         "name": "AWC",
         "code": "7579",
         "shariah": true
@@ -3245,6 +3265,11 @@
         "shariah": true
     },
     {
+        "name": "BDB",
+        "code": "6173",
+        "shariah": true
+    },
+    {
         "name": "RADIUM",
         "code": "5313",
         "shariah": true
@@ -3260,19 +3285,14 @@
         "shariah": true
     },
     {
-        "name": "PGLOBE",
-        "code": "3611",
-        "shariah": true
-    },
-    {
-        "name": "GENTING",
-        "code": "3182",
-        "shariah": false
-    },
-    {
         "name": "SYCAL",
         "code": "9717",
         "shariah": false
+    },
+    {
+        "name": "WCT",
+        "code": "9679",
+        "shariah": true
     },
     {
         "name": "M&A",
@@ -3285,8 +3305,8 @@
         "shariah": true
     },
     {
-        "name": "ENGTEX",
-        "code": "5056",
+        "name": "PGLOBE",
+        "code": "3611",
         "shariah": true
     },
     {
@@ -3298,11 +3318,6 @@
         "name": "WMG",
         "code": "6378",
         "shariah": false
-    },
-    {
-        "name": "LBICAP",
-        "code": "8494",
-        "shariah": true
     },
     {
         "name": "TOYOVEN",
@@ -3317,11 +3332,6 @@
     {
         "name": "SCOPE",
         "code": "0028",
-        "shariah": true
-    },
-    {
-        "name": "LIONPSIM",
-        "code": "8486",
         "shariah": true
     },
     {
@@ -3350,6 +3360,11 @@
         "shariah": true
     },
     {
+        "name": "LIONPSIM",
+        "code": "8486",
+        "shariah": true
+    },
+    {
         "name": "YBS",
         "code": "0025",
         "shariah": true
@@ -3357,6 +3372,11 @@
     {
         "name": "KOSSAN",
         "code": "7153",
+        "shariah": true
+    },
+    {
+        "name": "ENGTEX",
+        "code": "5056",
         "shariah": true
     },
     {
@@ -3375,9 +3395,9 @@
         "shariah": true
     },
     {
-        "name": "AMEDIA",
-        "code": "0159",
-        "shariah": false
+        "name": "GOPENG",
+        "code": "2135",
+        "shariah": true
     },
     {
         "name": "GLXT",
@@ -3387,6 +3407,11 @@
     {
         "name": "RGTBHD",
         "code": "9954",
+        "shariah": true
+    },
+    {
+        "name": "EKSONS",
+        "code": "9016",
         "shariah": true
     },
     {
@@ -3400,38 +3425,8 @@
         "shariah": true
     },
     {
-        "name": "FBMAPMYR",
-        "code": "0828I",
-        "shariah": false
-    },
-    {
-        "name": "FBMEMAS",
-        "code": "0865I",
-        "shariah": false
-    },
-    {
-        "name": "ENERGY",
-        "code": "0061I",
-        "shariah": false
-    },
-    {
-        "name": "FBMT100",
-        "code": "0861I",
-        "shariah": false
-    },
-    {
-        "name": "DIN045801028",
-        "code": "0400GB",
-        "shariah": true
-    },
-    {
-        "name": "TECHNOLOGY",
-        "code": "0005I",
-        "shariah": false
-    },
-    {
-        "name": "F4GBMS",
-        "code": "0841I",
+        "name": "ALLIANZ-PA",
+        "code": "1163PA",
         "shariah": false
     },
     {
@@ -3440,63 +3435,13 @@
         "shariah": true
     },
     {
-        "name": "CPETECH",
-        "code": "5317",
-        "shariah": false
-    },
-    {
-        "name": "INDUSTRIAL PRODUCTS & SERVICES",
-        "code": "0002I",
-        "shariah": false
-    },
-    {
-        "name": "REIT",
-        "code": "0050I",
-        "shariah": false
-    },
-    {
-        "name": "FBMAPUSD",
-        "code": "0827I",
-        "shariah": false
-    },
-    {
-        "name": "ALLIANZ-PA",
-        "code": "1163PA",
-        "shariah": false
-    },
-    {
-        "name": "DPS-OR",
-        "code": "7198OR",
-        "shariah": true
-    },
-    {
-        "name": "FBMMSCS",
-        "code": "0873I",
-        "shariah": false
-    },
-    {
-        "name": "FBMHIJRAH",
-        "code": "0869I",
-        "shariah": false
-    },
-    {
-        "name": "TRANSPORTATION & LOGISTICS",
-        "code": "0064I",
-        "shariah": false
-    },
-    {
-        "name": "FBMFLG",
-        "code": "0866I",
-        "shariah": false
-    },
-    {
-        "name": "HEALTH CARE",
-        "code": "0062I",
-        "shariah": false
-    },
-    {
         "name": "FBMKLCI",
         "code": "0200I",
+        "shariah": false
+    },
+    {
+        "name": "FBMT100",
+        "code": "0861I",
         "shariah": false
     },
     {
@@ -3505,18 +3450,13 @@
         "shariah": false
     },
     {
-        "name": "IHS046000824",
-        "code": "0401GA",
-        "shariah": true
-    },
-    {
-        "name": "PLANTATION",
-        "code": "0025I",
+        "name": "FBMSCAP",
+        "code": "0864I",
         "shariah": false
     },
     {
-        "name": "FBM100LC",
-        "code": "0842I",
+        "name": "FBMEMAS",
+        "code": "0865I",
         "shariah": false
     },
     {
@@ -3530,48 +3470,8 @@
         "shariah": false
     },
     {
-        "name": "PROPERTY",
-        "code": "0020I",
-        "shariah": false
-    },
-    {
-        "name": "PANDA",
-        "code": "0290",
-        "shariah": false
-    },
-    {
-        "name": "FBMACE",
-        "code": "0871I",
-        "shariah": false
-    },
-    {
-        "name": "FINANCIAL SERVICES",
-        "code": "0010I",
-        "shariah": false
-    },
-    {
-        "name": "ADVENTA-OR",
-        "code": "7191OR",
-        "shariah": true
-    },
-    {
-        "name": "FA40",
-        "code": "0867I",
-        "shariah": false
-    },
-    {
-        "name": "TELECOMMUNICATIONS & MEDIA",
-        "code": "0063I",
-        "shariah": false
-    },
-    {
-        "name": "FBMSCAP",
-        "code": "0864I",
-        "shariah": false
-    },
-    {
-        "name": "FBM100LS",
-        "code": "0843I",
+        "name": "ENERGY",
+        "code": "0061I",
         "shariah": false
     },
     {
@@ -3580,13 +3480,48 @@
         "shariah": false
     },
     {
-        "name": "UTILITIES",
-        "code": "0065I",
+        "name": "F4GBMS",
+        "code": "0841I",
+        "shariah": false
+    },
+    {
+        "name": "FA40",
+        "code": "0867I",
+        "shariah": false
+    },
+    {
+        "name": "FBMACE",
+        "code": "0871I",
+        "shariah": false
+    },
+    {
+        "name": "FBMAPMYR",
+        "code": "0828I",
+        "shariah": false
+    },
+    {
+        "name": "FBMAPUSD",
+        "code": "0827I",
+        "shariah": false
+    },
+    {
+        "name": "FBMFLG",
+        "code": "0866I",
+        "shariah": false
+    },
+    {
+        "name": "FBMHIJRAH",
+        "code": "0869I",
         "shariah": false
     },
     {
         "name": "FBMMSCAP",
         "code": "0872I",
+        "shariah": false
+    },
+    {
+        "name": "FBMMSCS",
+        "code": "0873I",
         "shariah": false
     },
     {
@@ -3597,6 +3532,91 @@
     {
         "name": "FBMSHA",
         "code": "0868I",
+        "shariah": false
+    },
+    {
+        "name": "FINANCIAL SERVICES",
+        "code": "0010I",
+        "shariah": false
+    },
+    {
+        "name": "HEALTH CARE",
+        "code": "0062I",
+        "shariah": false
+    },
+    {
+        "name": "INDUSTRIAL PRODUCTS & SERVICES",
+        "code": "0002I",
+        "shariah": false
+    },
+    {
+        "name": "PLANTATION",
+        "code": "0025I",
+        "shariah": false
+    },
+    {
+        "name": "PROPERTY",
+        "code": "0020I",
+        "shariah": false
+    },
+    {
+        "name": "REIT",
+        "code": "0050I",
+        "shariah": false
+    },
+    {
+        "name": "TECHNOLOGY",
+        "code": "0005I",
+        "shariah": false
+    },
+    {
+        "name": "TELECOMMUNICATIONS & MEDIA",
+        "code": "0063I",
+        "shariah": false
+    },
+    {
+        "name": "TRANSPORTATION & LOGISTICS",
+        "code": "0064I",
+        "shariah": false
+    },
+    {
+        "name": "UTILITIES",
+        "code": "0065I",
+        "shariah": false
+    },
+    {
+        "name": "FBM100LC",
+        "code": "0842I",
+        "shariah": false
+    },
+    {
+        "name": "FBM100LS",
+        "code": "0843I",
+        "shariah": false
+    },
+    {
+        "name": "ADVENTA-OR",
+        "code": "7191OR",
+        "shariah": true
+    },
+    {
+        "name": "DIN045801028",
+        "code": "0400GB",
+        "shariah": true
+    },
+    {
+        "name": "IHS046000824",
+        "code": "0401GA",
+        "shariah": true
+    },
+    {
+        "name": "DPS-OR",
+        "code": "7198OR",
+        "shariah": true
+    },
+    {
+        "name": "CPETECH",
+        "code": "5317",
         "shariah": false
     },
     {
@@ -3665,29 +3685,19 @@
         "shariah": false
     },
     {
-        "name": "EPICON",
-        "code": "4847",
-        "shariah": true
-    },
-    {
-        "name": "TUNEPRO",
-        "code": "5230",
-        "shariah": false
-    },
-    {
         "name": "MILUX",
         "code": "7935",
-        "shariah": true
-    },
-    {
-        "name": "BDB",
-        "code": "6173",
         "shariah": true
     },
     {
         "name": "SUBUR",
         "code": "6904",
         "shariah": false
+    },
+    {
+        "name": "TWL",
+        "code": "7079",
+        "shariah": true
     },
     {
         "name": "MAA",
@@ -3707,6 +3717,21 @@
     {
         "name": "ESAFE",
         "code": "0190",
+        "shariah": true
+    },
+    {
+        "name": "NADIBHD",
+        "code": "0206",
+        "shariah": true
+    },
+    {
+        "name": "LBICAP",
+        "code": "8494",
+        "shariah": true
+    },
+    {
+        "name": "HEVEA",
+        "code": "5095",
         "shariah": true
     },
     {
@@ -3740,18 +3765,13 @@
         "shariah": true
     },
     {
+        "name": "JASKITA",
+        "code": "8648",
+        "shariah": false
+    },
+    {
         "name": "NPC",
         "code": "5047",
-        "shariah": true
-    },
-    {
-        "name": "TWL",
-        "code": "7079",
-        "shariah": true
-    },
-    {
-        "name": "PRESTAR",
-        "code": "9873",
         "shariah": true
     },
     {
@@ -3760,8 +3780,8 @@
         "shariah": true
     },
     {
-        "name": "YEWLEE",
-        "code": "0248",
+        "name": "PARKSON",
+        "code": "5657",
         "shariah": true
     },
     {
@@ -3777,16 +3797,6 @@
     {
         "name": "CHUAN",
         "code": "7016",
-        "shariah": true
-    },
-    {
-        "name": "KSSC",
-        "code": "5192",
-        "shariah": true
-    },
-    {
-        "name": "GOB",
-        "code": "1147",
         "shariah": true
     },
     {
@@ -3815,18 +3825,8 @@
         "shariah": true
     },
     {
-        "name": "GOPENG",
-        "code": "2135",
-        "shariah": true
-    },
-    {
         "name": "CLOUD",
         "code": "03001",
-        "shariah": true
-    },
-    {
-        "name": "HEVEA",
-        "code": "5095",
         "shariah": true
     },
     {
@@ -3860,19 +3860,14 @@
         "shariah": true
     },
     {
-        "name": "NADIBHD",
-        "code": "0206",
-        "shariah": true
+        "name": "GENM",
+        "code": "4715",
+        "shariah": false
     },
     {
         "name": "KNUSFOR",
         "code": "5035",
         "shariah": true
-    },
-    {
-        "name": "JASKITA",
-        "code": "8648",
-        "shariah": false
     },
     {
         "name": "NEXGRAM",
@@ -3922,6 +3917,11 @@
     {
         "name": "PMHLDG",
         "code": "1287",
+        "shariah": true
+    },
+    {
+        "name": "YEWLEE",
+        "code": "0248",
         "shariah": true
     },
     {
@@ -3975,8 +3975,18 @@
         "shariah": true
     },
     {
+        "name": "GOB",
+        "code": "1147",
+        "shariah": true
+    },
+    {
         "name": "KAMDAR",
         "code": "8672",
+        "shariah": true
+    },
+    {
+        "name": "SEALINK",
+        "code": "5145",
         "shariah": true
     },
     {
@@ -3990,13 +4000,18 @@
         "shariah": true
     },
     {
+        "name": "AWANTEC",
+        "code": "5204",
+        "shariah": true
+    },
+    {
         "name": "CHOOBEE",
         "code": "5797",
         "shariah": true
     },
     {
-        "name": "YGL",
-        "code": "0086",
+        "name": "WARISAN",
+        "code": "5016",
         "shariah": true
     },
     {
@@ -4020,16 +4035,6 @@
         "shariah": true
     },
     {
-        "name": "WARISAN",
-        "code": "5016",
-        "shariah": true
-    },
-    {
-        "name": "GENM",
-        "code": "4715",
-        "shariah": false
-    },
-    {
         "name": "GCE",
         "code": "5592",
         "shariah": true
@@ -4042,11 +4047,6 @@
     {
         "name": "OCR",
         "code": "7071",
-        "shariah": true
-    },
-    {
-        "name": "PARKSON",
-        "code": "5657",
         "shariah": true
     },
     {
@@ -4105,18 +4105,8 @@
         "shariah": true
     },
     {
-        "name": "AWANTEC",
-        "code": "5204",
-        "shariah": true
-    },
-    {
         "name": "HARNLEN",
         "code": "7501",
-        "shariah": true
-    },
-    {
-        "name": "MUDA",
-        "code": "3883",
         "shariah": true
     },
     {
@@ -4152,11 +4142,6 @@
     {
         "name": "TEXCHEM",
         "code": "8702",
-        "shariah": true
-    },
-    {
-        "name": "JSB",
-        "code": "5673",
         "shariah": true
     },
     {
@@ -4200,6 +4185,16 @@
         "shariah": true
     },
     {
+        "name": "KSSC",
+        "code": "5192",
+        "shariah": true
+    },
+    {
+        "name": "MUDA",
+        "code": "3883",
+        "shariah": true
+    },
+    {
         "name": "PASDEC",
         "code": "6912",
         "shariah": true
@@ -4217,6 +4212,11 @@
     {
         "name": "WIDAD",
         "code": "0162",
+        "shariah": true
+    },
+    {
+        "name": "YGL",
+        "code": "0086",
         "shariah": true
     },
     {
@@ -4250,11 +4250,6 @@
         "shariah": true
     },
     {
-        "name": "SEALINK",
-        "code": "5145",
-        "shariah": true
-    },
-    {
         "name": "PWORTH",
         "code": "7123",
         "shariah": true
@@ -4262,6 +4257,16 @@
     {
         "name": "ASDION",
         "code": "0068",
+        "shariah": true
+    },
+    {
+        "name": "RSAWIT",
+        "code": "5113",
+        "shariah": true
+    },
+    {
+        "name": "FARLIM",
+        "code": "6041",
         "shariah": true
     },
     {
@@ -4275,11 +4280,6 @@
         "shariah": true
     },
     {
-        "name": "FARLIM",
-        "code": "6041",
-        "shariah": true
-    },
-    {
         "name": "HOHUP",
         "code": "5169",
         "shariah": true
@@ -4288,11 +4288,6 @@
         "name": "LUSTER",
         "code": "5068",
         "shariah": false
-    },
-    {
-        "name": "SALCON",
-        "code": "8567",
-        "shariah": true
     },
     {
         "name": "MLAB",
@@ -4310,8 +4305,18 @@
         "shariah": true
     },
     {
+        "name": "JADEM",
+        "code": "7043",
+        "shariah": true
+    },
+    {
         "name": "EWINT",
         "code": "5283",
+        "shariah": true
+    },
+    {
+        "name": "SALCON",
+        "code": "8567",
         "shariah": true
     },
     {
@@ -4332,11 +4337,6 @@
     {
         "name": "MALAKOF",
         "code": "5264",
-        "shariah": true
-    },
-    {
-        "name": "JADEM",
-        "code": "7043",
         "shariah": true
     },
     {
@@ -4480,11 +4480,6 @@
         "shariah": true
     },
     {
-        "name": "YONGTAI",
-        "code": "7066",
-        "shariah": true
-    },
-    {
         "name": "KIMHIN",
         "code": "5371",
         "shariah": true
@@ -4497,11 +4492,6 @@
     {
         "name": "ITRONIC",
         "code": "9393",
-        "shariah": true
-    },
-    {
-        "name": "MIECO",
-        "code": "5001",
         "shariah": true
     },
     {
@@ -4540,18 +4530,13 @@
         "shariah": true
     },
     {
-        "name": "ADVCON",
-        "code": "5281",
-        "shariah": true
-    },
-    {
         "name": "NICE",
         "code": "7139",
         "shariah": true
     },
     {
-        "name": "RSAWIT",
-        "code": "5113",
+        "name": "MSM",
+        "code": "5202",
         "shariah": true
     },
     {
@@ -4575,6 +4560,11 @@
         "shariah": false
     },
     {
+        "name": "ADVCON",
+        "code": "5281",
+        "shariah": true
+    },
+    {
         "name": "BAHVEST",
         "code": "0098",
         "shariah": true
@@ -4593,6 +4583,11 @@
         "name": "MNC",
         "code": "0103",
         "shariah": false
+    },
+    {
+        "name": "CITAGLB",
+        "code": "7245",
+        "shariah": true
     },
     {
         "name": "MINETEC",
@@ -4615,8 +4610,8 @@
         "shariah": true
     },
     {
-        "name": "CITAGLB",
-        "code": "7245",
+        "name": "MENTIGA",
+        "code": "5223",
         "shariah": true
     },
     {
@@ -4640,6 +4635,11 @@
         "shariah": true
     },
     {
+        "name": "YONGTAI",
+        "code": "7066",
+        "shariah": true
+    },
+    {
         "name": "BENALEC",
         "code": "5190",
         "shariah": true
@@ -4650,11 +4650,6 @@
         "shariah": false
     },
     {
-        "name": "MSM",
-        "code": "5202",
-        "shariah": true
-    },
-    {
         "name": "CHHB",
         "code": "5738",
         "shariah": true
@@ -4662,11 +4657,6 @@
     {
         "name": "TDM",
         "code": "2054",
-        "shariah": true
-    },
-    {
-        "name": "MENTIGA",
-        "code": "5223",
         "shariah": true
     },
     {
@@ -4690,13 +4680,13 @@
         "shariah": true
     },
     {
-        "name": "VINVEST",
-        "code": "0069",
+        "name": "JCY",
+        "code": "5161",
         "shariah": true
     },
     {
-        "name": "SMTRACK",
-        "code": "0169",
+        "name": "VINVEST",
+        "code": "0069",
         "shariah": true
     },
     {
@@ -4712,6 +4702,11 @@
     {
         "name": "NESTCON",
         "code": "0235",
+        "shariah": true
+    },
+    {
+        "name": "ARTRONIQ",
+        "code": "0038",
         "shariah": true
     },
     {
@@ -4770,13 +4765,13 @@
         "shariah": true
     },
     {
-        "name": "GCAP",
-        "code": "7676",
+        "name": "SMTRACK",
+        "code": "0169",
         "shariah": true
     },
     {
-        "name": "PARLO",
-        "code": "0022",
+        "name": "GCAP",
+        "code": "7676",
         "shariah": true
     },
     {
@@ -4787,6 +4782,11 @@
     {
         "name": "LKL",
         "code": "0182",
+        "shariah": true
+    },
+    {
+        "name": "JSB",
+        "code": "5673",
         "shariah": true
     },
     {
@@ -4840,11 +4840,6 @@
         "shariah": true
     },
     {
-        "name": "JCY",
-        "code": "5161",
-        "shariah": true
-    },
-    {
         "name": "JOHAN",
         "code": "3441",
         "shariah": false
@@ -4875,6 +4870,11 @@
         "shariah": true
     },
     {
+        "name": "PARLO",
+        "code": "0022",
+        "shariah": true
+    },
+    {
         "name": "GIIB",
         "code": "7192",
         "shariah": true
@@ -4895,6 +4895,11 @@
         "shariah": true
     },
     {
+        "name": "PNEPCB",
+        "code": "6637",
+        "shariah": true
+    },
+    {
         "name": "MYETFDJ",
         "code": "0821EA",
         "shariah": true
@@ -4910,11 +4915,6 @@
         "shariah": true
     },
     {
-        "name": "ARTRONIQ",
-        "code": "0038",
-        "shariah": true
-    },
-    {
         "name": "SYSTECH",
         "code": "0050",
         "shariah": true
@@ -4925,13 +4925,13 @@
         "shariah": false
     },
     {
-        "name": "UNIWALL",
-        "code": "03017",
+        "name": "MIECO",
+        "code": "5001",
         "shariah": true
     },
     {
-        "name": "PNEPCB",
-        "code": "6637",
+        "name": "UNIWALL",
+        "code": "03017",
         "shariah": true
     },
     {
@@ -4942,6 +4942,11 @@
     {
         "name": "METFSID",
         "code": "0825EA",
+        "shariah": true
+    },
+    {
+        "name": "VARIA",
+        "code": "5006",
         "shariah": true
     },
     {
@@ -5030,29 +5035,19 @@
         "shariah": false
     },
     {
-        "name": "DESTINI",
-        "code": "7212",
+        "name": "AT",
+        "code": "0072",
         "shariah": true
     },
     {
-        "name": "AT",
-        "code": "0072",
+        "name": "NOVAMSC",
+        "code": "0026",
         "shariah": true
     },
     {
         "name": "SNTORIA",
         "code": "5213",
         "shariah": false
-    },
-    {
-        "name": "POS",
-        "code": "4634",
-        "shariah": true
-    },
-    {
-        "name": "VARIA",
-        "code": "5006",
-        "shariah": true
     },
     {
         "name": "KLCI2XL",
@@ -5062,6 +5057,11 @@
     {
         "name": "BIOHLDG",
         "code": "0179",
+        "shariah": true
+    },
+    {
+        "name": "POS",
+        "code": "4634",
         "shariah": true
     },
     {
@@ -5075,13 +5075,8 @@
         "shariah": true
     },
     {
-        "name": "NOVAMSC",
-        "code": "0026",
-        "shariah": true
-    },
-    {
-        "name": "IHB",
-        "code": "7240",
+        "name": "DESTINI",
+        "code": "7212",
         "shariah": true
     },
     {
@@ -5092,6 +5087,11 @@
     {
         "name": "MHB",
         "code": "5186",
+        "shariah": true
+    },
+    {
+        "name": "IHB",
+        "code": "7240",
         "shariah": true
     },
     {
@@ -5145,6 +5145,11 @@
         "shariah": true
     },
     {
+        "name": "CAREPLS",
+        "code": "0163",
+        "shariah": true
+    },
+    {
         "name": "SIAB",
         "code": "0241",
         "shariah": true
@@ -5167,11 +5172,6 @@
     {
         "name": "ANNUM",
         "code": "5082",
-        "shariah": true
-    },
-    {
-        "name": "CAREPLS",
-        "code": "0163",
         "shariah": true
     },
     {
