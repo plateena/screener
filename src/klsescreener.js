@@ -1,5 +1,29 @@
 import { chromium } from 'playwright';
-import fs from 'fs';
+import fs from 'fs/promises';
+import { scrapeInformation } from './helpers/scraper.js'
+
+/**
+ * Write data to a file with the provided file name.
+ * @param {string} fileName - The name of the file to save the data.
+ * @param {string} data - The data to write to the file.
+ * @returns {Promise<void>}
+ */
+const writeFile = async (fileName, data) => {
+  try {
+    await fs.writeFile(fileName, data);
+    console.log(`Data written to file: ${fileName}`);
+  } catch (writeError) {
+    console.error(`Error writing to file: ${fileName}`, writeError);
+  }
+};
+
+/**
+ * Get today's date as a string in the format YYYYMMDD.
+ * @returns {string} - The formatted date string.
+ */
+const getFormattedDate = () => {
+  return new Date().toISOString().split('T')[0].replace(/-/g, '');
+};
 
 /**
  * Scrapes various information for a specific stock from klsescreener.com.
@@ -7,88 +31,69 @@ import fs from 'fs';
  * @param {string} fileName - The name of the file to save the scraped data.
  * @returns {Promise<void>}
  */
-const scrapeStockInfo = async (stockCode, fileName) => {
-    try {
-        // Launch a new Chromium browser
-        const browser = await chromium.launch({
-            // headless: false
-        });
+export const scrapeStockInfo = async (stockCode, fileName) => {
+  const todayDate = getFormattedDate();
 
-        // Create a new browser context with stored authentication state
-        const context = await browser.newContext({ storageState: 'auth/klsescreener.json' });
+  // Use the || operator for a default value if fileName is not provided
+  fileName = fileName || `data/${todayDate}_${stockCode}_kscreener.json`;
 
-        // Create a new page within the context
-        const page = await context.newPage();
+  let browser;
 
-        // Navigate to the stock's page on klsescreener.com using the provided stock code
-        await page.goto(`https://www.klsescreener.com/v2/stocks/view/${stockCode}`);
+  try {
+    browser = await chromium.launch();
 
-        // Extract bid and ask information from the page
-        const bidSizeStr = await page.$eval("[data-original-title='Bid Size Lvl 1']", elem => elem.innerText);
-        const bidPriceStr = await page.$eval("[data-original-title='Bid Price Lvl 1']", elem => elem.innerText);
-        const askSizeStr = await page.$eval("[data-original-title='Ask Size Lvl 1']", elem => elem.innerText);
-        const askPriceStr = await page.$eval("[data-original-title='Ask Price Lvl 1']", elem => elem.innerText);
+    const context = await browser.newContext({ storageState: 'auth/klsescreener.json' });
+    const page = await context.newPage();
 
-        // Extract Shariah Compliant status from the page
-        const shariahCompliantStatus = await page.isVisible("[data-original-title='Shariah Compliant']");
+    await page.goto(`https://www.klsescreener.com/v2/stocks/view/${stockCode}`);
 
-        // Extract additional financial information
-        // const roe = await page.$eval("[data-original-title='Return On Equity (ROE)']", elem => elem.innerText);
-        // const peRatio = await page.$eval("[data-original-title='PE Ratio (TTM)']", elem => elem.innerText);
-        // const fiftyTwoWeekRange = await page.$eval("[data-original-title='52 Weeks Range']", elem => elem.innerText);
-        const buyPercentage = await page.$eval("#buy_rate", elem => elem.innerText);
+    const [bidSize, bidPrice, askSize, askPrice] = await Promise.all([
+      scrapeInformation(page, "[data-original-title='Bid Size Lvl 1']").then(value => parseInt(value.replace(',', ''), 10)),
+      scrapeInformation(page, "[data-original-title='Bid Price Lvl 1']").then(value => parseFloat(value)),
+      scrapeInformation(page, "[data-original-title='Ask Size Lvl 1']").then(value => parseInt(value.replace(',', ''), 10)),
+      scrapeInformation(page, "[data-original-title='Ask Price Lvl 1']").then(value => parseFloat(value)),
+    ]);
 
-        // Convert the string values to appropriate formats
-        const bidSize = parseInt(bidSizeStr, 10);
-        const bidPrice = parseFloat(bidPriceStr);
-        const askSize = parseInt(askSizeStr, 10);
-        const askPrice = parseFloat(askPriceStr);
+    // Extract other information as needed
+    const [priceOpen, priceHigh, priceLow, buyPercentage] = await Promise.all([
+      scrapeInformation(page, "#priceOpen").then(value => parseFloat(value)),
+      scrapeInformation(page, "#priceHigh").then(value => parseFloat(value)),
+      scrapeInformation(page, "#priceLow").then(value => parseFloat(value)),
+      scrapeInformation(page, "#buy_rate").then(value => parseFloat(value.replace('%', ''))),
+    ]);
 
-        // Parse and format additional financial information
-        // const parsedRoe = parseFloat(roe.replace('%', '')); // Remove percentage sign and parse
-        // const parsedPeRatio = parseFloat(peRatio.replace('x', '')); // Remove 'x' and parse
-        const parsedBuyPercentage = parseFloat(buyPercentage.replace('%', '')); // Remove percentage sign and parse
+    const shariahCompliantStatus = await page.isVisible("[data-original-title='Shariah Compliant']");
 
-        // Extract 52 Weeks Range and format as an object
-        // const [low52Week, high52Week] = fiftyTwoWeekRange.split('-').map(range => parseFloat(range.trim()));
+    const scrapedData = {
+      date: todayDate,
+      bidSize,
+      bidPrice,
+      askSize,
+      askPrice,
+      shariahCompliantStatus,
+      buyPercentage,
+      open: priceOpen,
+      high: priceHigh,
+      low: priceLow,
+    };
 
-        // Get today's date as a string in the format YYYY-MM-DD
-        const todayDate = new Date().toISOString().split('T')[0];
+    const jsonData = JSON.stringify(scrapedData, null, 2);
 
-        // Create a data object with the scraped information and date
-        const scrapedData = {
-            date: todayDate,
-            bidSize,
-            bidPrice,
-            askSize,
-            askPrice,
-            shariahCompliantStatus,
-            // roe: parsedRoe,
-            // peRatio: parsedPeRatio,
-            // fiftyTwoWeekRange: { low: low52Week, high: high52Week },
-            buyPercentage: parsedBuyPercentage
-        };
+    await writeFile(fileName, jsonData);
 
-        // Convert the data object to a JSON string
-        const jsonData = JSON.stringify(scrapedData, null, 2);
-
-        // Write the JSON data to a file with the provided file name
-        fs.writeFileSync(fileName, jsonData);
-
-        // Display the extracted and formatted information
-        console.log(`Bid Size: ${bidSize}, Bid Price: ${bidPrice}, Ask Size: ${askSize}, Ask Price: ${askPrice}`);
-        console.log(`Shariah Compliant Status: ${shariahCompliantStatus}`);
-        console.log(`Buy Percentage: ${parsedBuyPercentage}%`);
-        // console.log(`ROE: ${parsedRoe}%, P/E Ratio: ${parsedPeRatio}, 52 Weeks Range: ${low52Week} - ${high52Week}, Buy Percentage: ${parsedBuyPercentage}%`);
-        console.log(`Data written to file: ${fileName}`);
-
-        // Close the browser immediately after scraping
-        await browser.close();
-    } catch (error) {
-        // Log the error if any occurs
-        console.error('An error occurred:', error);
+    console.log(`Bid Size: ${bidSize}, Bid Price: ${bidPrice}, Ask Size: ${askSize}, Ask Price: ${askPrice}`);
+    console.log(`Shariah Compliant Status: ${shariahCompliantStatus}`);
+    console.log(`Buy Percentage: ${buyPercentage}%`);
+    console.log(`Data written to file: ${fileName}`);
+    
+    return jsonData;
+  } catch (error) {
+    console.error('An error occurred:', error);
+  } finally {
+    if (browser) {
+      await browser.close();
     }
+  }
 };
 
-// Example usage with stock code "5171" and custom file name "custom_data.json"
-scrapeStockInfo("5173", "custom_data.json");
+export default { scrapeStockInfo };

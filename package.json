@@ -1,21 +1,22 @@
 {
-  "name": "scrapping",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "lodash": "^4.17.21",
-    "playwright": "^1.40.0",
-    "ta.js": "^1.16.3",
-    "technicalindicators": "^3.1.0",
-    "trading-signals": "^4.0.0"
-  }
+    "name": "scrapping",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "watch": "node app",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "lodash": "^4.17.21",
+        "playwright": "^1.40.0",
+        "ta.js": "^1.16.3",
+        "technicalindicators": "^3.1.0",
+        "trading-signals": "^4.0.0"
+    }
 }

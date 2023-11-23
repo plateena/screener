@@ -1,0 +1,12 @@
+{
+  "date": "20231123",
+  "bidSize": 180500,
+  "bidPrice": 0.665,
+  "askSize": 36100,
+  "askPrice": 0.67,
+  "shariahCompliantStatus": true,
+  "buyPercentage": 28,
+  "open": 0.68,
+  "high": 0.68,
+  "low": 0.665
+}
