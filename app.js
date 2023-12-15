@@ -7,7 +7,7 @@ import { transformArrayToObject } from './src/function/transform-array-to-object
 
 async function init() {
     ti.setConfig('precision', 4)
-    const data = await fs.readFileSync('data/historical_INFOM.json', 'utf-8')
+    const data = fs.readFileSync('data/historical_INFOM.json', 'utf-8')
     console.log()
     const newData = transformArrayToObject(JSON.parse(data).reverse(), ['open', 'high', 'close', 'low'])
     // Check if the array is empty

@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: "sc-app"
+    volumes: 
+      - ./src/app:/app
+    depends_on:
+      - redis
+    command: ["node", "app.js"]
+
+  redis:
+    image: "redis:alpine"
+    container_name: "sc-db"
+    volumes:
+      - ./redis-data:/data
+    ports:
+      - "63791:6379"
+    command: ["redis-server", "--requirepass", "secret", "--appendonly", "yes"]

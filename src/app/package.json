@@ -18,8 +18,10 @@
     "license": "MIT",
     "dependencies": {
         "fs": "^0.0.1-security",
+        "generic-pool": "^3.9.0",
         "lodash": "^4.17.21",
         "playwright": "^1.40.0",
+        "redis": "^4.6.11",
         "ta.js": "^1.16.3",
         "technicalindicators": "^3.1.0",
         "trading-signals": "^4.0.0"
