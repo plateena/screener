@@ -15,9 +15,10 @@ const login = async () => {
     await page.getByLabel('Email or phone').fill('plateena711@gmail.com')
     await page.getByRole('button', { name: 'Next' }).click()
     await page.getByLabel('Enter your password').fill('platina@711')
-    await page.getByRole('button', { name: 'Next' }).click()
-    await page.waitForTimeout(10000)
-    // await page.context().storageState({path: 'auth/klsescreener.json'})
+    // await page.getByRole('button', { name: 'Next' }).click()
+    await page.waitForTimeout(20000)
+    await page.context().storageState({path: 'auth/klsescreener.json'})
+    console.log("Saved")
     await browser.close()
 }
 
