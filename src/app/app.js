@@ -1,5 +1,5 @@
 import { program } from 'commander';
-// import { handleCommand } from './commandHandler';
+import { initializeHandlers } from './commandHandler.js';
 
 program
     .version('1.0.0') // Set the version number
@@ -8,8 +8,8 @@ program
 program
     .command('status <CODE>')
     .description('Handle a status code')
-    .action((code) => {
-        // handleCommand('status', code);
+    .action(() => {
+        initializeHandlers();
     });
 
 // Parse command line arguments
