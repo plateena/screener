@@ -28,7 +28,6 @@ export const initializeHandlers = async () => {
         let args = process.argv
         args.splice(0, 2);
         const command = args.splice(0, 1)
-        console.log(command[0], commandName, handler.name.replace(/handler$/, ''))
         if (command == commandName) {
             handler(...args); // Call the handler function
         }

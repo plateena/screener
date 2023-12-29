@@ -12,6 +12,14 @@ program
         initializeHandlers();
     });
 
+program
+    .command('watchlist')
+    .argument('commnad', 'the command')
+    .description('Handle a status code')
+    .action(() => {
+        initializeHandlers();
+    });
+
 // Parse command line arguments
 program.parse(process.argv);
 
