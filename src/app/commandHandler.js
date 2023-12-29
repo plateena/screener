@@ -1,6 +1,5 @@
-import { promises as fsPromises, readdirSync } from 'fs';
+import { promises as fsPromises } from 'fs';
 import { join, dirname } from 'path';
-import { program } from 'commander'; // assuming you're using commander
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -27,13 +26,11 @@ export const initializeHandlers = async () => {
         const commandName = handler.name.replace(/Handler$/, '').toLowerCase();
         // Register command handler using commander
         let args = process.argv
-        args.splice(0,2);
-        const command = args.splice(0,1)
-        console.log(command[0], commandName, handler.name.replace(/Handler$/, ''))
-        if(command == commandName) {
+        args.splice(0, 2);
+        const command = args.splice(0, 1)
+        console.log(command[0], commandName, handler.name.replace(/handler$/, ''))
+        if (command == commandName) {
             handler(...args); // Call the handler function
         }
     });
-
-    // program.parse(process.argv);
 };
